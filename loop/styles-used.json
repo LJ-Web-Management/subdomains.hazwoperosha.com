@@ -239,5 +239,11 @@
     "palette": "asphalt #25272b, brushed aluminum #f1f3f5 / #c9ced5, conspicuity red #d0202b + white, amber #f4a10b",
     "fonts": "Oxanium + Mona Sans",
     "layout": "asphalt hero with CSS trailer rear doors (ribbed aluminum, lock bars, HM plate) over red/white conspicuity tape band, fact strip, striped warning callout, aluminum module cards with tape tops, asphalt next-loads box, tape-topped CTA"
+  },
+  {
+    "name": "rail-yard-dusk",
+    "palette": "night #121417, oxide-red boxcar #8c2f1e, hopper olive #5d6b4a, tank black #2b2f36, signal green #34c759 / yellow #ffcc00 / red #ff3b30, ballast paper #efece6",
+    "fonts": "Tomorrow + Inclusive Sans",
+    "layout": "dusk hero with three-lamp rail signal (green lit), steel rails and ties band, fact strip, module cards drawn as coupled freight cars (boxcar, hopper, tank car) with wheel trucks, crossbuck bullets, connecting-routes board, signal-lamp FAQ toggles"
   }
 ]

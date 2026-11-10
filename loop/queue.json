@@ -386,7 +386,11 @@
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/dot-hazmat-carrier-requirements-rail",
-    "status": "pending"
+    "status": "done",
+    "subdomain": "dot-hazmat-rail",
+    "title": "DOT Hazmat Carrier Requirements: Rail",
+    "style": "rail-yard-dusk",
+    "date": "2026-11-10"
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/dot-hazmat-carrier-requirements-vessel",
