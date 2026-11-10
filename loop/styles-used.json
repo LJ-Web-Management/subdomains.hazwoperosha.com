@@ -173,5 +173,11 @@
     "palette": "teal #0f6e78 / orange #f2711c / sun #ffb627 / white / wood crate tan #d9a066",
     "fonts": "Russo One + Mulish",
     "layout": "hero drawn as side of a box truck (white cargo box with diagonal livery stripes, teal cab, CSS wheels), teal stat band, vehicle-type pill chips, wooden cargo-crate module cards, shadowed good-to-know panel, round toggle FAQ, striped teal CTA"
+  },
+  {
+    "name": "chrome-tanker-placard",
+    "palette": "night navy #1c2430 / polished steel gradient / placard orange #f08a1c / ink",
+    "fonts": "Teko (uppercase condensed) + Hind",
+    "layout": "dark hero with CSS chrome tank trailer and rotated orange X placard, H + N = X equation blocks, orange-edged fact tiles, steel-badge numbered syllabus, dark numbered path steps, line FAQ, navy CTA with orange top bar"
   }
 ]
