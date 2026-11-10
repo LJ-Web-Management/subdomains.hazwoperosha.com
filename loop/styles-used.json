@@ -227,5 +227,11 @@
     "palette": "off-white drafting sheet #f7f7f2 with faint grid, black linework #1b1b1b, red #d7263d / blue #1b6ec2 / green #1f9d55 tags",
     "fonts": "Azeret Mono + Wix Madefor Text",
     "layout": "gridded drafting-paper page, hero with engineering title-block fact table, outlined component cards with colored mono tags, instrument-bubble who list, offset-shadow spec box, square-boxed FAQ toggles, black CTA"
+  },
+  {
+    "name": "aeronautical-sectional-chart",
+    "palette": "tan chart paper #f3eedd, terrain green #cfdcb4, airspace magenta #b0207a, chart blue #1d3f8f / #142c66, cargo orange #f7941d",
+    "fonts": "Antonio + Commissioner",
+    "layout": "tan hero with gridded mini sectional chart (Class B/C rings, dashed magenta route, airport tags), blue fact strip in flight-plan terms, dashed magenta waypoint track for modules, passenger vs cargo-only column cards, dashed ticket box, magenta CTA"
   }
 ]

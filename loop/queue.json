@@ -370,7 +370,11 @@
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/dot-hazmat-carrier-requirements-air-iata",
-    "status": "pending"
+    "status": "done",
+    "subdomain": "dot-hazmat-air-iata",
+    "title": "DOT Hazmat Carrier Requirements: Air/IATA",
+    "style": "aeronautical-sectional-chart",
+    "date": "2026-11-10"
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/dot-hazmat-carrier-requirements-highway",

@@ -1,0 +1,26 @@
+# DOT Hazmat Carrier Requirements: Air/IATA
+
+> 3-hour online modal-specific hazmat training for employers and employees who transport hazardous materials by air, covering the DOT Hazardous Materials Regulations in 49 CFR Part 175 (Carriage by Aircraft) and applicable IATA requirements. Available in English and Spanish. Offered by HAZWOPER OSHA Training (https://hazwoper-osha.com).
+
+## Key facts
+- Duration: 3 hours; 3 modules, 5 lessons, final exam
+- Credits: 0.3 CEU
+- Price: $49.99 per person; bulk pricing available
+- Delivery: 100% online, 24/7; SCORM, virtual instructor-led and in-person formats also available
+- Languages: English, Spanish
+- Prerequisites: none (builds on 4-hour DOT Hazmat General Awareness)
+- Certificate: downloadable on passing; valid 3 years (DOT recurrent training at least every three years, per 49 CFR 172 Subpart H)
+
+## Modules
+1. Hazardous Materials Regulations (definitions and classes, purpose of the HMR, enforcing agencies, training requirements)
+2. Hazardous Materials Table (Columns 1 to 10, appendices, hazard classes table)
+3. Carrier Requirements: Air (shipper and carrier responsibilities, permitted hazmat, packaging, quantity limits by cargo location, pilot-in-command information, segregation, stowage, incident reporting, FAA training expectations)
+
+## Who should take it
+Air carriers, indirect air carriers and freight forwarders; staff who package, mark, label, load or unload hazmat; flight crew; air cargo security and inspection staff; emergency responders and airport security; compliance officers.
+
+## Links
+- Enroll: https://hazwoper-osha.com/online-courses/dot-hazmat-carrier-requirements-air-iata
+- 4-Hour DOT Hazmat General Awareness: https://hazwoper-osha.com/online-courses/dot-hazmat-transportation-general-awareness-training
+- 10-Hour DOT Hazmat Advanced General Awareness: https://hazwoper-osha.com/online-courses/dot-hazmat-transportation-advanced-general-awareness-training
+- Phone: 1-866-429-6742
