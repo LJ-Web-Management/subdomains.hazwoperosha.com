@@ -526,7 +526,11 @@
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/drug-and-alcohol-abuse-prevention-training-for-construction-workers",
-    "status": "pending"
+    "status": "done",
+    "subdomain": "construction-drug-alcohol-prevention",
+    "title": "Drug and Alcohol Abuse Prevention Training for Construction Workers",
+    "style": "osb-jobsite-hoarding",
+    "date": "2026-11-10"
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/dust-disturbance-and-mitigation-awareness-training",

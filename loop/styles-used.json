@@ -329,5 +329,11 @@
     "palette": "walnut desk #3a2c1d / #2a1f14, manila #ead7a4 / #dcc386, stamp red #b3261e, navy #1f3b5c",
     "fonts": "Bitter + Mukta",
     "layout": "walnut-grain hero with manila case folder and tab, red double-ruled DOCUMENT IT rubber stamp, navy fact strip, specific/contemporaneous/articulable cards, manila tab chips for drug classes, dashed BAC box, folder-tab lesson cards"
+  },
+  {
+    "name": "osb-jobsite-hoarding",
+    "palette": "OSB tan #c9a774 / #b48f5a, marking-paint green #2fbf4a, white spray, black site band #151515, warm paper #f5f1e8",
+    "fonts": "Epilogue",
+    "layout": "paper hero with CSS OSB panel and glowing spray-painted CLEAR HEAD / SAFE SITE, black band fact strip, OSB-textured risk tiles, green-edged numbered lesson cards, black OSHA-angle box, green-topped CTA"
   }
 ]
