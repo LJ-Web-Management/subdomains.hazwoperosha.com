@@ -197,5 +197,11 @@
     "palette": "bus yellow #ffb81c, rub-rail black #1a1a1a, stop-arm red #c8102e, chalkboard green #23412f, window glass #cfe3ee",
     "fonts": "Fredoka + Readex Pro",
     "layout": "yellow bus-body hero with red octagon stop arm, black rub rails framing a row of window-shaped stat tiles, module cards with numbered lesson lists, chalkboard checklist, black CTA with yellow top band"
+  },
+  {
+    "name": "liquid-surge-cross-section",
+    "palette": "deep navy #0a2540, aqua liquid #2ec4d6 / #1694a8, foam #e6f8fa",
+    "fonts": "Unbounded + Schibsted Grotesk",
+    "layout": "navy hero with liquid-fill gauge tiles for stats, 119/1,000 gallon threshold cards, CSS tank cross-sections (baffled, bulkhead, smooth-bore), lesson list with half-filled counters, navy who panel, wave-split CTA"
   }
 ]

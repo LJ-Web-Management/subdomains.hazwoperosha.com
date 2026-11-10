@@ -1,0 +1,34 @@
+# CDL Tanker (N) Endorsement Training
+
+> 1-hour online course for drivers adding the Tank Vehicle (N) endorsement to a CDL, based on 49 CFR Part 383. Prepares learners for the state N endorsement knowledge test. Offered by HAZWOPER OSHA Training (https://hazwoper-osha.com).
+
+## Key facts
+- Duration: 1 hour; 2 lessons plus final exam (80% to pass)
+- Credits: 0.1 CEU
+- Price: $49.99 per person; bulk pricing available
+- Delivery: 100% online, 24/7; certificate available immediately after passing
+- Prerequisite: valid commercial driver's license
+- Tank vehicle definition: any single tank of 119 gallons or more, or multiple tanks totaling 1,000 gallons or more, permanently or temporarily attached
+- FMCSA-reported entry-level driver training is required for Class A, B and C and the H, P and S endorsements, not for N; the N endorsement requires passing the state tank vehicle knowledge test
+- Hazardous liquids or gases in tanks require the X endorsement (H + N)
+- State acceptance: every state except Washington
+
+## Lessons
+1. Regulatory Overview (FMCSA requirements, CDL tank endorsement rules, permits, route considerations, driver responsibilities)
+2. Tank Vehicles Operation and Inspection (baffled, bulkhead and smooth-bore tanks; liquid surge; pre-trip checks of valves, manhole covers, hoses and emergency shutoffs; curves, ramps and partial loads)
+
+## Learning objectives
+- Inspect tank vehicles for structural integrity, leaks, valves and safety equipment
+- Explain how liquid surge and a high center of gravity affect stability
+- Calculate outage (ullage) when loading
+- Apply safe driving techniques on curves, ramps and slippery roads
+- Respond to emergencies such as brake failure or vehicle instability
+
+## Who should take it
+CDL holders adding N to a Class A or B license; H-endorsed drivers working toward X; dry van or flatbed drivers hauling liquid totes or IBCs; drivers of fuel, food-grade liquids or bulk industrial products.
+
+## Links
+- Enroll: https://hazwoper-osha.com/online-courses/cdl-entry-level-driver-training-eldt-tanker-n-endorsement
+- Hazmat and Tanker (X) ELDT: https://hazwoper-osha.com/online-courses/cdl-entry-level-driver-training-eldt-hazmat-and-tank-vehicle-x-endorsement
+- All ELDT courses: https://hazwoper-osha.com/online-courses/entry-level-driver-training-eldt-for-cdl
+- Phone: 1-866-429-6742
