@@ -428,7 +428,11 @@
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/dot-hazmat-function-specific-training-packaging",
-    "status": "pending"
+    "status": "done",
+    "subdomain": "dot-hazmat-packaging",
+    "title": "DOT Hazmat Function Specific Training: Packaging",
+    "style": "nested-packaging-diagram",
+    "date": "2026-11-10"
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/dot-hazmat-function-specific-training-placarding",

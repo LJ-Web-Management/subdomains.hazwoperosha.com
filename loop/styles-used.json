@@ -263,5 +263,11 @@
     "palette": "cobalt drum blue #123a6b / #1c5296 / #0b2647, spray white #f4f6f8, steel plate #d9dde2, safety orange #ff6a13",
     "fonts": "Allerta Stencil + Be Vietnam Pro",
     "layout": "cobalt hero with CSS steel drum (rolling hoops, sheen) and glowing white stencil text, dark fact strip, riveted steel-plate topic grid, stencil-numbered lesson cards, cobalt related-training box"
+  },
+  {
+    "name": "nested-packaging-diagram",
+    "palette": "deep spruce #0f3d3e / #165556, mint #dff3ec / #bfe6d8, amber #f2a900, pale mint paper #f4faf7",
+    "fonts": "Familjen Grotesk + Sometype Mono",
+    "layout": "spruce hero with nested combination-packaging diagram (solid outer box, dashed amber inner receptacle, hazmat core), mint fact strip, dashed-border topic cards, packing-group letter tiles (X/Y/Z) on mint band, spruce related box"
   }
 ]
