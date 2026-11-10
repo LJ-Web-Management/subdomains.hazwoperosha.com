@@ -143,5 +143,11 @@
     "palette": "white / ink #1a1a1a / fire red #c8102e / exit green #0a7c3e / grid paper",
     "fonts": "Sofia Sans Condensed (uppercase) + Sofia Sans",
     "layout": "CSS floor-plan hero with rooms, walls, dashed red route arrow to green EXIT and assembly point, red fact strip, four big P.A.S.S. letter tiles, red-edged fight-or-flee callout, big red numeral lesson list, dash-bullet audience + black note box, red CTA"
+  },
+  {
+    "name": "ghs-shipping-label",
+    "palette": "white label on light grey #ececec / ink #111 / GHS red #d71920",
+    "fonts": "Libre Franklin (900 headings)",
+    "layout": "hero built as a GHS shipping label (product identifier, signal word, statements, red rotated diamonds, supplier footer), 16-cell SDS section grid, bordered lesson cards, black California-rules tiles, red-left-border audience list, bordered FAQ with red square toggles, red CTA"
   }
 ]

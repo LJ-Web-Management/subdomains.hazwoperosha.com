@@ -1,0 +1,32 @@
+# Cal/OSHA Hazard Communication (HazCom) with GHS Training
+
+> 2-hour online course on California's Hazard Communication Standard, Title 8 CCR Section 5194, supplemented by the 2024 federal OSHA standard 29 CFR 1910.1200. Teaches GHS hazard classification, labels, pictograms and Safety Data Sheets, plus California-only requirements. Offered by HAZWOPER OSHA Training (https://hazwoper-osha.com).
+
+## Key facts
+- Standards: Title 8 CCR §5194; 29 CFR 1910.1200 (HCS 2024 update)
+- Duration: 2 hours; 4 lessons plus final exam
+- Credits: 0.2 CEU
+- Price: $59.99 per person online; bulk pricing from 2 seats; SCORM, virtual and in-person options
+- Delivery: 100% online, 24/7; English and Spanish
+- Training timing: at initial assignment and when a new chemical hazard is introduced; annual refresher recommended as best practice
+- Prerequisites: none
+
+## California-only requirements covered
+- Director's List of Hazardous Substances
+- Plain-language health risk description on SDSs
+- 30-day rule for sharing revised SDS information
+- Missing SDS: written inquiry to the supplier within 7 working days; copy to the Director of Industrial Relations if no response within 25 working days
+- Proposition 65: following §5194 can meet Prop 65 employee warning requirements for chemicals covered by both; employers with fewer than 10 employees are not subject to Prop 65
+- §5194 applies to public (state, county, city) as well as private employers
+
+## Lessons
+1. Cal/OSHA HazCom Aligned with the GHS
+2. Hazard Classification
+3. Hazardous Chemical Labels (pictograms, DOT labels, NFPA/HMIS differences)
+4. Safety Data Sheets (all 16 sections)
+
+## Links
+- Enroll: https://hazwoper-osha.com/online-courses/calosha-hazard-communication-hazcom-with-ghs-training
+- HazCom and H2S courses: https://hazwoper-osha.com/online-courses/hazcom-and-h2s-training
+- Landing page: https://cal-osha-hazcom-ghs.hazwoperosha.com/
+- Provider phone: 1-866-429-6742

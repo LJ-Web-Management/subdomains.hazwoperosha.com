@@ -223,7 +223,11 @@
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/calosha-hazard-communication-hazcom-with-ghs-training",
-    "status": "pending"
+    "status": "done",
+    "subdomain": "cal-osha-hazcom-ghs",
+    "title": "Cal/OSHA Hazard Communication (HazCom) with GHS Training",
+    "style": "ghs-shipping-label",
+    "date": "2026-11-10"
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/calosha-personal-protective-equipment-ppe-training",
