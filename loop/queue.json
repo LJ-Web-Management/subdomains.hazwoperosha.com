@@ -199,7 +199,11 @@
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/calosha-chemical-handling-safety-training",
-    "status": "pending"
+    "status": "done",
+    "subdomain": "cal-osha-chemical-handling",
+    "title": "Cal/OSHA Chemical Handling Safety Training",
+    "style": "periodic-table-lab",
+    "date": "2026-11-10"
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/calosha-compressed-gas-cylinder-safety-training",

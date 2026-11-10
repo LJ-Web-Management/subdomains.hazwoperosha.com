@@ -125,5 +125,11 @@
     "palette": "exit-sign green #00703c / dark green #00532c / white / paper #f6f7f5 / ink #18201b",
     "fonts": "Overpass (highway-sign style)",
     "layout": "green top bar, white hero with green bottom rule, full-width green band with three exit-sign Run/Hide/Fight tiles with CSS arrow icons, left-ruled lesson cards, numbered training-trigger list beside records retention tiles, square-bullet audience list, boxed FAQ, ink CTA"
+  },
+  {
+    "name": "periodic-table-lab",
+    "palette": "lab white #f8fafc / slate ink #1e293b / pastel element categories: amber #fde68a, blue #bfdbfe, red #fecaca, green #bbf7d0, purple #e9d5ff",
+    "fonts": "DM Sans + DM Mono",
+    "layout": "hero with 2x2 periodic-element tiles (Co/Sv/Ox/Pa), mono-label fact strip, lesson cards with element-symbol badges, square-bullet audience grid, mono standards table, slate CTA"
   }
 ]

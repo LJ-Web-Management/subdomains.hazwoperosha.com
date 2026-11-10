@@ -1,0 +1,28 @@
+# Cal/OSHA Chemical Handling Safety Training
+
+> 2-hour online course for California workers on the hazards of acids, alkaline cleaners, solvents, oxidizers and passivation and cleaning bath chemistries used in passivation, parts cleaning and metal finishing. Offered by HAZWOPER OSHA Training (https://hazwoper-osha.com).
+
+## Key facts
+- Standards: Cal/OSHA Title 8 CCR §3203 (IIPP), §5194 (Hazard Communication), §5141, §5154 (open-surface tank operations), §5162–5165
+- Also covers: Proposition 65 warnings, exposure limits, ventilation, PPE, eyewash and shower requirements, spill and exposure response, workers' rights
+- Duration: 2 hours; 4 lessons plus final exam
+- Credits: 0.2 CEU
+- Price: $55.99 per seat online or SCORM; bulk pricing from 2 seats; virtual instructor-led $199/seat and in-person $750/seat (minimum 10)
+- Delivery: 100% online, 24/7; English and Spanish
+- Certificate: instant PDF on passing, valid 12 months
+- Refresher: §5194 requires training at initial assignment and when a new hazard is introduced; annual refresher recommended
+- Prerequisites: none
+
+## Who it is for
+California workers handling acids, cleaners, solvents and oxidizers; passivation, metal finishing, plating, parts cleaning, aerospace, medical device and precision manufacturing staff; supervisors and EHS; maintenance on tanks, pumps and piping; shipping, receiving, warehouse and lab workers; spill responders.
+
+## Lessons
+1. Cal/OSHA Regulations for Chemical Handling
+2. Corrosive Safety
+3. Solvent and Oxidizer Safety
+4. Safe Handling of Passivation and Cleaning Bath Chemistries
+
+## Links
+- Enroll: https://hazwoper-osha.com/online-courses/calosha-chemical-handling-safety-training
+- Landing page: https://cal-osha-chemical-handling.hazwoperosha.com/
+- Provider phone: 1-866-429-6742
