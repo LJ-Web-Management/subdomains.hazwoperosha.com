@@ -191,5 +191,11 @@
     "palette": "night #0d0f12, LED amber #ffb000, bus blue #0057b8, transfer green #00a36c",
     "fonts": "Doto + Rubik",
     "layout": "LED destination-sign hero with ticket-stub fact strip, vertical transit route line with module stops, blue rider chip band, numbered path steps, LED sign CTA"
+  },
+  {
+    "name": "school-bus-side",
+    "palette": "bus yellow #ffb81c, rub-rail black #1a1a1a, stop-arm red #c8102e, chalkboard green #23412f, window glass #cfe3ee",
+    "fonts": "Fredoka + Readex Pro",
+    "layout": "yellow bus-body hero with red octagon stop arm, black rub rails framing a row of window-shaped stat tiles, module cards with numbered lesson lists, chalkboard checklist, black CTA with yellow top band"
   }
 ]

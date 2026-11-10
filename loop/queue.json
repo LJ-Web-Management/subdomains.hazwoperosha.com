@@ -287,7 +287,11 @@
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/cdl-entry-level-driver-training-eldt-school-bus-s-endorsement",
-    "status": "pending"
+    "status": "done",
+    "subdomain": "cdl-school-bus-s-endorsement",
+    "title": "CDL ELDT School Bus (S) Endorsement",
+    "style": "school-bus-side",
+    "date": "2026-11-10"
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/cdl-entry-level-driver-training-eldt-tanker-n-endorsement",
