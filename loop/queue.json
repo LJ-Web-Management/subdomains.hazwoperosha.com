@@ -436,7 +436,11 @@
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/dot-hazmat-function-specific-training-placarding",
-    "status": "pending"
+    "status": "done",
+    "subdomain": "dot-hazmat-placarding",
+    "title": "DOT Hazmat Function Specific Training: Placarding",
+    "style": "loading-dock-plan-view",
+    "date": "2026-11-10"
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/dot-hazmat-function-specific-training-security-awareness",

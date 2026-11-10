@@ -269,5 +269,11 @@
     "palette": "deep spruce #0f3d3e / #165556, mint #dff3ec / #bfe6d8, amber #f2a900, pale mint paper #f4faf7",
     "fonts": "Familjen Grotesk + Sometype Mono",
     "layout": "spruce hero with nested combination-packaging diagram (solid outer box, dashed amber inner receptacle, hazmat core), mint fact strip, dashed-border topic cards, packing-group letter tiles (X/Y/Z) on mint band, spruce related box"
+  },
+  {
+    "name": "loading-dock-plan-view",
+    "palette": "dock slate #2f3640 / #232930, dock yellow #f6c90e, signal red #e4572e, warm paper #f5f4f0",
+    "fonts": "Afacad + Spline Sans Mono",
+    "layout": "slate hero with yellow bay lines and top-down rig outline showing placard diamonds on all four sides, yellow fact strip, topic cards numbered with red placard diamonds, yellow-edged related box, hazard-stripe CTA border"
   }
 ]
