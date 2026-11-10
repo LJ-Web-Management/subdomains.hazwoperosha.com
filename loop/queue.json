@@ -9,7 +9,11 @@
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/40-hour-em-385-1-1-training",
-    "status": "pending"
+    "status": "done",
+    "subdomain": "em-385-40-hour",
+    "title": "EM 385-1-1 40-Hour Training",
+    "style": "military-field-manual",
+    "date": "2026-11-10"
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/8-hour-hazwoper-incident-command-training",

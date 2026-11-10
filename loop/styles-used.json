@@ -5,5 +5,11 @@
     "fonts": "IBM Plex Sans + IBM Plex Mono",
     "layout": "drafting-grid hero with SVG flow diagram, numbered spec sections, 3-col module cards, dark facts grid, accordion FAQ",
     "site": "24-hour-hazwoper-tsd"
+  },
+  {
+    "name": "military-field-manual",
+    "palette": "olive #3b4a2f / khaki #e9e2c9 / signal orange #c8401c on #f6f2e3",
+    "fonts": "Saira Stencil One + Barlow",
+    "layout": "diagonal-hatch hero with rotated stamp, sticky left data-sheet card + right content column, numbered SEC headings, 2-column chapter table of contents, boxed FAQ"
   }
 ]
