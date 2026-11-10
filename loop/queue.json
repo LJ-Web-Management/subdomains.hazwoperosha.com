@@ -271,7 +271,11 @@
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/cdl-entry-level-driver-training-eldt-hazmat-h-endorsement",
-    "status": "pending"
+    "status": "done",
+    "subdomain": "cdl-hazmat-h-endorsement",
+    "title": "CDL ELDT Hazmat (H) Endorsement",
+    "style": "dot-hazard-class-board",
+    "date": "2026-11-10"
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/cdl-entry-level-driver-training-eldt-passenger-p-endorsement",
