@@ -311,5 +311,11 @@
     "palette": "cream ruled paper #fdfbf5 with blue rules and red margin, highlighter yellow/green/pink/blue, ballpoint blue #2547a3, ink #23252e",
     "fonts": "Kalam + Sen",
     "layout": "ruled notebook hero with highlighted headline and taped index card of highlighted topics, dark fact strip with handwritten labels, ruled-paper module cards, handwritten checkmark bullets, tilted yellow sticky note, highlighter-swipe CTA"
+  },
+  {
+    "name": "thermal-shipping-label",
+    "palette": "warehouse concrete #e9e7e1, thermal-label white, heavy black #111, scanner teal #00a3a3 / #007a7a",
+    "fonts": "Roboto Condensed + Roboto + Libre Barcode 39",
+    "layout": "concrete hero with tilted 4x6 thermal shipping label (ruled cells, barcode, glowing teal scanner line), black fact strip, black-tab module cards with teal function-specific highlights, black-ruled objective tiles, barcode bullets, black-tab FAQ toggles"
   }
 ]

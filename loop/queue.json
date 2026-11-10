@@ -497,7 +497,11 @@
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/dot-hazmat-transportation-general-awareness-with-function-specific-training-in-packaging-and-labeling",
-    "status": "pending"
+    "status": "done",
+    "subdomain": "dot-hazmat-packaging-labeling",
+    "title": "DOT Hazmat General Awareness with Function-Specific Packaging & Labeling",
+    "style": "thermal-shipping-label",
+    "date": "2026-11-10"
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/dot-hazmat-transportation-supervisor-training-for-highway",
