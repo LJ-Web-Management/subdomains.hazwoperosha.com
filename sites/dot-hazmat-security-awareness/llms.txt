@@ -1,0 +1,34 @@
+# DOT Hazmat Function Specific Training: Security Awareness
+
+> 2-hour online security awareness training for hazmat employers and employees (manufacturers, shippers and carriers) under DOT Hazardous Materials Regulations 49 CFR Part 172 Subpart I. Available in English and Spanish. Offered by HAZWOPER OSHA Training (https://hazwoper-osha.com).
+
+## Key facts
+- Duration: 2 hours; 2 modules, 3 lessons, final exam
+- Credits: 0.2 CEU
+- Price: $39.99 per person; bulk pricing available
+- Delivery: 100% online, 24/7; SCORM, virtual instructor-led and face-to-face formats also available
+- Languages: English, Spanish
+- Prerequisites: none (builds on 4-hour DOT Hazmat General Awareness)
+- Certificate: downloadable on passing; valid 3 years (recurrent training at least every three years, and when relevant regulations change)
+
+## Topics
+- Security risks in hazmat transportation and methods to improve security
+- Training for employees at facilities required to have a security plan
+- Three minimum components of a security plan: personnel security, unauthorized access, en route security
+- Risk Management Self-Evaluation Framework (RMSEF)
+- Technology and communications systems for safe transit
+
+## Lessons
+1. Regulatory Overview
+2. Security and Safety Plans
+3. Specific Security Measures
+
+## Who should take it
+Manufacturers, shippers and carriers of hazmat; workers responsible for hazmat package security; drivers and assistants; public security, emergency response and safety personnel; compliance officers.
+
+## Links
+- Enroll: https://hazwoper-osha.com/online-courses/dot-hazmat-function-specific-training-security-awareness
+- 4-Hour DOT Hazmat General Awareness: https://hazwoper-osha.com/online-courses/dot-hazmat-transportation-general-awareness-training
+- 10-Hour DOT Hazmat Advanced General Awareness: https://hazwoper-osha.com/online-courses/dot-hazmat-transportation-advanced-general-awareness-training
+- Carrier Requirements: Highway: https://hazwoper-osha.com/online-courses/dot-hazmat-carrier-requirements-highway
+- Phone: 1-866-429-6742

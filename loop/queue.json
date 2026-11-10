@@ -444,7 +444,11 @@
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/dot-hazmat-function-specific-training-security-awareness",
-    "status": "pending"
+    "status": "done",
+    "subdomain": "dot-hazmat-security-awareness",
+    "title": "DOT Hazmat Function Specific Training: Security Awareness",
+    "style": "tamper-evident-seal",
+    "date": "2026-11-10"
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/dot-hazmat-function-specific-training-shipping-papers",

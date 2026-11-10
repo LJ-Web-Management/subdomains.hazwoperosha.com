@@ -275,5 +275,11 @@
     "palette": "dock slate #2f3640 / #232930, dock yellow #f6c90e, signal red #e4572e, warm paper #f5f4f0",
     "fonts": "Afacad + Spline Sans Mono",
     "layout": "slate hero with yellow bay lines and top-down rig outline showing placard diamonds on all four sides, yellow fact strip, topic cards numbered with red placard diamonds, yellow-edged related box, hazard-stripe CTA border"
+  },
+  {
+    "name": "tamper-evident-seal",
+    "palette": "midnight navy #14213d / #1d2f57, security-tape red #d62839, cream #fbf7ef",
+    "fonts": "Anybody + Radio Canada",
+    "layout": "navy hero with concentric guilloche rings and tilted red tamper-evident VOID seal, red-ruled fact strip, three security-plan pillar cards with perforated red tops, navy lesson cards with dashed seal counters, dashed red related box, perforated CTA border"
   }
 ]
