@@ -191,7 +191,11 @@
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/calosha-active-shooter-workplace-violence-awareness-training",
-    "status": "pending"
+    "status": "done",
+    "subdomain": "cal-osha-active-shooter",
+    "title": "Cal/OSHA Active Shooter and Workplace Violence Awareness Training",
+    "style": "evacuation-signage",
+    "date": "2026-11-10"
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/calosha-chemical-handling-safety-training",

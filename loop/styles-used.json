@@ -119,5 +119,11 @@
     "palette": "slate canvas #eef2f7 / white panels / navy #0f172a / emerald #059669 / blue #2563eb / amber status",
     "fonts": "Figtree",
     "layout": "dashboard UI: KPI tiles, colored status track (online / field / refresher), horizontal bar chart of lessons per module, two-up panels with ring bullets, FAQ panel, navy CTA bar"
+  },
+  {
+    "name": "evacuation-signage",
+    "palette": "exit-sign green #00703c / dark green #00532c / white / paper #f6f7f5 / ink #18201b",
+    "fonts": "Overpass (highway-sign style)",
+    "layout": "green top bar, white hero with green bottom rule, full-width green band with three exit-sign Run/Hide/Fight tiles with CSS arrow icons, left-ruled lesson cards, numbered training-trigger list beside records retention tiles, square-bullet audience list, boxed FAQ, ink CTA"
   }
 ]
