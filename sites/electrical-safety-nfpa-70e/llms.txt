@@ -1,0 +1,32 @@
+# OSHA Electrical Safety Training (NFPA 70E 2027)
+
+> 3-hour online electrical safety course based on OSHA 29 CFR 1926 Subpart K (construction), 29 CFR 1910 Subpart S (general industry) and the 2027 edition of NFPA 70E. Available in English and Spanish. Offered by HAZWOPER OSHA Training (https://hazwoper-osha.com).
+
+## Key facts
+- Duration: 3 hours; 2 modules, 7 lessons with quizzes, final exam
+- Credits: 0.3 CEU
+- Price: $59.99 per person; bulk pricing available
+- Delivery: 100% online, mobile-friendly, 24/7; SCORM, virtual and in-person classroom formats also available
+- Languages: English, Spanish
+- Certificate: downloadable on passing; valid 3 years
+- OSHA standards are the law (performance-based); NFPA 70E is the consensus standard of prescriptive work practices OSHA looks to; following 70E is usually not itself legally required
+- NFPA 70E: employers audit the electrical safety program at least every three years
+
+## Lessons
+Module 1: OSHA and the NFPA
+1. What Is Electricity? (conductors, insulators, voltage, current, resistance, Ohm's law)
+2. Electrical Hazards (shock vs. electrocution, falls, electrical fires)
+3. Regulatory Overview (OSHA and NFPA requirements, electrical safety programs, 3-stage safety model)
+Module 2: Hazard Controls and Safe Work Practices
+4. Controlling Electrical Hazards (insulation, guarding, grounding, bonding, overcurrent protection, working space)
+5. Electrically Safe Work Condition (lockout/tagout, circuits that cannot be de-energized)
+6. Protective Equipment (PPE, arc-rated clothing, insulated tools, alerting techniques)
+7. Safe Work Practices (wiring, overhead power line clearances, illumination, housekeeping, emergencies)
+
+## Who should take it
+Electricians and electrical engineers; maintenance, repair and HVAC technicians; construction workers; equipment operators; safety, facility and electrical program managers; electrical inspectors; janitorial staff near exposed equipment.
+
+## Links
+- Enroll: https://hazwoper-osha.com/online-courses/electrical-safety-training-nfpa-70e
+- Arc Flash Safety Training (NFPA 70E): https://hazwoper-osha.com/online-courses/arc-flash-safety-training-nfpa-70e
+- Phone: 1-866-429-6742

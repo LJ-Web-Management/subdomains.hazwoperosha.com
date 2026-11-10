@@ -542,7 +542,11 @@
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/electrical-safety-training-nfpa-70e",
-    "status": "pending"
+    "status": "done",
+    "subdomain": "electrical-safety-nfpa-70e",
+    "title": "OSHA Electrical Safety Training (NFPA 70E 2027)",
+    "style": "breaker-panel",
+    "date": "2026-11-10"
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/em-385-1-1-16-hour-training-for-workers",

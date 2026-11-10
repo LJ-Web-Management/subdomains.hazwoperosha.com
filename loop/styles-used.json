@@ -341,5 +341,11 @@
     "palette": "desert sand #d9c7a7 / #c4ac83, ochre #9a6b2f, slate #2f3640, water blue #2c7fb8, paper #f6f1e7",
     "fonts": "Spectral + Asap",
     "layout": "sand-gradient hero with masked dotted particulate haze, slate fact strip, five-step lesson path with dusty numbered discs, pale water-blue control cards, two-column who list with particle bullets, haze-to-clear-air gradient CTA"
+  },
+  {
+    "name": "breaker-panel",
+    "palette": "ANSI-61 enclosure grey #5d636b / #3a3e44, panel #c9cdd2, breaker black #1c1d20, copper bus #c46f2e, LOTO red #d3242c, indicator green #36b45a",
+    "fonts": "Golos Text + Share Tech Mono",
+    "layout": "brushed-grey hero with CSS breaker panel (copper bus bar, black breakers with on-indicators, red LOTO breaker), dark fact strip, two-column typed panel-schedule lesson directory, breaker-indicator bullets, copper-topped OSHA vs NFPA note"
   }
 ]
