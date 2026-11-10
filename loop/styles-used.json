@@ -209,5 +209,11 @@
     "palette": "topsoil #3b2a1e, clay #8a5a3c, sand #c99a5b, rock grey #5b6168, survey orange #f26b1d, cream #faf5ee",
     "fonts": "Zilla Slab + Hanken Grotesk",
     "layout": "topsoil hero above layered strata band with trench cut and orange shield box, grey fact strip, key-threshold number cards, soil-type slope diagram cards, timeline module list, duties box"
+  },
+  {
+    "name": "toxic-gas-cloud",
+    "palette": "ink-violet night #14161f, sulfur green #c6f03c, amber #ffb020, red #ff4d4d, violet #6b2bd9",
+    "fonts": "Syne + Onest",
+    "layout": "night hero with glowing sulfur and violet haze and blob-shaped gas property bubbles, sulfur fact strip, color-coded ppm exposure ladder, dark module cards with glow, standards card with offset shadow"
   }
 ]

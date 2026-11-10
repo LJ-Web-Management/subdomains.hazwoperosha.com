@@ -1,0 +1,34 @@
+# Comprehensive Hydrogen Sulfide (H2S) Safety Training for the Oil & Gas Industry
+
+> 4-hour operations-level online hydrogen sulfide safety course for oil and gas (rigs, completions, production, pipelines, refineries), in accordance with ANSI/ASSP Z390.1-2024 and API RP 49 and 55. Available in English and Spanish. Offered by HAZWOPER OSHA Training (https://hazwoper-osha.com).
+
+## Key facts
+- Duration: 4 hours; 5 modules, 13 lessons, final exam
+- Credits: 0.4 CEU
+- Price: $199.99 per person; bulk pricing available
+- Delivery: 100% online, 24/7; SCORM, virtual instructor-led and on-site formats also available
+- Languages: English, Spanish
+- Prerequisites: none
+- Certificate: downloadable on passing; valid 1 year (ANSI Z390.1 calls for annual retraining)
+- Standards covered: ANSI/ASSP Z390.1-2024; API RP 49 and 55; OSHA 29 CFR 1910 and 1926; BSEE 30 CFR 250.490
+
+## Key U.S. H2S exposure limits
+- OSHA construction PEL: 10 ppm, 8-hour TWA
+- OSHA general industry ceiling: 20 ppm
+- OSHA general industry peak: 50 ppm, up to 10 minutes once per 8-hour shift if no other measurable exposure
+- NIOSH IDLH: 100 ppm
+
+## Modules
+1. Introduction to Hydrogen Sulfide and Safety Regulations (overview of H2S, regulations, health effects)
+2. Risk Assessment, Safety Culture, and Detection (risk assessment, detection and monitoring, using a gas monitor)
+3. Hazard Control and Safe Work Practices (hazard controls, safe work practices, PPE)
+4. Respiratory Safety and Equipment Management (respiratory protection, respirator use and maintenance)
+5. Advanced Risk Management and Emergency Response (oil and gas risk management, emergency response and first aid)
+
+## Who should take it
+Oil and gas workers in drilling, extraction and refining; pipeline operators and maintenance staff; sewage and wastewater treatment workers; chemical and petrochemical plant employees; manufacturing workers exposed to hazardous gases; safety managers; emergency responders; contractors at oil, gas and industrial sites.
+
+## Links
+- Enroll: https://hazwoper-osha.com/online-courses/comprehensive-h2s-training
+- H2S Awareness (shorter option): https://hazwoper-osha.com/online-courses/osha-hydrogen-sulfide-h2s-awareness-training-2-year
+- Phone: 1-866-429-6742

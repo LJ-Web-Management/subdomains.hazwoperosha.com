@@ -316,7 +316,11 @@
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/comprehensive-h2s-training",
-    "status": "pending"
+    "status": "done",
+    "subdomain": "comprehensive-h2s",
+    "title": "Comprehensive H2S Safety Training for Oil & Gas",
+    "style": "toxic-gas-cloud",
+    "date": "2026-11-10"
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/confined-space-awareness-training-for-construction-industry",
