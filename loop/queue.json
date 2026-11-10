@@ -78,7 +78,11 @@
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/back-safety-and-injury-prevention-training",
-    "status": "pending"
+    "status": "done",
+    "subdomain": "back-safety",
+    "title": "Back Safety and Injury Prevention Training",
+    "style": "soft-wellness",
+    "date": "2026-11-10"
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/basic-incident-command-system-for-initial-response-ics-200-training",

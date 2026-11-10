@@ -53,5 +53,11 @@
     "palette": "light grey-blue #e9eef2 / charcoal #1f2933 / LCD green #c8f7c5 / signal green #00b37e / amber bezel #f5a623",
     "fonts": "Chakra Petch + Nunito Sans",
     "layout": "rounded white panels on grey, CSS 4-gas meter device mock with LCD channels, dark readout tiles, check-circle list, pill chips, vertical numbered module track, 2-col standards table, dark rounded CTA card"
+  },
+  {
+    "name": "soft-wellness",
+    "palette": "pale sage #eef3ec / sage #cfe0c8 / deep sage #3c5a47 / peach #f9d9c6 / terracotta #e07a52 / sand #f3ead8",
+    "fonts": "Outfit + Karla",
+    "layout": "centered single column, organic blob shapes behind hero, SVG vertebrae stack in blob frame, pill badges, three pastel audience cards, two white lesson cards, rounded outcome pills, rounded FAQ, deep-sage rounded CTA"
   }
 ]
