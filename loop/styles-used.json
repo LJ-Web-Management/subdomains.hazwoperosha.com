@@ -323,5 +323,11 @@
     "palette": "slate office wall #3d4451, whiteboard white, aluminum frame #c3c8cf, dry-erase blue #1d5fd1 / red #d93a3a / green #1f9a54, sticky-note yellow",
     "fonts": "Kumbh Sans + Permanent Marker",
     "layout": "slate hero with aluminum-framed whiteboard (marker-tray with markers, hand-checked supervisor checklist), marker-lettered fact strip, module cards with alternating marker-color numerals, arrow bullets, tilted sticky note for drivers"
+  },
+  {
+    "name": "manila-case-folder",
+    "palette": "walnut desk #3a2c1d / #2a1f14, manila #ead7a4 / #dcc386, stamp red #b3261e, navy #1f3b5c",
+    "fonts": "Bitter + Mukta",
+    "layout": "walnut-grain hero with manila case folder and tab, red double-ruled DOCUMENT IT rubber stamp, navy fact strip, specific/contemporaneous/articulable cards, manila tab chips for drug classes, dashed BAC box, folder-tab lesson cards"
   }
 ]

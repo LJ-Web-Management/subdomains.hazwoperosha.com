@@ -518,7 +518,11 @@
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/dot-reasonable-suspicion-drug-and-alcohol-testing-for-managers-and-supervisors-training",
-    "status": "pending"
+    "status": "done",
+    "subdomain": "dot-reasonable-suspicion",
+    "title": "DOT Reasonable Suspicion Drug and Alcohol Testing for Supervisors",
+    "style": "manila-case-folder",
+    "date": "2026-11-10"
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/drug-and-alcohol-abuse-prevention-training-for-construction-workers",
