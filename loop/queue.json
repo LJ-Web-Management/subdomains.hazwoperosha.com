@@ -550,7 +550,11 @@
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/em-385-1-1-16-hour-training-for-workers",
-    "status": "pending"
+    "status": "done",
+    "subdomain": "em-385-16-hour",
+    "title": "EM 385-1-1 16-Hour Training for Workers",
+    "style": "topographic-survey-map",
+    "date": "2026-11-10"
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/em-385-1-1-24-hour-training",

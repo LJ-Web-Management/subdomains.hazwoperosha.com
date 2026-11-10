@@ -347,5 +347,11 @@
     "palette": "ANSI-61 enclosure grey #5d636b / #3a3e44, panel #c9cdd2, breaker black #1c1d20, copper bus #c46f2e, LOTO red #d3242c, indicator green #36b45a",
     "fonts": "Golos Text + Share Tech Mono",
     "layout": "brushed-grey hero with CSS breaker panel (copper bus bar, black breakers with on-indicators, red LOTO breaker), dark fact strip, two-column typed panel-schedule lesson directory, breaker-indicator bullets, copper-topped OSHA vs NFPA note"
+  },
+  {
+    "name": "topographic-survey-map",
+    "palette": "cream map paper #f3ecd8, brown contours #b07d4b, water blue #4a8fc0, route red #c8322b, survey forest green #2f5d3a / #24482d",
+    "fonts": "Encode Sans Condensed + Encode Sans",
+    "layout": "contour-line map-paper hero with framed topo map tile (river, dashed red route, START/SITE pins), green fact strip, two-column module list with manual chapter tags and contour-ringed numerals, green other-courses box, contour-textured CTA"
   }
 ]
