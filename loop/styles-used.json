@@ -221,5 +221,11 @@
     "palette": "cast-iron graphite #1e2024 / #2c2f35, oxygen blue #3aa0ff, caution red #e5383b, pale grey #f2f3f5",
     "fonts": "Kanit + Noto Sans",
     "layout": "graphite hero with CSS manhole cover (cross-hatched grid, raised rim), blue-ruled fact strip, three ring-numbered criteria pills, red/white hazard-hatch permit conditions on dark band, ringed lesson counters, red awareness-only callout"
+  },
+  {
+    "name": "pid-drafting-sheet",
+    "palette": "off-white drafting sheet #f7f7f2 with faint grid, black linework #1b1b1b, red #d7263d / blue #1b6ec2 / green #1f9d55 tags",
+    "fonts": "Azeret Mono + Wix Madefor Text",
+    "layout": "gridded drafting-paper page, hero with engineering title-block fact table, outlined component cards with colored mono tags, instrument-bubble who list, offset-shadow spec box, square-boxed FAQ toggles, black CTA"
   }
 ]

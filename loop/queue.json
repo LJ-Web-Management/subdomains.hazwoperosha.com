@@ -357,7 +357,11 @@
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/design-and-operation-of-ammonia-evaporators-condensers-and-controls-training",
-    "status": "pending"
+    "status": "done",
+    "subdomain": "ammonia-evaporators-condensers",
+    "title": "Design and Operation of Ammonia Evaporators, Condensers, and Controls",
+    "style": "pid-drafting-sheet",
+    "date": "2026-11-10"
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/dot-carrier-requirements",

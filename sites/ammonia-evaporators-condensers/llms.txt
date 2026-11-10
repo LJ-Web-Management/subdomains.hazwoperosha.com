@@ -1,0 +1,26 @@
+# Design and Operation of Ammonia Evaporators, Condensers, and Controls Training
+
+> 2-hour online course for industrial refrigeration operators and engineers on how ammonia evaporators, defrost systems, evaporative condensers, and control valves and switches are designed, operated and maintained. Available in English and Spanish. Offered by HAZWOPER OSHA Training (https://hazwoper-osha.com).
+
+## Key facts
+- Duration: 2 hours; 4 lessons, final exam
+- Credits: 0.2 CEU
+- Price: $79.99 per person; bulk pricing available
+- Delivery: 100% online, 24/7, read-aloud content; SCORM, virtual instructor-led and in-person formats also available
+- Languages: English, Spanish
+- Prerequisites: none
+- Certificate: downloadable on passing; valid 3 years (refresher advised every three years)
+
+## Lessons
+1. Understanding Evaporator Principles, Functionalities, and Applications (evaporator types, flooded vs. dry expansion, controlled pressure receivers, heat transfer, chillers, freezers, ice makers, intercoolers)
+2. Design and Operations of Defrost Systems (ice buildup, hot gas and soft hot gas defrost, electric, water, glycol spray and room air defrost)
+3. Design and Functions of Evaporative Condensers (air-cooled vs. water-cooled vs. evaporative, components, selection, wet-bulb effects, Legionella control)
+4. Functions of Control Valves and Switches (safety relief, hand expansion and float valves, shutoff valves, liquid level monitoring, ASHRAE and ASME relief valve requirements)
+
+## Who should take it
+Refrigeration and HVAC technicians; chemical, process and environmental engineers; facilities managers; maintenance supervisors; industrial safety specialists; compliance officers.
+
+## Links
+- Enroll: https://hazwoper-osha.com/online-courses/design-and-operation-of-ammonia-evaporators-condensers-and-controls-training
+- Ammonia Refrigeration Basics and Safety Awareness: https://hazwoper-osha.com/online-courses/ammonia-refrigeration-basics-and-safety-awareness-training
+- Phone: 1-866-429-6742
