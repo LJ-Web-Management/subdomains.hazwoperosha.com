@@ -317,5 +317,11 @@
     "palette": "warehouse concrete #e9e7e1, thermal-label white, heavy black #111, scanner teal #00a3a3 / #007a7a",
     "fonts": "Roboto Condensed + Roboto + Libre Barcode 39",
     "layout": "concrete hero with tilted 4x6 thermal shipping label (ruled cells, barcode, glowing teal scanner line), black fact strip, black-tab module cards with teal function-specific highlights, black-ruled objective tiles, barcode bullets, black-tab FAQ toggles"
+  },
+  {
+    "name": "dispatch-whiteboard",
+    "palette": "slate office wall #3d4451, whiteboard white, aluminum frame #c3c8cf, dry-erase blue #1d5fd1 / red #d93a3a / green #1f9a54, sticky-note yellow",
+    "fonts": "Kumbh Sans + Permanent Marker",
+    "layout": "slate hero with aluminum-framed whiteboard (marker-tray with markers, hand-checked supervisor checklist), marker-lettered fact strip, module cards with alternating marker-color numerals, arrow bullets, tilted sticky note for drivers"
   }
 ]

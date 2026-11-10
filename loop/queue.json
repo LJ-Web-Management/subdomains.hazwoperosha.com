@@ -505,7 +505,11 @@
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/dot-hazmat-transportation-supervisor-training-for-highway",
-    "status": "pending"
+    "status": "done",
+    "subdomain": "dot-hazmat-supervisor-highway",
+    "title": "DOT HAZMAT Transportation Supervisor Training for Highway",
+    "style": "dispatch-whiteboard",
+    "date": "2026-11-10"
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/dot-iata-imdg-shipping-lithium-batteries-series",
