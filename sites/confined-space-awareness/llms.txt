@@ -1,0 +1,41 @@
+# OSHA Confined Space Awareness Training
+
+> 3-hour online awareness-level course on OSHA's Confined Spaces in Construction standard, 29 CFR 1926 Subpart AA. Available in English and Spanish. Offered by HAZWOPER OSHA Training (https://hazwoper-osha.com).
+
+## Key facts
+- Duration: 3 hours; 6 lessons, final exam
+- Credits: 0.3 CEU
+- Price: $49.99 per person; bulk pricing available
+- Delivery: 100% online, 24/7, audio playback; SCORM, virtual and on-site formats also available
+- Languages: English, Spanish
+- Prerequisites: none
+- Certificate: downloadable on passing; valid 3 years
+- Scope: awareness only; does not qualify employees to enter confined spaces
+
+## What makes a space confined (OSHA)
+1. Large enough and configured so a worker can fully enter it
+2. Limited or restricted means of entry or exit
+3. Not designed for continuous occupancy
+
+## Permit-required conditions (29 CFR 1926.1202)
+- Contains or may contain a hazardous atmosphere
+- Contains material that could engulf an entrant
+- Internal configuration that could trap or asphyxiate an entrant
+- Contains any other recognized serious safety or health hazard
+
+## Lessons
+1. What Is a Confined Space? (criteria, permit-required conditions, entrant/attendant/supervisor roles)
+2. Confined Space Hazards (flammable, toxic, oxygen-deficient atmospheres; engulfment and other physical hazards)
+3. Regulatory Requirements (reclassification, alternate entry procedures, ventilation)
+4. Confined Spaces Program (permit-required programs, entry permits, documentation, training)
+5. Hazard Controls and Safety Precautions (hierarchy of controls, air testing, purging, ventilation, energy isolation)
+6. Rescue and Emergency Procedures (medical emergencies, three types of rescue, retrieval systems, rescue teams)
+
+## Who should take it
+Construction workers around pits, manholes, crawl spaces, vaults or tanks; entrants, attendants and entry supervisors; maintenance workers, electricians, plumbers and HVAC technicians; utility, pipeline and underground crews; contractors, project managers and site safety managers; emergency response personnel.
+
+## Links
+- Enroll: https://hazwoper-osha.com/online-courses/confined-space-awareness-training-for-construction-industry
+- Permit-Required Confined Space Entry: https://hazwoper-osha.com/online-courses/osha-permit-required-confined-space-entry-training
+- Competent Person for Confined Spaces: https://hazwoper-osha.com/online-courses/osha-competent-person-for-confined-spaces-training
+- Phone: 1-866-429-6742

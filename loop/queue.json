@@ -324,7 +324,11 @@
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/confined-space-awareness-training-for-construction-industry",
-    "status": "pending"
+    "status": "done",
+    "subdomain": "confined-space-awareness",
+    "title": "OSHA Confined Space Awareness Training",
+    "style": "manhole-from-above",
+    "date": "2026-11-10"
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/confined-space-construction",

@@ -215,5 +215,11 @@
     "palette": "ink-violet night #14161f, sulfur green #c6f03c, amber #ffb020, red #ff4d4d, violet #6b2bd9",
     "fonts": "Syne + Onest",
     "layout": "night hero with glowing sulfur and violet haze and blob-shaped gas property bubbles, sulfur fact strip, color-coded ppm exposure ladder, dark module cards with glow, standards card with offset shadow"
+  },
+  {
+    "name": "manhole-from-above",
+    "palette": "cast-iron graphite #1e2024 / #2c2f35, oxygen blue #3aa0ff, caution red #e5383b, pale grey #f2f3f5",
+    "fonts": "Kanit + Noto Sans",
+    "layout": "graphite hero with CSS manhole cover (cross-hatched grid, raised rim), blue-ruled fact strip, three ring-numbered criteria pills, red/white hazard-hatch permit conditions on dark band, ringed lesson counters, red awareness-only callout"
   }
 ]
