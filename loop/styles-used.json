@@ -299,5 +299,11 @@
     "palette": "burgundy #5a1a2b / #7a2a3d, gold #b8892e / #d9b25c, ivory parchment #fbf6ea",
     "fonts": "Cormorant Garamond + Sarabun",
     "layout": "burgundy band framing a centered ivory certificate hero with double gold border and embossed gold hours seal, ivory fact strip, gold-edged notice, nine Roman-numeral module cards, fleuron bullets, double-ruled burgundy side box, centered CTA"
+  },
+  {
+    "name": "risograph-two-color",
+    "palette": "newsprint #f4efe4, fluorescent pink #ff48b0, riso blue #0078bf, navy ink #1d2140",
+    "fonts": "Hepta Slab + Nunito",
+    "layout": "halftone-dot newsprint hero with misregistered pink/blue display type and four quarter-circle mode tiles (highway, rail, air, vessel) in overprinted patterns, navy fact strip, 90-day/3-year due cards, module groups with offset riso shadows, halftone blue CTA"
   }
 ]

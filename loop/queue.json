@@ -481,7 +481,11 @@
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/dot-hazmat-transportation-advanced-general-awareness-training",
-    "status": "pending"
+    "status": "done",
+    "subdomain": "dot-hazmat-10-hour",
+    "title": "DOT Hazmat Transportation 10-Hour Advanced General Awareness Training",
+    "style": "risograph-two-color",
+    "date": "2026-11-10"
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/dot-hazmat-transportation-general-awareness-training",
