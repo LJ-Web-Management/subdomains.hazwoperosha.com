@@ -303,7 +303,11 @@
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/competent-person-for-excavation-trenching-and-shoring",
-    "status": "pending"
+    "status": "done",
+    "subdomain": "excavation-competent-person",
+    "title": "OSHA Competent Person for Excavation, Trenching, and Shoring",
+    "style": "soil-strata-cross-section",
+    "date": "2026-11-10"
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/competent-person-training",

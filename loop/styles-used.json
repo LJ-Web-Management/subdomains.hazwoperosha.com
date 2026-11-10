@@ -203,5 +203,11 @@
     "palette": "deep navy #0a2540, aqua liquid #2ec4d6 / #1694a8, foam #e6f8fa",
     "fonts": "Unbounded + Schibsted Grotesk",
     "layout": "navy hero with liquid-fill gauge tiles for stats, 119/1,000 gallon threshold cards, CSS tank cross-sections (baffled, bulkhead, smooth-bore), lesson list with half-filled counters, navy who panel, wave-split CTA"
+  },
+  {
+    "name": "soil-strata-cross-section",
+    "palette": "topsoil #3b2a1e, clay #8a5a3c, sand #c99a5b, rock grey #5b6168, survey orange #f26b1d, cream #faf5ee",
+    "fonts": "Zilla Slab + Hanken Grotesk",
+    "layout": "topsoil hero above layered strata band with trench cut and orange shield box, grey fact strip, key-threshold number cards, soil-type slope diagram cards, timeline module list, duties box"
   }
 ]

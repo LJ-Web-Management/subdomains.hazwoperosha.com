@@ -1,0 +1,298 @@
+/* Style: Soil strata cross-section (layered earth bands, trench cut with shield box, soil-type slope cards, survey-orange accents, Zilla Slab + Hanken Grotesk) */
+:root {
+  --topsoil: #3b2a1e;
+  --clay: #8a5a3c;
+  --sand: #c99a5b;
+  --silt: #a8794f;
+  --gravel: #6e5a48;
+  --rock: #5b6168;
+  --orange: #f26b1d;
+  --cream: #faf5ee;
+  --white: #fff;
+  --ink: #241a12;
+  --muted: #5e5045;
+  --line: #e6dccf;
+  --head: "Zilla Slab", Georgia, serif;
+  --body: "Hanken Grotesk", system-ui, -apple-system, sans-serif;
+}
+
+*, *::before, *::after { box-sizing: border-box; }
+
+html { scroll-behavior: smooth; }
+
+body {
+  margin: 0;
+  font-family: var(--body);
+  font-size: 1.05rem;
+  line-height: 1.6;
+  color: var(--ink);
+  background: var(--cream);
+}
+
+a { color: #a8410a; text-underline-offset: 3px; }
+
+a:focus-visible, .btn:focus-visible, summary:focus-visible, .top__cta:focus-visible {
+  outline: 3px solid var(--orange);
+  outline-offset: 3px;
+}
+
+.wrap { width: min(1080px, 100% - 32px); margin-inline: auto; }
+
+.skip {
+  position: absolute;
+  left: -999px;
+  top: 8px;
+  padding: 8px 12px;
+  background: var(--orange);
+  color: var(--ink);
+  z-index: 10;
+}
+
+.skip:focus { left: 8px; }
+
+/* Top */
+.top { background: var(--topsoil); }
+
+.top__inner { display: flex; justify-content: space-between; align-items: center; min-height: 56px; gap: 12px; }
+
+.top__brand { font-family: var(--head); font-weight: 700; font-size: 1.2rem; color: var(--white); text-decoration: none; white-space: nowrap; }
+
+.top__cta { background: var(--orange); color: var(--ink); padding: 5px 14px; border-radius: 4px; font-weight: 600; text-decoration: none; white-space: nowrap; }
+
+/* Hero */
+.hero { background: var(--topsoil); color: var(--white); padding-top: 44px; }
+
+.kicker { margin: 0 0 10px; color: #f5a46e; font-weight: 600; font-size: .9rem; letter-spacing: .04em; }
+
+h1 { font-family: var(--head); font-weight: 700; font-size: clamp(2.2rem, 6.6vw, 3.9rem); line-height: 1.04; margin: 0 0 18px; max-width: 18ch; }
+
+.lede { color: #e7d9c8; max-width: 60ch; margin: 0 0 26px; }
+
+.actions { display: flex; flex-wrap: wrap; gap: 12px; }
+
+.btn {
+  display: inline-block;
+  padding: 12px 24px;
+  background: var(--orange);
+  color: var(--ink);
+  border-radius: 4px;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.btn:hover { background: #ff8a45; }
+
+.btn--ghost { background: transparent; color: var(--white); box-shadow: inset 0 0 0 2px #c9b39a; }
+
+.btn--ghost:hover { background: rgba(255, 255, 255, .08); }
+
+/* Strata + trench */
+.strata {
+  position: relative;
+  margin-top: 44px;
+  height: 170px;
+  background:
+    linear-gradient(180deg,
+      #4f7a3a 0 8px,
+      var(--clay) 8px 52px,
+      var(--sand) 52px 92px,
+      var(--silt) 92px 128px,
+      var(--rock) 128px 100%);
+}
+
+.strata::before {
+  content: "";
+  position: absolute;
+  inset: 52px 0 auto;
+  height: 40px;
+  background: radial-gradient(circle, rgba(255, 255, 255, .25) 1.5px, transparent 2px) 0 0 / 14px 12px;
+}
+
+.trench {
+  position: absolute;
+  left: 50%;
+  top: 0;
+  width: 130px;
+  height: 150px;
+  margin-left: -65px;
+  background: #1c140d;
+  clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
+}
+
+.trench__box {
+  position: absolute;
+  left: 10px;
+  right: 10px;
+  top: 30px;
+  bottom: 0;
+  border-left: 8px solid var(--orange);
+  border-right: 8px solid var(--orange);
+  background:
+    linear-gradient(90deg, transparent 0 46%, #ffd2b3 46% 54%, transparent 54%) 0 24px / 100% 6px no-repeat,
+    linear-gradient(90deg, transparent 0 46%, #ffd2b3 46% 54%, transparent 54%) 0 76px / 100% 6px no-repeat;
+}
+
+.trench__box::before, .trench__box::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  height: 6px;
+  background: var(--orange);
+}
+
+.trench__box::before { top: 24px; }
+
+.trench__box::after { top: 76px; }
+
+/* Facts */
+.facts { background: var(--rock); color: var(--white); padding: 18px 0; }
+
+.facts__h { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+
+.facts__row { margin: 0; display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px 16px; }
+
+.facts dt { font-size: .78rem; text-transform: uppercase; letter-spacing: .08em; color: #d5d9dd; }
+
+.facts dd { margin: 0; font-family: var(--head); font-weight: 700; font-size: 1.35rem; }
+
+/* Sections */
+.sec { padding-top: 60px; }
+
+h2 { font-family: var(--head); font-weight: 700; font-size: clamp(1.75rem, 4.8vw, 2.5rem); line-height: 1.1; margin: 0 0 12px; }
+
+h3 { font-weight: 600; font-size: 1.1rem; margin: 0 0 4px; }
+
+.intro { color: var(--muted); margin: 0 0 22px; max-width: 64ch; }
+
+.intro--light { color: #e7d9c8; }
+
+/* Numbers */
+.nums { display: grid; gap: 12px; }
+
+.num { margin: 0; background: var(--white); border: 1px solid var(--line); border-top: 6px solid var(--orange); padding: 16px 18px; color: var(--muted); }
+
+.num b { display: block; font-family: var(--head); font-weight: 700; font-size: 2rem; color: var(--ink); line-height: 1.1; margin-bottom: 4px; }
+
+/* Soil */
+.soil { margin-top: 64px; background: var(--topsoil); color: var(--white); padding: 52px 0; }
+
+.soils { display: grid; grid-template-columns: repeat(2, 1fr); gap: 12px; }
+
+.s { background: var(--cream); color: var(--ink); border-radius: 6px; overflow: hidden; padding: 0 14px 14px; }
+
+.s::before { content: ""; display: block; height: 70px; margin: 0 -14px 12px; }
+
+.s--rock::before { background: linear-gradient(90deg, var(--rock) 0 50%, #cfe2ee 50%); }
+
+.s--a::before { background: linear-gradient(127deg, var(--clay) 0 50%, #cfe2ee 50%); }
+
+.s--b::before { background: linear-gradient(135deg, var(--silt) 0 50%, #cfe2ee 50%); }
+
+.s--c::before { background: linear-gradient(146deg, var(--sand) 0 50%, #cfe2ee 50%); }
+
+.s__slope { margin: 0; font-family: var(--head); font-weight: 700; font-size: 1.5rem; line-height: 1.1; color: #a8410a; }
+
+.s h3 { margin: 4px 0 0; }
+
+.s p:last-child { margin: 0; color: var(--muted); }
+
+.soil__note { margin: 18px 0 0; color: #e7d9c8; max-width: 70ch; }
+
+/* Modules */
+.mods { list-style: none; counter-reset: m; margin: 0; padding: 0; display: grid; gap: 0; border-left: 6px solid var(--clay); }
+
+.mods li { counter-increment: m; padding: 14px 0 14px 66px; position: relative; border-bottom: 1px solid var(--line); }
+
+.mods li::before {
+  content: counter(m);
+  position: absolute;
+  left: 14px;
+  top: 14px;
+  width: 36px;
+  height: 36px;
+  background: var(--topsoil);
+  color: var(--white);
+  font-family: var(--head);
+  font-weight: 700;
+  font-size: 1.2rem;
+  display: grid;
+  place-items: center;
+  border-radius: 4px;
+}
+
+.mods p { margin: 0; color: var(--muted); }
+
+/* Who / duties */
+.two { display: grid; gap: 28px; }
+
+.who { margin: 0; padding-left: 20px; }
+
+.who li { margin-bottom: 10px; }
+
+.who li::marker { color: var(--orange); }
+
+.duties { background: var(--white); border: 3px solid var(--orange); padding: 22px; align-self: start; }
+
+.duties ul { margin: 0; padding-left: 20px; }
+
+.duties li { margin-bottom: 8px; font-weight: 600; }
+
+/* FAQ */
+.faq details { border-bottom: 1px solid var(--line); }
+
+.faq summary {
+  cursor: pointer;
+  list-style: none;
+  padding: 14px 44px 14px 0;
+  font-weight: 600;
+  position: relative;
+}
+
+.faq summary::-webkit-details-marker { display: none; }
+
+.faq summary::after { content: "+"; position: absolute; right: 6px; top: 8px; font-family: var(--head); font-weight: 700; font-size: 1.8rem; line-height: 1; color: var(--orange); }
+
+.faq details[open] summary::after { content: "−"; }
+
+.faq details p { margin: 0 0 14px; color: var(--muted); }
+
+/* CTA */
+.cta {
+  margin-top: 64px;
+  padding: 56px 0;
+  color: var(--white);
+  background: linear-gradient(180deg, var(--clay) 0 12px, var(--topsoil) 12px);
+}
+
+.cta p { max-width: 60ch; color: #e7d9c8; margin: 0 0 24px; }
+
+/* Foot */
+.foot { background: #1c140d; color: #b5a594; padding: 20px 0; font-size: .9rem; }
+
+.foot a { color: var(--white); }
+
+.foot__inner { display: grid; gap: 4px; }
+
+.foot p { margin: 0; }
+
+@media (max-width: 380px) {
+  .top__brand { font-size: 1.05rem; }
+  .top__cta { font-size: .86rem; padding: 4px 10px; }
+}
+
+@media (min-width: 760px) {
+  .strata { height: 200px; }
+  .trench { width: 200px; margin-left: -100px; height: 180px; left: 72%; }
+  .facts__row { grid-template-columns: repeat(4, 1fr); }
+  .nums { grid-template-columns: repeat(3, 1fr); }
+  .soils { grid-template-columns: repeat(4, 1fr); }
+  .mods { grid-template-columns: 1fr 1fr; border-left: 0; }
+  .mods li { border-left: 6px solid var(--clay); }
+  .two { grid-template-columns: 1.4fr 1fr; gap: 40px; }
+  .foot__inner { grid-template-columns: 1fr auto; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+}

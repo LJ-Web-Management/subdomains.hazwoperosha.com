@@ -1,0 +1,39 @@
+# OSHA Competent Person for Excavation, Trenching, and Shoring Training
+
+> 8-hour online course for workers designated as the competent person for excavation and trenching work under OSHA 29 CFR 1926 Subpart P. Available in English and Spanish. Offered by HAZWOPER OSHA Training (https://hazwoper-osha.com).
+
+## Key facts
+- Duration: 8 hours; 6 modules, 20 lessons, final exam
+- Credits: 0.8 CEU
+- Price: $159.99 per person; bulk pricing available
+- Delivery: 100% online, 24/7; SCORM, virtual and in-person formats for teams
+- Languages: English, Spanish
+- Prerequisites: none
+- Certificate: downloadable on passing; valid 2 years
+
+## Competent person (OSHA definition)
+Someone designated by the employer who can identify existing and predictable hazards and is authorized to take prompt corrective measures. Excavation tasks include classifying soil, inspecting protective systems, designing structural ramps, monitoring water removal equipment and conducting site inspections.
+
+## Key Subpart P thresholds covered
+- Protective systems required at 5 feet deep or more, unless entirely in stable rock
+- Protective systems for excavations deeper than 20 feet must be designed by a registered professional engineer
+- Trenches 4 feet or deeper need a ladder, stairway or ramp within 25 feet of lateral travel
+- Spoil and equipment kept at least 2 feet from the excavation edge
+- Daily inspections by the competent person before work starts
+- Maximum allowable slopes (Appendix B, under 20 ft): stable rock vertical; Type A 3/4:1 (53°); Type B 1:1 (45°); Type C 1-1/2:1 (34°)
+
+## Modules
+1. Foundation of Excavation and Trenching (introduction, hazards, role of competent persons)
+2. Safe Work Practices and Job Site Preparation (safe work practices, underground utilities, PPE, respiratory protection)
+3. Ingress and Egress (safe access, ladder setup, ladder inspection and maintenance, stairway safety)
+4. Soil Analysis and Hazard Recognition (soil classification, confined space hazards and controls)
+5. Protective and Fall Prevention Systems (protective systems and requirements, fall protection)
+6. Emergency Response and Rescue Planning (confined space rescue, fall rescue plans, excavation emergency response)
+
+## Who should take it
+Designated competent persons; foremen, crew leads and site supervisors; safety officers; construction engineers and project managers; contractors doing utility installation, shoring or site prep; utility and infrastructure maintenance teams.
+
+## Links
+- Enroll: https://hazwoper-osha.com/online-courses/competent-person-for-excavation-trenching-and-shoring
+- Arc Flash Safety (NFPA 70E): https://hazwoper-osha.com/online-courses/arc-flash-safety-training-nfpa-70e
+- Phone: 1-866-429-6742
