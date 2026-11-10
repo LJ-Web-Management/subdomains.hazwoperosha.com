@@ -394,7 +394,11 @@
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/dot-hazmat-carrier-requirements-vessel",
-    "status": "pending"
+    "status": "done",
+    "subdomain": "dot-hazmat-vessel",
+    "title": "DOT Hazmat Carrier Requirements: Vessel",
+    "style": "container-ship-at-sea",
+    "date": "2026-11-10"
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/dot-hazmat-core",

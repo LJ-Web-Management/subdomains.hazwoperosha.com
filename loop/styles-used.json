@@ -245,5 +245,11 @@
     "palette": "night #121417, oxide-red boxcar #8c2f1e, hopper olive #5d6b4a, tank black #2b2f36, signal green #34c759 / yellow #ffcc00 / red #ff3b30, ballast paper #efece6",
     "fonts": "Tomorrow + Inclusive Sans",
     "layout": "dusk hero with three-lamp rail signal (green lit), steel rails and ties band, fact strip, module cards drawn as coupled freight cars (boxcar, hopper, tank car) with wheel trucks, crossbuck bullets, connecting-routes board, signal-lamp FAQ toggles"
+  },
+  {
+    "name": "container-ship-at-sea",
+    "palette": "deep sea navy #0b2238 / #123554, container blue #1f5fa8, orange #e8711f, red #b3262c, green #2d7d4f, hull black + antifouling red",
+    "fonts": "Bai Jamjuree + Rethink Sans",
+    "layout": "navy hero with CSS container ship (stacked corrugated boxes, hull with waterline) over wave band, fact strip, module cards as corrugated shipping containers with container codes, container-icon bullets, other-modes manifest box, orange-topped CTA"
   }
 ]

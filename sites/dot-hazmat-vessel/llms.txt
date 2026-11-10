@@ -1,0 +1,30 @@
+# DOT Hazmat Carrier Requirements: Vessel
+
+> 3-hour online modal-specific hazmat training for employers and employees who transport hazardous materials by vessel, covering DOT Hazardous Materials Regulations 49 CFR Part 176 (Carriage by Vessel). Available in English and Spanish. Offered by HAZWOPER OSHA Training (https://hazwoper-osha.com).
+
+## Key facts
+- Duration: 3 hours; 3 modules, 5 lessons, final exam
+- Credits: 0.3 CEU
+- Price: $49.99 per person; bulk pricing available
+- Delivery: 100% online, 24/7; SCORM, virtual instructor-led and face-to-face formats also available
+- Languages: English, Spanish
+- Prerequisites: none (builds on 4-hour DOT Hazmat General Awareness)
+- Certificate: downloadable on passing; valid 3 years
+- DOT training timing (49 CFR 172 Subpart H): within 90 days of employment or job change; recurrent at least every three years
+
+## Modules
+1. Hazardous Materials Regulations (definitions and classes, purpose of the HMR, enforcing agencies, training requirements)
+2. Hazardous Materials Table (Columns 1 to 10, appendices, hazard class system)
+3. Carrier Requirements: Water (IMDG Code Dangerous Goods List vs. HMR Hazardous Materials Table, documentation, damaged packages, stowage and segregation, Class 1 explosives, incident reporting)
+
+## Who should take it
+Shippers and carriers moving hazmat by vessel; dock, vessel and intermediary carrier personnel; ship's officers and crew; port security and container inspection staff; anyone who packages, marks, labels, placards, loads or unloads vessel hazmat; emergency responders; compliance officers.
+
+## Links
+- Enroll: https://hazwoper-osha.com/online-courses/dot-hazmat-carrier-requirements-vessel
+- 4-Hour DOT Hazmat General Awareness: https://hazwoper-osha.com/online-courses/dot-hazmat-transportation-general-awareness-training
+- 10-Hour DOT Hazmat Advanced General Awareness: https://hazwoper-osha.com/online-courses/dot-hazmat-transportation-advanced-general-awareness-training
+- Carrier Requirements: Highway: https://hazwoper-osha.com/online-courses/dot-hazmat-carrier-requirements-highway
+- Carrier Requirements: Rail: https://hazwoper-osha.com/online-courses/dot-hazmat-carrier-requirements-rail
+- Carrier Requirements: Air/IATA: https://hazwoper-osha.com/online-courses/dot-hazmat-carrier-requirements-air-iata
+- Phone: 1-866-429-6742
