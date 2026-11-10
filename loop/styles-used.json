@@ -17,5 +17,11 @@
     "palette": "near-black #0e0f12 panels / alert red #ff3b30 / amber #ffb020, dark mode",
     "fonts": "Space Grotesk + Space Mono",
     "layout": "red radial-glow hero with pulsing status pill + SVG ICS org chart, 6-up stat tile strip, two-column who section, vertical timeline incident log, 2-col red-edged outcome cards, minimal line FAQ, gradient CTA"
+  },
+  {
+    "name": "swiss-international",
+    "palette": "white / black #111 / single red #e30613, red closing band",
+    "fonts": "Archivo (800 display, 400 body)",
+    "layout": "12-col grid with left uppercase red labels + right content, giant numeral hero, 12-month cycle strip, big-number facts grid, numbered 2-col syllabus, full-bleed red CTA"
   }
 ]
