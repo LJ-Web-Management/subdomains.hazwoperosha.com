@@ -420,7 +420,11 @@
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/dot-hazmat-function-specific-training-markings",
-    "status": "pending"
+    "status": "done",
+    "subdomain": "dot-hazmat-markings",
+    "title": "DOT Hazmat Function Specific Training: Markings",
+    "style": "stenciled-steel-drum",
+    "date": "2026-11-10"
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/dot-hazmat-function-specific-training-packaging",

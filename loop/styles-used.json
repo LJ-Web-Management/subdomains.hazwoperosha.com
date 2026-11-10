@@ -257,5 +257,11 @@
     "palette": "corrugated kraft #c89b62 / #b3854c, packing tape #decda0, label red #d42027, sticker white, dark brown ink #2a1d10",
     "fonts": "Gabarito + Pathway Extreme",
     "layout": "kraft cardboard hero with white peel-corner sticker-sheet card and taped box wearing two hazard label diamonds, dark fact strip, white sticker topic cards with red edge, kraft lesson cards with tape tabs, diamond bullets, tape-band CTA"
+  },
+  {
+    "name": "stenciled-steel-drum",
+    "palette": "cobalt drum blue #123a6b / #1c5296 / #0b2647, spray white #f4f6f8, steel plate #d9dde2, safety orange #ff6a13",
+    "fonts": "Allerta Stencil + Be Vietnam Pro",
+    "layout": "cobalt hero with CSS steel drum (rolling hoops, sheen) and glowing white stencil text, dark fact strip, riveted steel-plate topic grid, stencil-numbered lesson cards, cobalt related-training box"
   }
 ]
