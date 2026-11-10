@@ -41,5 +41,11 @@
     "palette": "ANSI Z535 signal colors: orange #ff7a00, yellow #ffd400, blue #0055a5, green #00843d on white/#f4f4f1 with black borders",
     "fonts": "Oswald (condensed uppercase) + Source Sans 3",
     "layout": "sections styled as safety signs with colored signal-word header bars, annotated WARNING label mock in hero, yellow fact strip, 2x2 bordered lesson grid with black number squares, hazard-stripe CTA band"
+  },
+  {
+    "name": "editorial-magazine",
+    "palette": "warm paper #f6f1e7 / ink #1f1b16 / rust #a2401f, dark closing band",
+    "fonts": "Fraunces (serif display) + Inter",
+    "layout": "double-rule masthead, long-form headline + standfirst, drop cap lead, italic pull quote in right rail, sticky at-a-glance sidebar, roman-numeral chapter list, serif FAQ"
   }
 ]

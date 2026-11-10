@@ -62,7 +62,11 @@
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/asbestos-awareness-training",
-    "status": "pending"
+    "status": "done",
+    "subdomain": "asbestos-awareness",
+    "title": "OSHA Asbestos Awareness Training",
+    "style": "editorial-magazine",
+    "date": "2026-11-10"
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/authorized-gas-tester-training",

@@ -1,0 +1,250 @@
+/* Style: Editorial magazine (warm paper, Fraunces serif display, Inter body, rust accent, drop cap, pull quote, chapters) */
+:root {
+  --paper: #f6f1e7;
+  --ink: #1f1b16;
+  --soft: #5c5348;
+  --rust: #a2401f;
+  --rule: #d8cdb9;
+  --card: #fffaf0;
+  --serif: "Fraunces", Georgia, "Times New Roman", serif;
+  --sans: "Inter", system-ui, -apple-system, "Segoe UI", sans-serif;
+}
+
+*, *::before, *::after { box-sizing: border-box; }
+
+html { scroll-behavior: smooth; }
+
+body {
+  margin: 0;
+  font-family: var(--sans);
+  font-size: 1.0625rem;
+  line-height: 1.7;
+  color: var(--ink);
+  background: var(--paper);
+}
+
+a { color: var(--rust); text-underline-offset: 3px; }
+
+a:focus-visible, .btn:focus-visible, summary:focus-visible {
+  outline: 2px solid var(--rust);
+  outline-offset: 3px;
+}
+
+.wrap { width: min(1080px, 100% - 32px); margin-inline: auto; }
+
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  white-space: nowrap;
+}
+
+.skip {
+  position: absolute;
+  left: -999px;
+  top: 8px;
+  padding: 8px 12px;
+  background: var(--ink);
+  color: var(--paper);
+  z-index: 10;
+}
+
+.skip:focus { left: 8px; }
+
+/* Masthead */
+.masthead { border-bottom: 3px double var(--ink); }
+
+.masthead__inner { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: baseline; gap: 4px 16px; padding: 18px 0; }
+
+.masthead__title {
+  font-family: var(--serif);
+  font-weight: 700;
+  font-size: 1.4rem;
+  color: var(--ink);
+  text-decoration: none;
+}
+
+.masthead__issue { margin: 0; font-size: .8rem; text-transform: uppercase; letter-spacing: .12em; color: var(--soft); }
+
+/* Cover */
+.cover { padding: 48px 0 40px; border-bottom: 1px solid var(--rule); }
+
+.section-label {
+  margin: 0 0 16px;
+  font-size: .8rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: .14em;
+  color: var(--rust);
+}
+
+h1 {
+  font-family: var(--serif);
+  font-weight: 700;
+  font-size: clamp(2.2rem, 6.5vw, 4.2rem);
+  line-height: 1.05;
+  letter-spacing: -.015em;
+  margin: 0 0 20px;
+  max-width: 20ch;
+}
+
+.standfirst {
+  font-family: var(--serif);
+  font-size: clamp(1.15rem, 2.5vw, 1.4rem);
+  line-height: 1.5;
+  color: var(--soft);
+  max-width: 52ch;
+  margin: 0 0 28px;
+}
+
+.byline { display: flex; flex-wrap: wrap; align-items: center; gap: 12px 20px; }
+
+.byline__meta { font-size: .85rem; color: var(--soft); }
+
+.btn {
+  display: inline-block;
+  padding: 13px 26px;
+  background: var(--ink);
+  color: var(--paper);
+  font-weight: 600;
+  text-decoration: none;
+  border-radius: 2px;
+}
+
+.btn:hover { background: var(--rust); }
+
+.btn--light { background: var(--paper); color: var(--ink); }
+
+.btn--light:hover { background: #fff; color: var(--rust); }
+
+/* Body */
+.body { display: grid; gap: 48px; padding: 48px 0 64px; }
+
+.lead p { margin: 0 0 1em; max-width: 66ch; }
+
+.dropcap::first-letter {
+  float: left;
+  font-family: var(--serif);
+  font-weight: 700;
+  font-size: 4.6rem;
+  line-height: .8;
+  padding: 8px 10px 0 0;
+  color: var(--rust);
+}
+
+.pull {
+  border-top: 2px solid var(--ink);
+  border-bottom: 2px solid var(--ink);
+  padding: 20px 0;
+}
+
+.pull p {
+  margin: 0;
+  font-family: var(--serif);
+  font-size: clamp(1.3rem, 3vw, 1.75rem);
+  line-height: 1.35;
+  font-style: italic;
+}
+
+h2 {
+  font-family: var(--serif);
+  font-weight: 700;
+  font-size: clamp(1.6rem, 4vw, 2.2rem);
+  line-height: 1.15;
+  margin: 0 0 20px;
+}
+
+.columns { margin: 0; padding-left: 20px; }
+
+.columns li { margin-bottom: 6px; break-inside: avoid; }
+
+.columns li::marker { color: var(--rust); }
+
+.chapters { list-style: none; counter-reset: c; margin: 0; padding: 0; }
+
+.chapters li {
+  counter-increment: c;
+  display: grid;
+  grid-template-columns: 56px 1fr;
+  gap: 0 16px;
+  padding: 18px 0;
+  border-top: 1px solid var(--rule);
+}
+
+.chapters li::before {
+  content: counter(c, upper-roman) ".";
+  grid-row: span 2;
+  font-family: var(--serif);
+  font-size: 1.6rem;
+  color: var(--rust);
+  line-height: 1.2;
+}
+
+.chapters h3 { font-family: var(--serif); font-size: 1.25rem; margin: 0 0 4px; }
+
+.chapters p { margin: 0; color: var(--soft); }
+
+.sidebar-box { background: var(--card); border: 1px solid var(--rule); padding: 24px; }
+
+.sidebar-box h2 { font-size: 1.3rem; text-transform: uppercase; letter-spacing: .1em; font-family: var(--sans); color: var(--rust); }
+
+.sidebar-box dl { margin: 0; }
+
+.sidebar-box div { padding: 10px 0; border-top: 1px solid var(--rule); display: grid; grid-template-columns: 7.5rem 1fr; gap: 12px; }
+
+.sidebar-box dt { font-weight: 600; }
+
+.sidebar-box dd { margin: 0; color: var(--soft); }
+
+/* FAQ */
+.faq details { border-top: 1px solid var(--rule); }
+
+.faq details:last-child { border-bottom: 1px solid var(--rule); }
+
+.faq summary {
+  cursor: pointer;
+  list-style: none;
+  padding: 16px 36px 16px 0;
+  font-family: var(--serif);
+  font-size: 1.15rem;
+  position: relative;
+}
+
+.faq summary::-webkit-details-marker { display: none; }
+
+.faq summary::after { content: "+"; position: absolute; right: 4px; top: 12px; font-size: 1.5rem; color: var(--rust); }
+
+.faq details[open] summary::after { content: "−"; }
+
+.faq details p { margin: 0 0 18px; color: var(--soft); max-width: 66ch; }
+
+/* Closing */
+.closing { background: var(--ink); color: var(--paper); padding: 64px 0; }
+
+.closing h2 { font-size: clamp(2rem, 6vw, 3.2rem); margin-bottom: 16px; }
+
+.closing p { max-width: 58ch; color: #d8cfc0; margin: 0 0 24px; }
+
+.closing a:not(.btn) { color: #f0b49c; }
+
+/* Colophon */
+.colophon { padding: 22px 0; font-size: .85rem; color: var(--soft); border-top: 3px double var(--ink); }
+
+.colophon__inner { display: grid; gap: 4px; }
+
+.colophon p { margin: 0; }
+
+@media (min-width: 860px) {
+  .body { grid-template-columns: 1fr 320px; column-gap: 56px; }
+  .lead, .pull, .body > section:not(.sidebar-box) { grid-column: 1; }
+  .pull { grid-column: 2; grid-row: 1; align-self: start; }
+  .sidebar-box { grid-column: 2; grid-row: 2 / span 2; align-self: start; position: sticky; top: 24px; }
+  .columns { columns: 2; column-gap: 32px; }
+  .colophon__inner { grid-template-columns: 1fr auto; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+}

@@ -1,0 +1,31 @@
+# OSHA Asbestos Awareness Training
+
+> 3-hour online awareness course that teaches workers to recognize asbestos-containing materials (ACM), understand the health hazards of asbestos fibers and avoid disturbing ACM during routine work. Aligned with OSHA 29 CFR 1910.1001 (general industry) and 29 CFR 1926.1101 (construction). Offered by HAZWOPER OSHA Training (https://hazwoper-osha.com).
+
+## Key facts
+- Regulations: OSHA 29 CFR 1910.1001 and 29 CFR 1926.1101
+- Scope: awareness only. It does not qualify workers for asbestos removal or abatement; Class I–IV asbestos work requires additional employer-provided training.
+- Duration: about 3 hours; 5 lessons plus final exam
+- Credits: 0.3 CEU
+- Price: $49.99 per person online; bulk pricing from 2 seats
+- Other formats: SCORM, virtual live classes, classroom sessions
+- Delivery: 100% online, 24/7, any device, audio playback; English and Spanish
+- Completion window: 3 months; 1 year of access to materials
+- Certificate: instant PDF on passing, valid 12 months; renew by retaking after 12 months
+- Prerequisites: none
+
+## Who it is for
+Maintenance workers, custodial and janitorial staff, electricians, plumbers, HVAC technicians, renovation and remodeling laborers, facility managers, building engineers, and school, hospital and property maintenance personnel.
+
+## Lessons
+1. Introduction to Asbestos
+2. Asbestos Exposure (friable vs non-friable ACM, fiber release)
+3. Asbestos: A Health Hazard (asbestosis, pleural plaques, lung cancer, mesothelioma, latency)
+4. Asbestos Policy and O&M (operations and maintenance programs, OSHA and EPA requirements)
+5. Preventing Exposure to Asbestos (safe work practices, labels, respiratory protection, PPE, engineering controls)
+
+## Links
+- Enroll: https://hazwoper-osha.com/online-courses/asbestos-awareness-training
+- Related courses: https://hazwoper-osha.com/online-courses/silica-lead-asbestos-hex-chrome
+- Landing page: https://asbestos-awareness.hazwoperosha.com/
+- Provider phone: 1-866-429-6742
