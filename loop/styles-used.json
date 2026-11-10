@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "name": "technical-blueprint",
+    "palette": "navy #0b2545 / cyan #7fdbff / amber #ffb703 on #f4f7fb",
+    "fonts": "IBM Plex Sans + IBM Plex Mono",
+    "layout": "drafting-grid hero with SVG flow diagram, numbered spec sections, 3-col module cards, dark facts grid, accordion FAQ",
+    "site": "24-hour-hazwoper-tsd"
+  }
+]

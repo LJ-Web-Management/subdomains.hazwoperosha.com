@@ -1,7 +1,11 @@
 [
   {
     "url": "https://hazwoper-osha.com/online-courses/24-hour-hazwoper-tsd-operations-p",
-    "status": "pending"
+    "status": "done",
+    "subdomain": "24-hour-hazwoper-tsd",
+    "title": "OSHA 24-Hour HAZWOPER – RCRA TSD Operations Training",
+    "style": "technical-blueprint",
+    "date": "2026-11-10"
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/40-hour-em-385-1-1-training",

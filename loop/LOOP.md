@@ -78,6 +78,8 @@ Run these checks, fix everything they find, then **repeat the whole 6–11
 block if any fix was made**. Stop after a clean pass (or after 3 passes, and
 record anything still left in the commit message).
 
+6/7. Run `node loop/check-site.mjs sites/<subdomain> <scratchpad>` first (it covers most of the checks below and saves screenshots), then review the screenshots by eye.
+
 6/7. **Bugs**: every link and asset path resolves, and every `href` to
    hazwoper-osha.com returns 200 (`curl -sIL`). The JSON-LD parses
    (`jq`/`python -m json.tool`). Render the page with Playwright at 375px
