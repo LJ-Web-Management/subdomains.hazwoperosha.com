@@ -281,5 +281,11 @@
     "palette": "midnight navy #14213d / #1d2f57, security-tape red #d62839, cream #fbf7ef",
     "fonts": "Anybody + Radio Canada",
     "layout": "navy hero with concentric guilloche rings and tilted red tamper-evident VOID seal, red-ruled fact strip, three security-plan pillar cards with perforated red tops, navy lesson cards with dashed seal counters, dashed red related box, perforated CTA border"
+  },
+  {
+    "name": "carbonless-triplicate-form",
+    "palette": "charcoal desk #2b2a33, form white / canary #fff3a8 / pink #ffd3dc copies, ballpoint blue #1f3fa0, check red #c4302b",
+    "fonts": "Young Serif + Geologica + Cutive Mono",
+    "layout": "charcoal hero with fanned triplicate shipping-paper copies (ruled lines, HM column X, certification line), canary fact strip, numbered basic-description sequence cards, lesson cards with stacked canary/pink copy shadows, HM-checkbox bullets"
   }
 ]

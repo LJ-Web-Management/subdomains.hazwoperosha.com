@@ -452,7 +452,11 @@
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/dot-hazmat-function-specific-training-shipping-papers",
-    "status": "pending"
+    "status": "done",
+    "subdomain": "dot-hazmat-shipping-papers",
+    "title": "DOT Hazmat Function Specific Training: Shipping Papers",
+    "style": "carbonless-triplicate-form",
+    "date": "2026-11-10"
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/dot-hazmat-function-specific-training-the-hazmat-table",
