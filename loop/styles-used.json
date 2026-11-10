@@ -335,5 +335,11 @@
     "palette": "OSB tan #c9a774 / #b48f5a, marking-paint green #2fbf4a, white spray, black site band #151515, warm paper #f5f1e8",
     "fonts": "Epilogue",
     "layout": "paper hero with CSS OSB panel and glowing spray-painted CLEAR HEAD / SAFE SITE, black band fact strip, OSB-textured risk tiles, green-edged numbered lesson cards, black OSHA-angle box, green-topped CTA"
+  },
+  {
+    "name": "dust-haze",
+    "palette": "desert sand #d9c7a7 / #c4ac83, ochre #9a6b2f, slate #2f3640, water blue #2c7fb8, paper #f6f1e7",
+    "fonts": "Spectral + Asap",
+    "layout": "sand-gradient hero with masked dotted particulate haze, slate fact strip, five-step lesson path with dusty numbered discs, pale water-blue control cards, two-column who list with particle bullets, haze-to-clear-air gradient CTA"
   }
 ]

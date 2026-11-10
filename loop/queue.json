@@ -534,7 +534,11 @@
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/dust-disturbance-and-mitigation-awareness-training",
-    "status": "pending"
+    "status": "done",
+    "subdomain": "dust-mitigation-awareness",
+    "title": "Dust Disturbance and Mitigation Awareness Training",
+    "style": "dust-haze",
+    "date": "2026-11-10"
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/electrical-safety-training-nfpa-70e",
