@@ -353,5 +353,11 @@
     "palette": "cream map paper #f3ecd8, brown contours #b07d4b, water blue #4a8fc0, route red #c8322b, survey forest green #2f5d3a / #24482d",
     "fonts": "Encode Sans Condensed + Encode Sans",
     "layout": "contour-line map-paper hero with framed topo map tile (river, dashed red route, START/SITE pins), green fact strip, two-column module list with manual chapter tags and contour-ringed numerals, green other-courses box, contour-textured CTA"
+  },
+  {
+    "name": "project-gantt-schedule",
+    "palette": "navy #1e3a5f / #142a46, steel-blue task bars #3f7cc4, amber milestone #f0a020, planning-grid white / #e3e8ef",
+    "fonts": "Fira Sans + Fira Code",
+    "layout": "navy grid-paper hero, white fact strip, full Gantt chart of 17 modules with bars offset and sized by lesson share and an amber finish milestone, steel-bar bullets, navy related box, amber-topped CTA"
   }
 ]

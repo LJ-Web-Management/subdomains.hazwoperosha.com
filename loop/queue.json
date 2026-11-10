@@ -558,7 +558,11 @@
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/em-385-1-1-24-hour-training",
-    "status": "pending"
+    "status": "done",
+    "subdomain": "em-385-24-hour",
+    "title": "EM 385-1-1 24 Hour Training",
+    "style": "project-gantt-schedule",
+    "date": "2026-11-10"
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/em-385-1-1-8-hour-refresher-training-for-site-safety-and-health-officers-sshos",
