@@ -59,5 +59,11 @@
     "palette": "pale sage #eef3ec / sage #cfe0c8 / deep sage #3c5a47 / peach #f9d9c6 / terracotta #e07a52 / sand #f3ead8",
     "fonts": "Outfit + Karla",
     "layout": "centered single column, organic blob shapes behind hero, SVG vertebrae stack in blob frame, pill badges, three pastel audience cards, two white lesson cards, rounded outcome pills, rounded FAQ, deep-sage rounded CTA"
+  },
+  {
+    "name": "mid-century-civil-defense-poster",
+    "palette": "cream #f3e9d2 / burnt orange #d65a2b / mustard #e7a83b / teal #2a7f7a / brown #2b2118",
+    "fonts": "Alfa Slab One + Work Sans",
+    "layout": "poster headline question, concentric-rings SVG (expanding incident), brown stat band, 4-col rounded bordered audience cards, three colored module panels, pill buttons with hard drop, teal closing band"
   }
 ]

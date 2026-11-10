@@ -1,0 +1,32 @@
+# Basic Incident Command System for Initial Response (ICS 200) Training
+
+> 4-hour online course for supervisors and leaders on using the Incident Command System as incidents expand. Aligned with FEMA IS-200 and the National Incident Management System (NIMS). Builds on ICS 100. Offered by HAZWOPER OSHA Training (https://hazwoper-osha.com).
+
+## Key facts
+- Alignment: FEMA IS-200 (Basic Incident Command System for Initial Response); NIMS
+- Prerequisite: ICS 100, Introduction to the Incident Command System
+- Duration: about 4 hours; 3 modules, 9 lessons, final exam
+- Credits: 0.4 CEU
+- Price: $79.99 per person online; bulk pricing from 2 seats
+- Other formats: SCORM, virtual instructor-led, in-person
+- Delivery: 100% online, 24/7, any device; English and Spanish
+- Completion window: 3 months; 1 year of access to materials
+- Certificate: instant PDF on passing, valid 36 months
+- Renewal: FEMA sets no fixed frequency; best practice is at least every three years
+
+## Topics beyond ICS 100
+Command and General Staff activation in expanding incidents; transfer of command; unified command and Area Command; delegation of authority; management by objectives; resource management and incident typing (Type 3 and Type 4).
+
+## Who it is for
+Firefighters, police and EMTs; public health workers; emergency management and homeland security staff; military and National Guard; public works and utilities; Incident Management Team members; private-sector and NGO representatives; facility safety officers and school or hospital administrators.
+
+## Modules
+1. Foundation of NIMS and ICS (lessons 1–3)
+2. Organizational Structure and Functional Roles (lessons 4–6)
+3. Resource Management and Applied Practice (lessons 7–9, including two practical scenarios)
+
+## Links
+- Enroll: https://hazwoper-osha.com/online-courses/basic-incident-command-system-for-initial-response-ics-200-training
+- ICS 100 prerequisite: https://hazwoper-osha.com/online-courses/introduction-to-the-incident-command-system-ics-100-training
+- Landing page: https://ics-200.hazwoperosha.com/
+- Provider phone: 1-866-429-6742
