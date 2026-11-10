@@ -1,0 +1,39 @@
+# Cal/OSHA Spill Prevention and Response Safety Training
+
+> 1-hour online course on preventing, assessing, responding to and reporting hazardous material spills in California workplaces. Aligned with Federal OSHA HAZWOPER standards 29 CFR 1910.120 and 29 CFR 1926.65, with special consideration of Title 8 CCR Section 5192 (California's HAZWOPER regulation). Offered by HAZWOPER OSHA Training (https://hazwoper-osha.com).
+
+## Key facts
+- Regulations: 29 CFR 1910.120, 29 CFR 1926.65, Title 8 CCR §5192; also covers RCRA, EPCRA and CERCLA reporting concepts
+- Duration: about 1 hour; 2 lessons plus final exam
+- Credits: 0.1 CEU
+- Price: $39.99 per person online; bulk pricing from 2 seats
+- Delivery: 100% online, 24/7; English and Spanish; SCORM, virtual and in-person options
+- Certificate: instant PDF on passing, valid 12 months; annual refresher recommended
+- Prerequisites: none
+
+## Seven basic steps of spill response
+1. Identify the substance, hazards, size and risks
+2. Notify nearby personnel and supervisors
+3. Select protection based on the hazard assessment
+4. Contain: prevent spread to drains, soil or other areas
+5. Clean up with proper absorbents and approved methods
+6. Manage contaminated materials under hazardous waste rules
+7. Complete internal and regulatory reporting
+
+## Significant vs non-significant spills
+- Non-significant: small release trained employees can manage with spill kits and procedures
+- Significant: toxic exposure, fire risk, large releases, or need for outside emergency responders
+
+## California reporting
+California may require extra notifications and faster timelines than federal rules (e.g., Cal OES, Cal/EPA, local agencies), in addition to federal reporting to EPA or the National Response Center where applicable.
+
+## Lessons
+1. Managing Spills, Disposal, and Reporting
+2. Emergency Preparedness for Spills
+
+## Links
+- Enroll: https://hazwoper-osha.com/online-courses/cal-osha-spill-prevention-and-response-safety-training
+- Federal version: https://hazwoper-osha.com/online-courses/osha-spill-prevention-and-response-safety-training
+- EPA SPCC training: https://hazwoper-osha.com/online-courses/epa-spill-prevention-control-and-countermeasure-spcc-training
+- Landing page: https://cal-osha-spill-response.hazwoperosha.com/
+- Provider phone: 1-866-429-6742

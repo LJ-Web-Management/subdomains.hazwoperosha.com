@@ -95,5 +95,11 @@
     "palette": "sky blue #3a86ff / sun yellow #ffbe0b vs concrete #e6e1da / steel #5c6370 / charcoal #22262e on warm white",
     "fonts": "Plus Jakarta Sans",
     "layout": "split-screen hero (CSS sun + warehouse racks) with overlapping white card, temperature threshold cards (outdoor tint vs concrete), topic chips, two-tone audience list, top-bordered lesson cards, white FAQ cards, charcoal CTA with split top stripe"
+  },
+  {
+    "name": "modern-saas",
+    "palette": "white/#fafafb / ink #0f1020 / indigo #4f46e5 to violet #9333ea gradient / green+red status tags",
+    "fonts": "Geist",
+    "layout": "centered hero on dot-grid with pill badge and gradient-text headline, joined KPI strip, 4-col numbered stepper cards, significant vs non-significant status cards, two curriculum cards, pill tags, single-card FAQ, full gradient CTA card"
   }
 ]

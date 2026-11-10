@@ -154,7 +154,11 @@
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/cal-osha-spill-prevention-and-response-safety-training",
-    "status": "pending"
+    "status": "done",
+    "subdomain": "cal-osha-spill-response",
+    "title": "Cal/OSHA Spill Prevention and Response Safety Training",
+    "style": "modern-saas",
+    "date": "2026-11-10"
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/cal-osha-training",
