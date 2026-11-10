@@ -183,7 +183,11 @@
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/cal40-new",
-    "status": "pending"
+    "status": "done",
+    "subdomain": "cal-osha-40-hour-hazwoper",
+    "title": "Cal/OSHA 40-Hour HAZWOPER Training (2026)",
+    "style": "analytics-dashboard",
+    "date": "2026-11-10"
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/calosha-active-shooter-workplace-violence-awareness-training",

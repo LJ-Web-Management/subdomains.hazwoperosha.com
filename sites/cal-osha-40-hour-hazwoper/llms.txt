@@ -1,0 +1,47 @@
+# Cal/OSHA 40-Hour HAZWOPER Training (2026)
+
+> Online 40-hour HAZWOPER training for California workers new to uncontrolled hazardous waste or emergency response operations, covering Cal/OSHA Title 8, Section 5192, paragraphs (a) to (q), and Federal OSHA 29 CFR 1910.120(e) and 29 CFR 1926.65(e). Offered by HAZWOPER OSHA Training (https://hazwoper-osha.com).
+
+## Key facts
+- Regulations: Title 8 CCR §5192 (a)–(q); 29 CFR 1910.120(e); 29 CFR 1926.65(e)
+- Scope: the education portion of 40-hour HAZWOPER. Three days of in-person field training led by a trained, experienced supervisor are also required and provided by the employer (hands-on PPE, site-specific risks).
+- Duration: 40 hours; 18 modules, 80 lessons, final exam
+- Credits: 4.0 CEU
+- Price: $229.99 per person online; bulk pricing from 2 seats; SCORM, virtual instructor-led and in-person formats
+- Delivery: 100% online, 24/7, any device, audio playback; English and Spanish
+- Completion window: 3 months; 1 year of access to materials
+- Certificate: instant PDF on passing, valid 12 months; renew with the annual Cal/OSHA 8-hour refresher
+- Prerequisites: none
+
+## Work covered by HAZWOPER
+Cleanup at hazardous waste sites; hazardous waste operations at TSD facilities; emergency response to hazardous substance releases.
+
+## Who needs 40 hours
+Most workers new to uncontrolled hazardous waste or emergency response operations: equipment operators, general laborers, other site workers, on-site managers and supervisors.
+
+## Modules (lesson count)
+1. Regulatory Overview (3)
+2. Planning and Organization (2)
+3. Site Characterization (5)
+4. Medical Surveillance (2)
+5. Toxicology (3)
+6. Hazard Classification (6)
+7. Chemical Hazards (6)
+8. Radiological Hazards (2)
+9. Respiratory Protection (5)
+10. Personal Protective Equipment (8)
+11. Decontamination (6)
+12. Air Monitoring (6)
+13. Compressed Gases (4)
+14. Material Sampling and Analysis (3)
+15. Handling Drums (4)
+16. Confined Spaces (8)
+17. Excavations (3)
+18. Emergency Response Procedures (4)
+
+## Links
+- Enroll: https://hazwoper-osha.com/online-courses/cal40-new
+- Annual refresher: https://hazwoper-osha.com/online-courses/cal-osha-8-hour-hazwoper-refresher-training
+- 24-hour alternative: https://hazwoper-osha.com/online-courses/cal-osha-24-hour-hazwoper-training
+- Landing page: https://cal-osha-40-hour-hazwoper.hazwoperosha.com/
+- Provider phone: 1-866-429-6742

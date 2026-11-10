@@ -113,5 +113,11 @@
     "palette": "ash #3a2f2a / smoke brown to flame orange #ea580c sky gradient / amber #f59e0b / haze #efe6dc / EPA AQI colors",
     "fonts": "Red Hat Display (900) + Red Hat Text",
     "layout": "full-bleed smoky sky hero with header inside, translucent chips, AQI color scale bar, dark callout with maroon edge, haze sector cards, 3x3 numbered lesson grid, ember-glow dark CTA"
+  },
+  {
+    "name": "analytics-dashboard",
+    "palette": "slate canvas #eef2f7 / white panels / navy #0f172a / emerald #059669 / blue #2563eb / amber status",
+    "fonts": "Figtree",
+    "layout": "dashboard UI: KPI tiles, colored status track (online / field / refresher), horizontal bar chart of lessons per module, two-up panels with ring bullets, FAQ panel, navy CTA bar"
   }
 ]
