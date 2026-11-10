@@ -1,0 +1,31 @@
+# Cal/OSHA Fire Safety & Emergency Evacuation Training
+
+> 2-hour online course for California employees on fire prevention, portable fire extinguisher use (P.A.S.S. and the fight-or-flee decision), emergency action plans and evacuation procedures. Built around Title 8 CCR Section 6151 (Portable Fire Extinguishers) with Sections 3220 (Emergency Action Plan) and 3221 (Fire Prevention Plan). Offered by HAZWOPER OSHA Training (https://hazwoper-osha.com).
+
+## Key facts
+- Standards: Title 8 CCR §6151, §3220, §3221; means of egress §3215–3235; fire protection Group 27 (§6150–6184)
+- Training frequency: employers providing portable extinguishers must educate employees at initial employment and at least annually; all employees briefed on the EAP and relevant FPP parts; designated firefighting staff need additional equipment training
+- Fight or flee: fight only incipient-stage fires (small, confined to point of origin, controllable with a portable extinguisher or small hose); otherwise evacuate
+- P.A.S.S.: Pull, Aim, Squeeze, Sweep
+- Scope note: based on General Industry Safety Orders; construction sites also follow Construction Safety Orders
+- Duration: 2 hours; 5 lessons plus final exam
+- Credits: 0.2 CEU
+- Price: $49.99 per person online; bulk pricing from 2 seats; SCORM, virtual and in-person options
+- Delivery: 100% online, 24/7; English and Spanish
+- Certificate: instant PDF on passing, valid 12 months
+- Prerequisites: none
+
+## Lessons
+1. Fire Safety: An Overview (fire tetrahedron, heat transfer, four stages of fire, California Fire Code)
+2. Fire Prevention (Fire Prevention Plan, housekeeping, flammables, ignition sources)
+3. Fire Protection (extinguishers, P.A.S.S., fight-or-flee, standpipes, fixed systems, alarms)
+4. Emergency Action Plans (exit routes, refuge areas, shelter-in-place, drills)
+5. Emergency Evacuation Procedures (alarms, wardens, headcounts, assembly points)
+
+## Who it is for
+Office, commercial, hospitality, healthcare and lab employees; manufacturing, warehouse, construction and maintenance workers; supervisors; designated extinguisher users; evacuation wardens and response teams; hot work and flammable-materials handlers.
+
+## Links
+- Enroll: https://hazwoper-osha.com/online-courses/calosha-fire-safety-emergency-evacuation-training
+- Landing page: https://cal-osha-fire-evacuation.hazwoperosha.com/
+- Provider phone: 1-866-429-6742

@@ -215,7 +215,11 @@
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/calosha-fire-safety-emergency-evacuation-training",
-    "status": "pending"
+    "status": "done",
+    "subdomain": "cal-osha-fire-evacuation",
+    "title": "Cal/OSHA Fire Safety & Emergency Evacuation Training",
+    "style": "evacuation-floor-plan",
+    "date": "2026-11-10"
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/calosha-hazard-communication-hazcom-with-ghs-training",

@@ -137,5 +137,11 @@
     "palette": "gunmetal #2b2f36 / brass #c9a227 / steel #aeb6bf / cream #f4efe2 / gauge red #c0392b",
     "fonts": "Rajdhani (uppercase) + Lato",
     "layout": "brushed-steel dark hero with brass plate label and SVG pressure gauge, brass spec band, clipped hanging inspection-tag lesson cards, steel bolt bullets, stamped metal standards plate, brass-edged FAQ, gunmetal CTA"
+  },
+  {
+    "name": "evacuation-floor-plan",
+    "palette": "white / ink #1a1a1a / fire red #c8102e / exit green #0a7c3e / grid paper",
+    "fonts": "Sofia Sans Condensed (uppercase) + Sofia Sans",
+    "layout": "CSS floor-plan hero with rooms, walls, dashed red route arrow to green EXIT and assembly point, red fact strip, four big P.A.S.S. letter tiles, red-edged fight-or-flee callout, big red numeral lesson list, dash-bullet audience + black note box, red CTA"
   }
 ]
