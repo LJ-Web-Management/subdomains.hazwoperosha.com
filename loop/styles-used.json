@@ -251,5 +251,11 @@
     "palette": "deep sea navy #0b2238 / #123554, container blue #1f5fa8, orange #e8711f, red #b3262c, green #2d7d4f, hull black + antifouling red",
     "fonts": "Bai Jamjuree + Rethink Sans",
     "layout": "navy hero with CSS container ship (stacked corrugated boxes, hull with waterline) over wave band, fact strip, module cards as corrugated shipping containers with container codes, container-icon bullets, other-modes manifest box, orange-topped CTA"
+  },
+  {
+    "name": "kraft-box-sticker-sheet",
+    "palette": "corrugated kraft #c89b62 / #b3854c, packing tape #decda0, label red #d42027, sticker white, dark brown ink #2a1d10",
+    "fonts": "Gabarito + Pathway Extreme",
+    "layout": "kraft cardboard hero with white peel-corner sticker-sheet card and taped box wearing two hazard label diamonds, dark fact strip, white sticker topic cards with red edge, kraft lesson cards with tape tabs, diamond bullets, tape-band CTA"
   }
 ]

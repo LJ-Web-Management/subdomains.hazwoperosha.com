@@ -412,7 +412,11 @@
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/dot-hazmat-function-specific-training-labeling",
-    "status": "pending"
+    "status": "done",
+    "subdomain": "dot-hazmat-labeling",
+    "title": "DOT Hazmat Function Specific Training: Labeling",
+    "style": "kraft-box-sticker-sheet",
+    "date": "2026-11-10"
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/dot-hazmat-function-specific-training-markings",
