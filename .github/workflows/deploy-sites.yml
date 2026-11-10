@@ -1,0 +1,62 @@
+name: Deploy subdomain sites
+
+# Every folder in sites/ is deployed to <folder>.hazwoperosha.com.
+# Pushes to main redeploy only the folders that changed; running the
+# workflow manually redeploys all of them.
+
+on:
+  push:
+    branches: [main]
+    paths: ['sites/**']
+  workflow_dispatch:
+
+concurrency:
+  group: deploy-sites
+  cancel-in-progress: false
+
+jobs:
+  plan:
+    runs-on: ubuntu-latest
+    outputs:
+      sites: ${{ steps.list.outputs.sites }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - id: list
+        env:
+          BEFORE: ${{ github.event.before }}
+          EVENT: ${{ github.event_name }}
+        run: |
+          all() { find sites -mindepth 1 -maxdepth 1 -type d -printf '%f\n'; }
+          if [[ "$EVENT" == "workflow_dispatch" || -z "$BEFORE" || "$BEFORE" =~ ^0+$ ]] \
+             || ! git cat-file -e "$BEFORE^{commit}" 2>/dev/null; then
+            names="$(all)"
+          else
+            names="$(git diff --name-only "$BEFORE" "$GITHUB_SHA" -- sites/ \
+              | awk -F/ 'NF>2 {print $2}' | sort -u)"
+          fi
+          # keep only folders that still exist (deleted ones are skipped)
+          json="$(for n in $names; do [[ -d "sites/$n" ]] && echo "$n"; done | jq -Rnc '[inputs | select(length>0)]')"
+          echo "Sites to deploy: $json"
+          echo "sites=$json" >> "$GITHUB_OUTPUT"
+
+  deploy:
+    needs: plan
+    if: needs.plan.outputs.sites != '[]'
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        site: ${{ fromJson(needs.plan.outputs.sites) }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Deploy ${{ matrix.site }}
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          ROOT_DOMAIN: hazwoperosha.com
+        run: bash scripts/deploy-site.sh "${{ matrix.site }}"
