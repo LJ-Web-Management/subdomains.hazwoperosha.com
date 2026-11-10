@@ -1,0 +1,33 @@
+# Cal/OSHA Wildfire Smoke Safety and Emergency Training
+
+> Introductory online course on protecting outdoor and partially outdoor workers in California from wildfire smoke, based on Cal/OSHA Title 8, Section 5141.1 (Protection from Wildfire Smoke). Offered by HAZWOPER OSHA Training (https://hazwoper-osha.com).
+
+## Key facts
+- Regulation: Cal/OSHA Title 8 §5141.1; respirator program requirements under Title 8 §5144 when use is mandatory
+- Required: §5141.1 requires employers to train employees on wildfire smoke hazards, protective measures and emergency procedures (Appendix B)
+- Respirators: typically mandatory when AQI exceeds 500, with fit-testing and medical evaluation under §5144
+- Duration: about 1 hour 10 minutes; 9 lessons plus final exam
+- Credits: 0.1 CEU
+- Price: $47.99 per person online or SCORM; bulk pricing from 2 seats; virtual instructor-led $199/person and in-person $750/person (minimum 10)
+- Language: English only
+- Certificate: instant PDF on passing, valid 12 months
+- Renewal: no Cal/OSHA expiration; retrain when duties, locations or risks change; annual spring refresher (April–May) recommended before peak fire season
+
+## Who it is for
+Outdoor and partially outdoor workers and supervisors in construction, agriculture, utilities and public works, landscaping and grounds, transportation and warehousing, plus EHS, compliance and HR staff.
+
+## Lessons
+1. Introduction to Wildfire Smoke
+2. Cal/OSHA Regulation Overview (§5141.1)
+3. Health and Safety Risks
+4. Air Quality and Exposure Monitoring (AQI, PM2.5)
+5. Exposure Control Strategies
+6. Respiratory Protection and PPE
+7. Communication and Employee Information
+8. Emergency Planning and Response
+9. Additional Resources and Best Practices
+
+## Links
+- Enroll: https://hazwoper-osha.com/online-courses/cal-wildfire-smoke-safety-and-emergency-training
+- Landing page: https://cal-osha-wildfire-smoke.hazwoperosha.com/
+- Provider phone: 1-866-429-6742

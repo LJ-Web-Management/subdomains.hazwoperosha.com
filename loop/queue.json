@@ -175,7 +175,11 @@
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/cal-wildfire-smoke-safety-and-emergency-training",
-    "status": "pending"
+    "status": "done",
+    "subdomain": "cal-osha-wildfire-smoke",
+    "title": "Cal/OSHA Wildfire Smoke Safety and Emergency Training",
+    "style": "hazy-wildfire-sky",
+    "date": "2026-11-10"
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/cal40-new",

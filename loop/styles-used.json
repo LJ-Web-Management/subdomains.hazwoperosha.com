@@ -107,5 +107,11 @@
     "palette": "plum #4a2470 / plum tint #efe7f6 / warm sand #f5efe6 / white cards",
     "fonts": "Source Serif 4 + Public Sans",
     "layout": "hero with policy-document card (checkbox list), plum fact strip, 2x2 quadrant of four violence types, circled-number lesson list, split who-section with plum note callout, exemption tiles, serif FAQ, plum closing band"
+  },
+  {
+    "name": "hazy-wildfire-sky",
+    "palette": "ash #3a2f2a / smoke brown to flame orange #ea580c sky gradient / amber #f59e0b / haze #efe6dc / EPA AQI colors",
+    "fonts": "Red Hat Display (900) + Red Hat Text",
+    "layout": "full-bleed smoky sky hero with header inside, translucent chips, AQI color scale bar, dark callout with maroon edge, haze sector cards, 3x3 numbered lesson grid, ember-glow dark CTA"
   }
 ]
