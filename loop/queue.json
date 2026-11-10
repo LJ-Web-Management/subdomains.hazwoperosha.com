@@ -279,7 +279,11 @@
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/cdl-entry-level-driver-training-eldt-passenger-p-endorsement",
-    "status": "pending"
+    "status": "done",
+    "subdomain": "cdl-passenger-p-endorsement",
+    "title": "CDL ELDT Passenger (P) Endorsement",
+    "style": "transit-route-map",
+    "date": "2026-11-10"
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/cdl-entry-level-driver-training-eldt-school-bus-s-endorsement",

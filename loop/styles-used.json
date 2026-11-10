@@ -185,5 +185,11 @@
     "palette": "charcoal #1b1b1f, signal yellow #ffd200, nine DOT hazard-class colors",
     "fonts": "Bebas Neue + Instrument Sans",
     "layout": "dark hero with yellow H badge and fact tiles, row of nine rotated placard diamonds, yellow-topped module cards, who/also-required split, yellow CTA band"
+  },
+  {
+    "name": "transit-route-map",
+    "palette": "night #0d0f12, LED amber #ffb000, bus blue #0057b8, transfer green #00a36c",
+    "fonts": "Doto + Rubik",
+    "layout": "LED destination-sign hero with ticket-stub fact strip, vertical transit route line with module stops, blue rider chip band, numbered path steps, LED sign CTA"
   }
 ]
