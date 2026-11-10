@@ -239,7 +239,11 @@
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/cdl-eldt-class-b-to-class-a-upgrade-new",
-    "status": "pending"
+    "status": "done",
+    "subdomain": "cdl-class-b-to-a-upgrade",
+    "title": "CDL Entry Level Driver Training (ELDT) – Class B to Class A Upgrade",
+    "style": "highway-signage",
+    "date": "2026-11-10"
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/cdl-entry-level-driver-training-eldt-class-a",
