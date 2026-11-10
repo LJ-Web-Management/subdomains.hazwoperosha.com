@@ -1,0 +1,272 @@
+/* Style: Fleet livery (truck-side hero with racing stripes, teal + orange, cargo-crate cards, Russo One + Mulish) */
+:root {
+  --teal: #0f6e78;
+  --teal-dark: #0a4f57;
+  --orange: #f2711c;
+  --sun: #ffb627;
+  --white: #fff;
+  --paper: #eef3f3;
+  --ink: #142023;
+  --muted: #4f5d61;
+  --line: #d4dfe0;
+  --wood: #d9a066;
+  --wood-dark: #a86f37;
+  --head: "Russo One", "Arial Black", sans-serif;
+  --body: "Mulish", system-ui, -apple-system, sans-serif;
+}
+
+*, *::before, *::after { box-sizing: border-box; }
+
+html { scroll-behavior: smooth; }
+
+body {
+  margin: 0;
+  font-family: var(--body);
+  font-size: 1.05rem;
+  line-height: 1.6;
+  color: var(--ink);
+  background: var(--paper);
+}
+
+a { color: var(--teal-dark); text-underline-offset: 3px; }
+
+a:focus-visible, .btn:focus-visible, summary:focus-visible, .top__cta:focus-visible {
+  outline: 3px solid var(--orange);
+  outline-offset: 3px;
+}
+
+.wrap { width: min(1080px, 100% - 32px); margin-inline: auto; }
+
+.skip {
+  position: absolute;
+  left: -999px;
+  top: 8px;
+  padding: 8px 12px;
+  background: var(--orange);
+  color: var(--ink);
+  z-index: 10;
+}
+
+.skip:focus { left: 8px; }
+
+/* Top */
+.top { background: var(--teal-dark); }
+
+.top__inner { display: flex; justify-content: space-between; align-items: center; min-height: 58px; }
+
+.top__brand { font-family: var(--head); color: var(--white); text-decoration: none; letter-spacing: .04em; }
+
+.top__cta { background: var(--orange); color: var(--ink); padding: 5px 16px; border-radius: 999px; font-weight: 700; text-decoration: none; }
+
+/* Hero truck */
+.hero { padding: 40px 0 48px; background: linear-gradient(180deg, #d4ecf0, var(--paper)); }
+
+.truck { position: relative; display: grid; grid-template-columns: 1fr; margin-bottom: 52px; }
+
+.truck__box {
+  position: relative;
+  background:
+    linear-gradient(175deg, transparent 20%, var(--orange) 20% 38%, transparent 38% 48%, var(--teal) 48% 78%, transparent 78%) left bottom / 100% 70px no-repeat,
+    var(--white);
+  border: 4px solid var(--ink);
+  border-radius: 10px;
+  padding: 22px 20px 84px;
+  min-height: 240px;
+}
+
+.truck__tag { margin: 0 0 10px; font-weight: 700; font-size: .85rem; color: var(--teal-dark); }
+
+h1 { font-family: var(--head); font-weight: 400; font-size: clamp(2.2rem, 7vw, 4rem); line-height: 1; margin: 0 0 10px; color: var(--teal-dark); }
+
+h1 span { display: block; font-size: .45em; color: var(--orange); margin-top: 8px; line-height: 1.15; }
+
+.truck__sub { margin: 0; font-weight: 700; color: var(--muted); }
+
+.truck__cab { display: none; }
+
+.wheel {
+  position: absolute;
+  bottom: -28px;
+  width: 56px;
+  height: 56px;
+  border-radius: 50%;
+  background: radial-gradient(circle, #9aa3a6 0 30%, var(--ink) 31%);
+  border: 4px solid var(--ink);
+}
+
+.wheel--1 { left: 12%; }
+
+.wheel--2 { left: 36%; }
+
+.wheel--3 { right: 12%; }
+
+.lede { max-width: 62ch; color: var(--muted); margin: 0 0 22px; }
+
+.actions { display: flex; flex-wrap: wrap; gap: 12px; }
+
+.btn {
+  display: inline-block;
+  padding: 13px 24px;
+  border-radius: 999px;
+  background: var(--orange);
+  color: var(--ink);
+  font-weight: 700;
+  text-decoration: none;
+  border: 3px solid var(--ink);
+}
+
+.btn:hover { background: var(--sun); }
+
+.btn--line { background: var(--white); }
+
+.btn--light { background: var(--white); }
+
+/* Stats */
+.stats { background: var(--teal); color: var(--white); }
+
+.stats__row { display: grid; grid-template-columns: repeat(2, 1fr); }
+
+.stats p { margin: 0; padding: 14px 8px; font-weight: 700; color: #cbe8eb; font-size: .9rem; text-transform: uppercase; letter-spacing: .06em; }
+
+.stats b { display: block; font-family: var(--head); font-weight: 400; font-size: 1.9rem; color: var(--white); letter-spacing: 0; text-transform: none; }
+
+/* Sections */
+.sec { padding-top: 56px; }
+
+h2 { font-family: var(--head); font-weight: 400; font-size: clamp(1.6rem, 4.3vw, 2.3rem); line-height: 1.12; margin: 0 0 14px; color: var(--teal-dark); }
+
+h3 { font-weight: 700; font-size: 1.12rem; margin: 0 0 6px; }
+
+.intro { color: var(--muted); margin: 0 0 16px; max-width: 64ch; }
+
+.chips { list-style: none; margin: 0 0 16px; padding: 0; display: flex; flex-wrap: wrap; gap: 8px; }
+
+.chips li { background: var(--white); border: 2px solid var(--teal); border-radius: 999px; padding: 6px 14px; font-weight: 700; color: var(--teal-dark); }
+
+.note { color: var(--muted); margin: 0; max-width: 70ch; }
+
+/* Crates */
+.crates { display: grid; gap: 14px; }
+
+.crate {
+  background:
+    repeating-linear-gradient(0deg, transparent 0 38px, rgba(168, 111, 55, .35) 38px 40px),
+    var(--wood);
+  border: 4px solid var(--wood-dark);
+  border-radius: 6px;
+  padding: 18px;
+  color: #2a1a08;
+  position: relative;
+}
+
+.crate::before, .crate::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 10px;
+  background: var(--wood-dark);
+}
+
+.crate::before { left: 0; }
+
+.crate::after { right: 0; }
+
+.crate__no {
+  display: inline-block;
+  margin: 0 0 8px;
+  padding: 2px 8px;
+  background: var(--ink);
+  color: var(--sun);
+  font-family: var(--head);
+  font-size: .85rem;
+}
+
+.crate h3, .crate p { position: relative; margin-left: 6px; margin-right: 6px; }
+
+.crate p:last-child { margin-bottom: 0; background: rgba(255, 248, 235, .85); padding: 8px 10px; border-radius: 4px; }
+
+/* Panel */
+.panel { background: var(--white); border: 3px solid var(--ink); border-radius: 12px; padding: 22px; box-shadow: 6px 6px 0 var(--orange); }
+
+.panel ul { margin: 0; padding-left: 20px; }
+
+.panel li { margin-bottom: 10px; }
+
+/* FAQ */
+.faq details { background: var(--white); border: 2px solid var(--line); border-radius: 12px; margin-bottom: 8px; }
+
+.faq summary {
+  cursor: pointer;
+  list-style: none;
+  padding: 14px 52px 14px 16px;
+  font-weight: 700;
+  position: relative;
+}
+
+.faq summary::-webkit-details-marker { display: none; }
+
+.faq summary::after {
+  content: "+";
+  position: absolute;
+  right: 14px;
+  top: 10px;
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  background: var(--teal);
+  color: var(--white);
+  display: grid;
+  place-items: center;
+  font-weight: 700;
+}
+
+.faq details[open] summary::after { content: "−"; background: var(--orange); color: var(--ink); }
+
+.faq details p { margin: 0; padding: 0 16px 16px; color: var(--muted); }
+
+/* CTA */
+.cta { margin-top: 64px; padding: 56px 0; background: linear-gradient(170deg, var(--teal) 0 70%, var(--orange) 70% 76%, var(--teal-dark) 76%); color: var(--white); }
+
+.cta h2 { color: var(--white); }
+
+.cta p { max-width: 60ch; color: #d6eff1; margin: 0 0 24px; }
+
+.cta a:not(.btn) { color: var(--sun); }
+
+/* Foot */
+.foot { background: var(--ink); color: #b6c2c4; padding: 20px 0; font-size: .9rem; }
+
+.foot a { color: var(--white); }
+
+.foot__inner { display: grid; gap: 4px; }
+
+.foot p { margin: 0; }
+
+@media (min-width: 760px) {
+  .truck { grid-template-columns: 1fr 180px; }
+  .truck__box { border-radius: 10px 0 0 10px; padding: 32px 32px 72px; }
+  .truck__cab {
+    display: block;
+    position: relative;
+    align-self: end;
+    height: 72%;
+    background: var(--teal);
+    border: 4px solid var(--ink);
+    border-left: 0;
+    border-radius: 0 60px 10px 0;
+  }
+  .truck__window { position: absolute; top: 16%; right: 18%; width: 46%; height: 30%; background: #bfe6f0; border: 4px solid var(--ink); border-radius: 0 30px 4px 4px; }
+  .wheel { width: 72px; height: 72px; bottom: -36px; }
+  .wheel--1 { left: 10%; }
+  .wheel--2 { left: 22%; }
+  .wheel--3 { right: 6%; }
+  .stats__row { grid-template-columns: repeat(5, 1fr); }
+  .crates { grid-template-columns: 1fr 1fr; }
+  .crate--wide { grid-column: 1 / -1; }
+  .foot__inner { grid-template-columns: 1fr auto; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+}

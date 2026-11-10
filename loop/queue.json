@@ -255,7 +255,11 @@
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/cdl-entry-level-driver-training-eldt-class-b-new",
-    "status": "pending"
+    "status": "done",
+    "subdomain": "cdl-eldt-class-b",
+    "title": "CDL Entry Level Driver Training (ELDT) - Class B",
+    "style": "fleet-livery",
+    "date": "2026-11-10"
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/cdl-entry-level-driver-training-eldt-hazmat-and-tank-vehicle-x-endorsement",
