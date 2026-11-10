@@ -231,7 +231,11 @@
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/calosha-personal-protective-equipment-ppe-training",
-    "status": "pending"
+    "status": "done",
+    "subdomain": "cal-osha-ppe",
+    "title": "Cal/OSHA Personal Protective Equipment (PPE) Training",
+    "style": "hi-vis-vest",
+    "date": "2026-11-10"
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/cdl-eldt-class-b-to-class-a-upgrade-new",

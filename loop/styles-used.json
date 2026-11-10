@@ -149,5 +149,11 @@
     "palette": "white label on light grey #ececec / ink #111 / GHS red #d71920",
     "fonts": "Libre Franklin (900 headings)",
     "layout": "hero built as a GHS shipping label (product identifier, signal word, statements, red rotated diamonds, supplier footer), 16-cell SDS section grid, bordered lesson cards, black California-rules tiles, red-left-border audience list, bordered FAQ with red square toggles, red CTA"
+  },
+  {
+    "name": "hi-vis-vest",
+    "palette": "fluorescent yellow-green #d4ff2a / charcoal #1d1f22 / silver reflective stripes / safety orange #f28c28",
+    "fonts": "Exo 2 (uppercase 800)",
+    "layout": "hi-vis hero with reflective silver stripe bands, charcoal fact strip, SVG worker figure beside body-zone list, inverted hierarchy-of-controls pyramid with PPE highlighted, numbered lesson cards, tape-bullet audience list, charcoal CTA with stripes"
   }
 ]

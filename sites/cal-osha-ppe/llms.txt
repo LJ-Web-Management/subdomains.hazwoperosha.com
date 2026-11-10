@@ -1,0 +1,29 @@
+# Cal/OSHA Personal Protective Equipment (PPE) Training
+
+> 2-hour online course on PPE programs and the selection, use, inspection and maintenance of respiratory, head, eye, face, hearing, hand, foot, chemical protective and electrical protective equipment in California workplaces. Based on Cal/OSHA Title 8 CCR Sections 3380–3385 (General Industry) and 1514 (Construction). Offered by HAZWOPER OSHA Training (https://hazwoper-osha.com).
+
+## Key facts
+- Standards: Title 8 CCR §3380–3385, §1514; related §5144 (Respiratory Protection), §5097 (Hearing Conservation), §5141.1 (Wildfire Smoke), §5192
+- Training timing: Cal/OSHA sets no fixed refresher period; employees must be trained before work requiring PPE and retrained when the workplace or PPE type changes
+- Hierarchy of controls: PPE is the last line of defense after elimination, engineering and administrative controls
+- Duration: 2 hours; 6 lessons plus final exam
+- Credits: 0.2 CEU
+- Price: $49.99 per person online; bulk pricing from 2 seats; SCORM, live virtual and in-person options
+- Delivery: 100% online, 24/7; English and Spanish
+- Prerequisites: none
+
+## Lessons
+1. Fundamentals of a PPE Program
+2. Respiratory Protection
+3. PPE for Head, Eyes, Face, and Ears
+4. PPE for Hands and Feet
+5. Chemical Protective Clothing
+6. Electrical Protective Equipment
+
+## Who it is for
+California workers required to wear PPE; managers and safety staff running PPE programs; respirator, chemical suit and electrical PPE users; employers, safety coordinators and trainers in construction, manufacturing, healthcare, agriculture, utilities, labs and hazmat operations.
+
+## Links
+- Enroll: https://hazwoper-osha.com/online-courses/calosha-personal-protective-equipment-ppe-training
+- Landing page: https://cal-osha-ppe.hazwoperosha.com/
+- Provider phone: 1-866-429-6742
