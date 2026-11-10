@@ -101,5 +101,11 @@
     "palette": "white/#fafafb / ink #0f1020 / indigo #4f46e5 to violet #9333ea gradient / green+red status tags",
     "fonts": "Geist",
     "layout": "centered hero on dot-grid with pill badge and gradient-text headline, joined KPI strip, 4-col numbered stepper cards, significant vs non-significant status cards, two curriculum cards, pill tags, single-card FAQ, full gradient CTA card"
+  },
+  {
+    "name": "calm-hr-handbook",
+    "palette": "plum #4a2470 / plum tint #efe7f6 / warm sand #f5efe6 / white cards",
+    "fonts": "Source Serif 4 + Public Sans",
+    "layout": "hero with policy-document card (checkbox list), plum fact strip, 2x2 quadrant of four violence types, circled-number lesson list, split who-section with plum note callout, exemption tiles, serif FAQ, plum closing band"
   }
 ]

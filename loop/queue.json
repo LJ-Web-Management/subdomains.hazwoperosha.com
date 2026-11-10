@@ -167,7 +167,11 @@
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/cal-osha-workplace-violence-prevention-plan-training",
-    "status": "pending"
+    "status": "done",
+    "subdomain": "cal-osha-workplace-violence",
+    "title": "Cal/OSHA Workplace Violence Prevention Plan Training",
+    "style": "calm-hr-handbook",
+    "date": "2026-11-10"
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/cal-wildfire-smoke-safety-and-emergency-training",
