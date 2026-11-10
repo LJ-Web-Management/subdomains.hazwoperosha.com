@@ -287,5 +287,11 @@
     "palette": "charcoal desk #2b2a33, form white / canary #fff3a8 / pink #ffd3dc copies, ballpoint blue #1f3fa0, check red #c4302b",
     "fonts": "Young Serif + Geologica + Cutive Mono",
     "layout": "charcoal hero with fanned triplicate shipping-paper copies (ruled lines, HM column X, certification line), canary fact strip, numbered basic-description sequence cards, lesson cards with stacked canary/pink copy shadows, HM-checkbox bullets"
+  },
+  {
+    "name": "green-bar-printout",
+    "palette": "forest green #1f3a2b / #2b4d3a, green-bar bands #d9efd8, form white #fbfdf8, amber #f5b02e",
+    "fonts": "VT323 + Urbanist",
+    "layout": "forest hero with dot-matrix kicker, fact strip, continuous-form green-bar printout table with tractor-feed holes listing HMT Columns 1-10, dot-matrix lesson numbers, green-bar who list, banded CTA"
   }
 ]

@@ -460,7 +460,11 @@
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/dot-hazmat-function-specific-training-the-hazmat-table",
-    "status": "pending"
+    "status": "done",
+    "subdomain": "dot-hazmat-table",
+    "title": "DOT Hazmat Function Specific Training: The Hazmat Table",
+    "style": "green-bar-printout",
+    "date": "2026-11-10"
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/dot-hazmat-ground-shipper-certification-training",

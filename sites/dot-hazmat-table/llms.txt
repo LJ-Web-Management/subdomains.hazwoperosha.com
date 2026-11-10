@@ -1,0 +1,42 @@
+# DOT Hazmat Function Specific Training: The Hazmat Table
+
+> 2-hour online function-specific training on the DOT Hazardous Materials Table, 49 CFR 172.101 (49 CFR Part 172 Subpart B). Available in English and Spanish. Offered by HAZWOPER OSHA Training (https://hazwoper-osha.com).
+
+## Key facts
+- Duration: 2 hours; 2 modules, 3 lessons, final exam
+- Credits: 0.2 CEU
+- Price: $39.99 per person; bulk pricing available
+- Delivery: 100% online, 24/7, audio option; SCORM, virtual instructor-led and on-site formats also available
+- Languages: English, Spanish
+- Prerequisites: none
+- Certificate: downloadable on passing; valid 3 years (recurrent training at least every three years, and when relevant regulations change)
+
+## Hazardous Materials Table columns
+1. Symbols
+2. Hazardous materials descriptions and proper shipping names
+3. Hazard class or division
+4. Identification number
+5. Packing group
+6. Label codes
+7. Special provisions
+8. Packaging (exceptions, non-bulk, bulk)
+9. Quantity limitations (passenger aircraft or rail; cargo aircraft only)
+10. Vessel stowage
+- Appendix A: hazardous substances and reportable quantities
+- Appendix B: marine pollutants
+
+## Lessons
+1. Regulatory Overview
+2. Hazardous Materials Table, Part 1
+3. Hazardous Materials Table, Part 2
+
+## Who should take it
+Workers who classify materials; staff responsible for packaging, labeling and documentation; hazmat employees who ship, handle or transport hazmat; logistics professionals; hazmat employers and safety managers.
+
+## Links
+- Enroll: https://hazwoper-osha.com/online-courses/dot-hazmat-function-specific-training-the-hazmat-table
+- Function Specific: Shipping Papers: https://hazwoper-osha.com/online-courses/dot-hazmat-function-specific-training-shipping-papers
+- Function Specific: Packaging: https://hazwoper-osha.com/online-courses/dot-hazmat-function-specific-training-packaging
+- Function Specific: Labeling: https://hazwoper-osha.com/online-courses/dot-hazmat-function-specific-training-labeling
+- 10-Hour DOT Hazmat Advanced General Awareness: https://hazwoper-osha.com/online-courses/dot-hazmat-transportation-advanced-general-awareness-training
+- Phone: 1-866-429-6742
