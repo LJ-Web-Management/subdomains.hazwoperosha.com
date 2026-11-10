@@ -65,5 +65,11 @@
     "palette": "cream #f3e9d2 / burnt orange #d65a2b / mustard #e7a83b / teal #2a7f7a / brown #2b2118",
     "fonts": "Alfa Slab One + Work Sans",
     "layout": "poster headline question, concentric-rings SVG (expanding incident), brown stat band, 4-col rounded bordered audience cards, three colored module panels, pill buttons with hard drop, teal closing band"
+  },
+  {
+    "name": "clinical-documentation",
+    "palette": "white cards on #f6f9fb / slate #1e293b / medical cyan #0e7490 / coral #d9534f callout",
+    "fonts": "Lexend",
+    "layout": "docs layout with sticky left table-of-contents nav, white rounded section cards, coral callout box, roles data table, numbered step list, definition-list facts, cyan CTA card"
   }
 ]

@@ -99,7 +99,11 @@
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/bloodborne-pathogens-training",
-    "status": "pending"
+    "status": "done",
+    "subdomain": "bloodborne-pathogens",
+    "title": "OSHA Bloodborne Pathogens Training",
+    "style": "clinical-documentation",
+    "date": "2026-11-10"
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/cal-osha-24-hour-hazwoper-training",
