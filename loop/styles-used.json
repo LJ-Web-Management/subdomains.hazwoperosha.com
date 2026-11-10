@@ -359,5 +359,11 @@
     "palette": "navy #1e3a5f / #142a46, steel-blue task bars #3f7cc4, amber milestone #f0a020, planning-grid white / #e3e8ef",
     "fonts": "Fira Sans + Fira Code",
     "layout": "navy grid-paper hero, white fact strip, full Gantt chart of 17 modules with bars offset and sized by lesson share and an amber finish milestone, steel-bar bullets, navy related box, amber-topped CTA"
+  },
+  {
+    "name": "desk-calendar-renewal",
+    "palette": "warm sand #efe9dd, calendar white, brick red #b8352b / #8f2820, charcoal #2b2d31",
+    "fonts": "Lora + Gantari",
+    "layout": "sand hero with ring-bound wall calendar (red header, month grid, hand-circled renewal month), charcoal fact strip, module cards with tear-off calendar-page numerals and chapter tags, charcoal related box, brick CTA"
   }
 ]

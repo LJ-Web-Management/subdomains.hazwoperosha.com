@@ -566,7 +566,11 @@
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/em-385-1-1-8-hour-refresher-training-for-site-safety-and-health-officers-sshos",
-    "status": "pending"
+    "status": "done",
+    "subdomain": "em-385-ssho-refresher",
+    "title": "EM 385-1-1 8 Hour Refresher Training for SSHOs",
+    "style": "desk-calendar-renewal",
+    "date": "2026-11-10"
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/em-385-1-1-8-hour-refresher-training-for-workers",
