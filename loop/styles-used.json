@@ -23,5 +23,11 @@
     "palette": "white / black #111 / single red #e30613, red closing band",
     "fonts": "Archivo (800 display, 400 body)",
     "layout": "12-col grid with left uppercase red labels + right content, giant numeral hero, 12-month cycle strip, big-number facts grid, numbered 2-col syllabus, full-bleed red CTA"
+  },
+  {
+    "name": "neo-brutalist",
+    "palette": "cream #fffbea / ink #111 / safety yellow #ffd60a / sky blue #4cc9f0 / pink #ff8fab",
+    "fonts": "Bricolage Grotesque",
+    "layout": "thick 3px borders + hard offset shadows, rotated pink art card with SVG scissor lift, black stat strip, 3-col bordered audience cards, 4-up colored lesson flow (before/during/after), boxed FAQ with square toggles, shadowed blue CTA box"
   }
 ]
