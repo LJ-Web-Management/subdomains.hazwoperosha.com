@@ -35,5 +35,11 @@
     "palette": "deep teal #032a31 to #0f6070 gradient / ice #bff4ff / cyan #5ee6ff, frosted glass",
     "fonts": "Sora (300 display + 600/700)",
     "layout": "rounded frosted-glass cards with backdrop blur, light-weight display headline, SVG refrigeration-cycle loop, 4 glass stat cards, two glass list panels, 3-col numbered lesson cards with round badges, glass FAQ pills, centered glass CTA, pill buttons"
+  },
+  {
+    "name": "ansi-safety-label",
+    "palette": "ANSI Z535 signal colors: orange #ff7a00, yellow #ffd400, blue #0055a5, green #00843d on white/#f4f4f1 with black borders",
+    "fonts": "Oswald (condensed uppercase) + Source Sans 3",
+    "layout": "sections styled as safety signs with colored signal-word header bars, annotated WARNING label mock in hero, yellow fact strip, 2x2 bordered lesson grid with black number squares, hazard-stripe CTA band"
   }
 ]

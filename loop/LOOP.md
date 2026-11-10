@@ -19,6 +19,7 @@ State files (commit them every iteration):
 - Fetch the URL and read the real details: course name, hours, price,
   regulation (CFR), audience, format, certificate, language, and the
   enroll/buy link.
+- (57 category pages were already found and marked `skipped` in one batch. A real course page has a `Product` JSON-LD block, and `extract-course.py` prints none for a category page.)
 - If the page is a **category or listing page** (several courses with no
   single course to enroll in), or it is gone or empty, mark it `skipped` with
   a `reason` and go straight on to the next pending entry within the same

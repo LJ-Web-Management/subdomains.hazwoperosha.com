@@ -1,0 +1,34 @@
+# OSHA Arc Flash Safety Training (NFPA 70E 2027)
+
+> 2-hour online course that familiarizes workers with arc flash hazards and the safe work practices in OSHA electrical standards 29 CFR 1910 Subpart S and 29 CFR 1926 Subpart K and the 2027 edition of NFPA 70E (Standard for Electrical Safety in the Workplace). Offered by HAZWOPER OSHA Training (https://hazwoper-osha.com).
+
+## Key facts
+- Regulations: OSHA 29 CFR 1910 Subpart S (general industry), 29 CFR 1926 Subpart K (construction), NFPA 70E 2027
+- Duration: about 2 hours; 4 lessons plus final exam
+- Credits: 0.2 CEU
+- Price: $49.99 per person online; bulk pricing from 2 seats
+- Other formats: SCORM, virtual instructor-led, in-person
+- Delivery: 100% online, 24/7, any device; English and Spanish
+- Completion window: 3 months; 1 year of access to materials
+- Certificate: instant PDF on passing, valid 36 months; renew by retaking every 3 years
+- Prerequisites: none
+
+## Definitions
+- Arc flash: electric current leaving its intended path and traveling through the air between conductors or to ground, releasing intense heat and light that can cause severe burns or death.
+- Arc flash study: an engineering analysis that calculates incident energy, sets protection boundaries, and identifies required PPE and labels.
+- OSHA vs NFPA 70E: OSHA is the law (performance-based); NFPA 70E is the consensus standard OSHA looks to for how to comply.
+
+## Who it is for
+Electricians; maintenance and facility staff near energized equipment; managers and supervisors of electrical work; equipment operators; janitorial staff with electrical room access; contractors and temporary workers.
+
+## Lessons
+1. What is an Arc Flash?
+2. Regulatory Overview
+3. Controlling Arc Flash Hazards (insulation, guarding, grounding, GFCIs)
+4. Arc Flash PPE and Labels
+
+## Links
+- Enroll: https://hazwoper-osha.com/online-courses/arc-flash-safety-training-nfpa-70e
+- All NFPA 70E courses: https://hazwoper-osha.com/online-courses/nfpa-70e-electrical-arc-flash-safety-training
+- Landing page: https://arc-flash-nfpa-70e.hazwoperosha.com/
+- Provider phone: 1-866-429-6742

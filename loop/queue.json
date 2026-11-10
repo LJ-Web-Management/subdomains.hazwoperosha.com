@@ -49,11 +49,16 @@
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/ammonia-refrigeration-systems-training",
-    "status": "pending"
+    "status": "skipped",
+    "reason": "category/listing page (no single course to enroll in)"
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/arc-flash-safety-training-nfpa-70e",
-    "status": "pending"
+    "status": "done",
+    "subdomain": "arc-flash-nfpa-70e",
+    "title": "OSHA Arc Flash Safety Training (NFPA 70E 2027)",
+    "style": "ansi-safety-label",
+    "date": "2026-11-10"
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/asbestos-awareness-training",
@@ -73,7 +78,8 @@
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/bloodborne-pathogens-healthcare-safety",
-    "status": "pending"
+    "status": "skipped",
+    "reason": "category/listing page (no single course to enroll in)"
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/bloodborne-pathogens-training",
@@ -89,15 +95,18 @@
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/cal-osha-construction-industry",
-    "status": "pending"
+    "status": "skipped",
+    "reason": "category/listing page (no single course to enroll in)"
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/cal-osha-general-industry",
-    "status": "pending"
+    "status": "skipped",
+    "reason": "category/listing page (no single course to enroll in)"
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/cal-osha-hazwoper-e-training",
-    "status": "pending"
+    "status": "skipped",
+    "reason": "category/listing page (no single course to enroll in)"
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/cal-osha-heat-illness-prevention-training-for-construction",
@@ -113,7 +122,8 @@
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/cal-osha-training",
-    "status": "pending"
+    "status": "skipped",
+    "reason": "category/listing page (no single course to enroll in)"
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/cal-osha-workplace-violence-prevention-plan-training",
@@ -189,7 +199,8 @@
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/competent-person-training",
-    "status": "pending"
+    "status": "skipped",
+    "reason": "category/listing page (no single course to enroll in)"
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/comprehensive-h2s-training",
@@ -201,23 +212,28 @@
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/confined-space-construction",
-    "status": "pending"
+    "status": "skipped",
+    "reason": "category/listing page (no single course to enroll in)"
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/confined-space-permits-general-industry",
-    "status": "pending"
+    "status": "skipped",
+    "reason": "category/listing page (no single course to enroll in)"
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/confined-space-training",
-    "status": "pending"
+    "status": "skipped",
+    "reason": "category/listing page (no single course to enroll in)"
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/core-safety-programs",
-    "status": "pending"
+    "status": "skipped",
+    "reason": "category/listing page (no single course to enroll in)"
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/customize-courses",
-    "status": "pending"
+    "status": "skipped",
+    "reason": "category/listing page (no single course to enroll in)"
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/design-and-operation-of-ammonia-evaporators-condensers-and-controls-training",
@@ -225,7 +241,8 @@
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/dot-carrier-requirements",
-    "status": "pending"
+    "status": "skipped",
+    "reason": "category/listing page (no single course to enroll in)"
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/dot-hazmat-carrier-requirements-air-iata",
@@ -245,11 +262,13 @@
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/dot-hazmat-core",
-    "status": "pending"
+    "status": "skipped",
+    "reason": "category/listing page (no single course to enroll in)"
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/dot-hazmat-function-specific-49",
-    "status": "pending"
+    "status": "skipped",
+    "reason": "category/listing page (no single course to enroll in)"
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/dot-hazmat-function-specific-training-labeling",
@@ -285,7 +304,8 @@
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/dot-hazmat-training",
-    "status": "pending"
+    "status": "skipped",
+    "reason": "category/listing page (no single course to enroll in)"
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/dot-hazmat-transportation-advanced-general-awareness-training",
@@ -305,7 +325,8 @@
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/dot-iata-imdg-shipping-lithium-batteries-series",
-    "status": "pending"
+    "status": "skipped",
+    "reason": "category/listing page (no single course to enroll in)"
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/dot-reasonable-suspicion-drug-and-alcohol-testing-for-managers-and-supervisors-training",
@@ -341,23 +362,28 @@
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/em385-1-1-training",
-    "status": "pending"
+    "status": "skipped",
+    "reason": "category/listing page (no single course to enroll in)"
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/entry-level-driver-training-eldt-for-cdl",
-    "status": "pending"
+    "status": "skipped",
+    "reason": "category/listing page (no single course to enroll in)"
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/environmental-weather",
-    "status": "pending"
+    "status": "skipped",
+    "reason": "category/listing page (no single course to enroll in)"
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/environmental-weather-health",
-    "status": "pending"
+    "status": "skipped",
+    "reason": "category/listing page (no single course to enroll in)"
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/epa",
-    "status": "pending"
+    "status": "skipped",
+    "reason": "category/listing page (no single course to enroll in)"
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/epa-spill-prevention-control-and-countermeasure-spcc-training",
@@ -365,11 +391,13 @@
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/equipment-lifts-scaffolding",
-    "status": "pending"
+    "status": "skipped",
+    "reason": "category/listing page (no single course to enroll in)"
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/equipment-tools-material-handling",
-    "status": "pending"
+    "status": "skipped",
+    "reason": "category/listing page (no single course to enroll in)"
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/ergonomics-safety-training",
@@ -377,7 +405,8 @@
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/ergonomics-training",
-    "status": "pending"
+    "status": "skipped",
+    "reason": "category/listing page (no single course to enroll in)"
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/essentials-of-ammonia-positive-displacement-compressors-training",
@@ -385,7 +414,8 @@
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/excavation-trenching-shoring",
-    "status": "pending"
+    "status": "skipped",
+    "reason": "category/listing page (no single course to enroll in)"
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/fire-safety-training",
@@ -405,11 +435,13 @@
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/hazard-communication-hazcom-ghs-training",
-    "status": "pending"
+    "status": "skipped",
+    "reason": "category/listing page (no single course to enroll in)"
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/hazardous-substances-exposures",
-    "status": "pending"
+    "status": "skipped",
+    "reason": "category/listing page (no single course to enroll in)"
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/hazardous-waste-manifest-training",
@@ -417,19 +449,23 @@
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/hazcom-and-h2s-training",
-    "status": "pending"
+    "status": "skipped",
+    "reason": "category/listing page (no single course to enroll in)"
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/hazwoper-e-p-q-training",
-    "status": "pending"
+    "status": "skipped",
+    "reason": "category/listing page (no single course to enroll in)"
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/healthcare-industry-training",
-    "status": "pending"
+    "status": "skipped",
+    "reason": "category/listing page (no single course to enroll in)"
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/hipaa-compliance-training",
-    "status": "pending"
+    "status": "skipped",
+    "reason": "category/listing page (no single course to enroll in)"
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/hipaa-general-awareness-training-new",
@@ -437,7 +473,8 @@
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/hipaa-training",
-    "status": "pending"
+    "status": "skipped",
+    "reason": "category/listing page (no single course to enroll in)"
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/hydrogen-sulfide-awareness-training",
@@ -445,15 +482,18 @@
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/hydrogen-sulfide-h2s-training",
-    "status": "pending"
+    "status": "skipped",
+    "reason": "category/listing page (no single course to enroll in)"
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/in-person-training",
-    "status": "pending"
+    "status": "skipped",
+    "reason": "category/listing page (no single course to enroll in)"
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/incident-command-system",
-    "status": "pending"
+    "status": "skipped",
+    "reason": "category/listing page (no single course to enroll in)"
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/introduction-to-the-incident-command-system-ics-100-training",
@@ -461,7 +501,8 @@
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/ladder-fall-general",
-    "status": "pending"
+    "status": "skipped",
+    "reason": "category/listing page (no single course to enroll in)"
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/lead-awareness-training-for-construction-industry",
@@ -469,7 +510,8 @@
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/lifts-scaffolding-working-at-height",
-    "status": "pending"
+    "status": "skipped",
+    "reason": "category/listing page (no single course to enroll in)"
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/lithium-batteries-awareness-training",
@@ -481,7 +523,8 @@
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/mold-inspection-remediation-certification",
-    "status": "pending"
+    "status": "skipped",
+    "reason": "category/listing page (no single course to enroll in)"
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/mold-inspector-certification-for-prevention-remediation-and-removal-training",
@@ -509,7 +552,8 @@
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/msha-training",
-    "status": "pending"
+    "status": "skipped",
+    "reason": "category/listing page (no single course to enroll in)"
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/national-flagger-and-traffic-control-for-construction-sites-certification-training",
@@ -517,7 +561,8 @@
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/nfpa-70e-electrical-arc-flash-safety-training",
-    "status": "pending"
+    "status": "skipped",
+    "reason": "category/listing page (no single course to enroll in)"
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/norm-worker-safety-training",
@@ -525,11 +570,13 @@
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/nyc-site-safety-training",
-    "status": "pending"
+    "status": "skipped",
+    "reason": "category/listing page (no single course to enroll in)"
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/osha-10-30-outreach-training",
-    "status": "pending"
+    "status": "skipped",
+    "reason": "category/listing page (no single course to enroll in)"
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/osha-10-general-industry-outreach-training-course-spanish",
@@ -649,11 +696,13 @@
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/osha-construction-series",
-    "status": "pending"
+    "status": "skipped",
+    "reason": "category/listing page (no single course to enroll in)"
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/osha-construction-series-spanish",
-    "status": "pending"
+    "status": "skipped",
+    "reason": "category/listing page (no single course to enroll in)"
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/osha-driving-safety-training",
@@ -693,7 +742,8 @@
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/osha-general-series",
-    "status": "pending"
+    "status": "skipped",
+    "reason": "category/listing page (no single course to enroll in)"
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/osha-ground-fault-protection-gfci-safety-training-nfpa-70e-2024",
@@ -793,7 +843,8 @@
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/osha-safety-training",
-    "status": "pending"
+    "status": "skipped",
+    "reason": "category/listing page (no single course to enroll in)"
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/osha-scaffolding-erection-and-inspection-training-for-competent-person",
@@ -837,7 +888,8 @@
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/outreach-for-new-york",
-    "status": "pending"
+    "status": "skipped",
+    "reason": "category/listing page (no single course to enroll in)"
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/pandemic-awareness-preparedness-and-response-training",
@@ -857,7 +909,8 @@
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/radiation-series",
-    "status": "pending"
+    "status": "skipped",
+    "reason": "category/listing page (no single course to enroll in)"
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/radiofrequency-rf-safety-and-hazard-awareness-training",
@@ -873,15 +926,18 @@
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/rcra-training",
-    "status": "pending"
+    "status": "skipped",
+    "reason": "category/listing page (no single course to enroll in)"
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/respiratory-scba",
-    "status": "pending"
+    "status": "skipped",
+    "reason": "category/listing page (no single course to enroll in)"
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/respiratory-scba-1",
-    "status": "pending"
+    "status": "skipped",
+    "reason": "category/listing page (no single course to enroll in)"
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/rigging-safety-awareness-training",
@@ -905,11 +961,13 @@
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/silica-lead-asbestos-hex-chrome",
-    "status": "pending"
+    "status": "skipped",
+    "reason": "category/listing page (no single course to enroll in)"
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/spill-prevention",
-    "status": "pending"
+    "status": "skipped",
+    "reason": "category/listing page (no single course to enroll in)"
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/stop-work-authority-training",
@@ -917,11 +975,13 @@
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/storm-water-planning-for-construction",
-    "status": "pending"
+    "status": "skipped",
+    "reason": "category/listing page (no single course to enroll in)"
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/train-the-trainer-programs",
-    "status": "pending"
+    "status": "skipped",
+    "reason": "category/listing page (no single course to enroll in)"
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/welding-cutting-and-brazing-for-construction",
@@ -929,7 +989,8 @@
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/welding-steel-concrete",
-    "status": "pending"
+    "status": "skipped",
+    "reason": "category/listing page (no single course to enroll in)"
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/wildfire-smoke-safety-awareness-training",
