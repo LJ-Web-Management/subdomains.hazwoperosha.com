@@ -131,5 +131,11 @@
     "palette": "lab white #f8fafc / slate ink #1e293b / pastel element categories: amber #fde68a, blue #bfdbfe, red #fecaca, green #bbf7d0, purple #e9d5ff",
     "fonts": "DM Sans + DM Mono",
     "layout": "hero with 2x2 periodic-element tiles (Co/Sv/Ox/Pa), mono-label fact strip, lesson cards with element-symbol badges, square-bullet audience grid, mono standards table, slate CTA"
+  },
+  {
+    "name": "gunmetal-brass-instrument",
+    "palette": "gunmetal #2b2f36 / brass #c9a227 / steel #aeb6bf / cream #f4efe2 / gauge red #c0392b",
+    "fonts": "Rajdhani (uppercase) + Lato",
+    "layout": "brushed-steel dark hero with brass plate label and SVG pressure gauge, brass spec band, clipped hanging inspection-tag lesson cards, steel bolt bullets, stamped metal standards plate, brass-edged FAQ, gunmetal CTA"
   }
 ]

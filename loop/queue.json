@@ -207,7 +207,11 @@
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/calosha-compressed-gas-cylinder-safety-training",
-    "status": "pending"
+    "status": "done",
+    "subdomain": "cal-osha-gas-cylinders",
+    "title": "Cal/OSHA Compressed Gas Cylinder Safety Training",
+    "style": "gunmetal-brass-instrument",
+    "date": "2026-11-10"
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/calosha-fire-safety-emergency-evacuation-training",

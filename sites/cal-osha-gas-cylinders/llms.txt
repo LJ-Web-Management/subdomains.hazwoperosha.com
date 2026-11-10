@@ -1,0 +1,28 @@
+# Cal/OSHA Compressed Gas Cylinder Safety Training
+
+> 2-hour online course for California workers who handle compressed gas cylinders (welding, construction, maintenance, manufacturing), covering cylinder types, hazards, inspection and installation, storage and transportation, and safe work practices. Based on Cal/OSHA Title 8 Section 4650 and related sections. Offered by HAZWOPER OSHA Training (https://hazwoper-osha.com).
+
+## Key facts
+- Title 8 sections: 4650 (storage, handling and use of cylinders), 4649 (construction and marking), 4657 (safety relief devices), 1740 (cylinders in construction), 3203 (IIPP), 5194 (Hazard Communication); also 4838, 4845, 5157, 5144
+- Duration: 2 hours; 5 lessons plus final exam
+- Credits: 0.2 CEU
+- Price: $49.99 per person online; bulk pricing from 2 seats; live virtual, SCORM and in-person options
+- Delivery: 100% online, 24/7; English and Spanish
+- Certificate: instant PDF on passing, valid 36 months
+- Refresher: no universally mandated annual refresher; retake every 36 months recommended, or sooner when duties or hazards change
+- Prerequisites: none
+
+## Who it is for
+Welders, cutting operators and fabricators using fuel gases (acetylene, oxygen); foremen, safety coordinators and supervisors; workers who receive, inspect, secure or prepare cylinders; maintenance staff and technicians who attach regulators or investigate leaks.
+
+## Lessons
+1. Introduction to Compressed Gas Cylinders
+2. Common Hazards (stored pressure, fire and explosion, asphyxiation, incompatibility, PVC/CPVC piping)
+3. Inspection and Installation
+4. Storage and Transportation
+5. Safe Work Practices (valves, regulators, flashback arresters, PPE, leak response, chlorine case study)
+
+## Links
+- Enroll: https://hazwoper-osha.com/online-courses/calosha-compressed-gas-cylinder-safety-training
+- Landing page: https://cal-osha-gas-cylinders.hazwoperosha.com/
+- Provider phone: 1-866-429-6742
