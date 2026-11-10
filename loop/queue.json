@@ -468,7 +468,11 @@
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/dot-hazmat-ground-shipper-certification-training",
-    "status": "pending"
+    "status": "done",
+    "subdomain": "dot-hazmat-ground-shipper",
+    "title": "DOT HAZMAT Ground Shipper Certification Training",
+    "style": "engraved-certificate",
+    "date": "2026-11-10"
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/dot-hazmat-training",

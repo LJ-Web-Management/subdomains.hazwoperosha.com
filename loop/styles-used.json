@@ -293,5 +293,11 @@
     "palette": "forest green #1f3a2b / #2b4d3a, green-bar bands #d9efd8, form white #fbfdf8, amber #f5b02e",
     "fonts": "VT323 + Urbanist",
     "layout": "forest hero with dot-matrix kicker, fact strip, continuous-form green-bar printout table with tractor-feed holes listing HMT Columns 1-10, dot-matrix lesson numbers, green-bar who list, banded CTA"
+  },
+  {
+    "name": "engraved-certificate",
+    "palette": "burgundy #5a1a2b / #7a2a3d, gold #b8892e / #d9b25c, ivory parchment #fbf6ea",
+    "fonts": "Cormorant Garamond + Sarabun",
+    "layout": "burgundy band framing a centered ivory certificate hero with double gold border and embossed gold hours seal, ivory fact strip, gold-edged notice, nine Roman-numeral module cards, fleuron bullets, double-ruled burgundy side box, centered CTA"
   }
 ]
