@@ -70,7 +70,11 @@
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/authorized-gas-tester-training",
-    "status": "pending"
+    "status": "done",
+    "subdomain": "authorized-gas-tester",
+    "title": "Authorized Gas Tester Training",
+    "style": "industrial-instrument-ui",
+    "date": "2026-11-10"
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/back-safety-and-injury-prevention-training",

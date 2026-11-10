@@ -47,5 +47,11 @@
     "palette": "warm paper #f6f1e7 / ink #1f1b16 / rust #a2401f, dark closing band",
     "fonts": "Fraunces (serif display) + Inter",
     "layout": "double-rule masthead, long-form headline + standfirst, drop cap lead, italic pull quote in right rail, sticky at-a-glance sidebar, roman-numeral chapter list, serif FAQ"
+  },
+  {
+    "name": "industrial-instrument-ui",
+    "palette": "light grey-blue #e9eef2 / charcoal #1f2933 / LCD green #c8f7c5 / signal green #00b37e / amber bezel #f5a623",
+    "fonts": "Chakra Petch + Nunito Sans",
+    "layout": "rounded white panels on grey, CSS 4-gas meter device mock with LCD channels, dark readout tiles, check-circle list, pill chips, vertical numbered module track, 2-col standards table, dark rounded CTA card"
   }
 ]
