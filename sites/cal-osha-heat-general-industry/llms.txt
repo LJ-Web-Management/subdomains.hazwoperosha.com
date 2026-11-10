@@ -1,0 +1,33 @@
+# Cal/OSHA Heat Illness Prevention Training (General Industry)
+
+> Online course for California general industry employers, supervisors and employees that compares Title 8 CCR Section 3395 (outdoor heat illness prevention) and Section 3396 (indoor heat illness prevention) side by side, with examples from warehouses, plants, kitchens and other non-construction workplaces. Offered by HAZWOPER OSHA Training (https://hazwoper-osha.com).
+
+## Key facts
+- Regulations: Title 8 CCR §3395 (outdoor) and §3396 (indoor)
+- Duration: 2 hours; 3 lessons plus final exam
+- Credits: 0.2 CEU
+- Price: $47.99 per seat online or SCORM; virtual instructor-led and in-person group options; volume discounts
+- Delivery: 100% online, 24/7; English and Spanish
+- Completion window: 3 months; 1 year of access to materials
+- Certificate: instant PDF on passing, valid 12 months
+- Retraining: the standards set no fixed interval; many employers retrain annually before summer
+- Note: employers must also train workers on their own site-specific heat procedures
+- Prerequisites: none
+
+## Temperature triggers (from the course FAQ)
+- Outdoor: shade required above 80°F; high-heat procedures at 95°F for certain industries such as agriculture and construction
+- Indoor: standard applies at 82°F with employees present; additional assessment and controls at 87°F, or at 82°F with restrictive clothing or high radiant heat
+
+## Who it is for
+Warehouse, distribution and logistics; manufacturing and foundry; kitchens, bakeries and food processing; laundry and textiles; maintenance and janitorial; retail and grocery; delivery drivers and security officers; supervisors, safety managers, HR and employers.
+
+## Lessons
+1. Cal/OSHA Heat Illness Prevention Regulatory Requirements (indoor vs outdoor comparison, written plans)
+2. Heat Stress
+3. Heat Illness Prevention, Emergency Response, and Case Study (distribution center heat stroke)
+
+## Links
+- Enroll: https://hazwoper-osha.com/online-courses/cal-osha-heat-illness-prevention-training-general-industry
+- Construction version: https://hazwoper-osha.com/online-courses/cal-osha-heat-illness-prevention-training-for-construction
+- Landing page: https://cal-osha-heat-general-industry.hazwoperosha.com/
+- Provider phone: 1-866-429-6742

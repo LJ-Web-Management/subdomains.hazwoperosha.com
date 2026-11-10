@@ -89,5 +89,11 @@
     "palette": "night indigo #1b0f3b / indigo #2e1a6b / magenta #b5179e / red #e5383b / orange #f77f00 / yellow #fcbf49 heat gradient",
     "fonts": "Anton (condensed uppercase) + Manrope",
     "layout": "dark hero with radial heat glow and CSS thermometer, 3-step escalating heat-scale bar (yellow/orange/red), gradient-tinted audience cards, gradient-numeral lesson cards, line FAQ, orange-yellow CTA band"
+  },
+  {
+    "name": "outdoor-indoor-split",
+    "palette": "sky blue #3a86ff / sun yellow #ffbe0b vs concrete #e6e1da / steel #5c6370 / charcoal #22262e on warm white",
+    "fonts": "Plus Jakarta Sans",
+    "layout": "split-screen hero (CSS sun + warehouse racks) with overlapping white card, temperature threshold cards (outdoor tint vs concrete), topic chips, two-tone audience list, top-bordered lesson cards, white FAQ cards, charcoal CTA with split top stripe"
   }
 ]

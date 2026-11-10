@@ -146,7 +146,11 @@
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/cal-osha-heat-illness-prevention-training-general-industry",
-    "status": "pending"
+    "status": "done",
+    "subdomain": "cal-osha-heat-general-industry",
+    "title": "Cal/OSHA Heat Illness Prevention Training (General Industry)",
+    "style": "outdoor-indoor-split",
+    "date": "2026-11-10"
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/cal-osha-spill-prevention-and-response-safety-training",
