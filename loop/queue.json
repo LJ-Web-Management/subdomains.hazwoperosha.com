@@ -378,7 +378,11 @@
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/dot-hazmat-carrier-requirements-highway",
-    "status": "pending"
+    "status": "done",
+    "subdomain": "dot-hazmat-highway",
+    "title": "DOT Hazmat Carrier Requirements: Highway",
+    "style": "trailer-rear-doors",
+    "date": "2026-11-10"
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/dot-hazmat-carrier-requirements-rail",

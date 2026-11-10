@@ -1,0 +1,30 @@
+# DOT Hazmat Carrier Requirements: Highway
+
+> 3-hour online modal-specific hazmat training for employers and employees who transport hazardous materials by highway, covering DOT Hazardous Materials Regulations 49 CFR Part 177 (Carriage by Highway) and Federal Motor Carrier Safety Regulations 49 CFR Parts 300-399. Available in English and Spanish. Offered by HAZWOPER OSHA Training (https://hazwoper-osha.com).
+
+## Key facts
+- Duration: 3 hours; 4 modules, 6 lessons, final exam
+- Credits: 0.3 CEU
+- Price: $49.99 per person; bulk pricing available
+- Delivery: 100% online, 24/7; SCORM, virtual instructor-led and on-site formats also available
+- Languages: English, Spanish
+- Prerequisites: none (builds on 4-hour DOT Hazmat General Awareness)
+- Certificate: downloadable on passing; valid 3 years (recurrent training at least every three years, per 49 CFR 172 Subpart H)
+- Important: does NOT fulfill FMCSA CDL Entry-Level Driver Training (ELDT) for the Hazmat (H) endorsement
+
+## Modules
+1. Hazardous Materials Regulations (definitions and classes, purpose of the HMR, enforcing agencies, training requirements)
+2. Hazardous Materials Table (Columns 1 to 10, appendices, hazard class system)
+3. Carrier Requirements: Highway (operator and cargo tank training, shipping papers, loading and unloading, segregation, prohibited combinations, incident reporting)
+4. Security Awareness (security risk management, security plan training, Risk Management Self-Evaluation Framework)
+
+## Who should take it
+Private, common and contract motor carriers; drivers of trucks and cargo tanks carrying hazmat; staff who package, load and unload highway shipments; shippers; security, emergency response and safety personnel; compliance officers.
+
+## Links
+- Enroll: https://hazwoper-osha.com/online-courses/dot-hazmat-carrier-requirements-highway
+- CDL ELDT Hazmat (H) Endorsement: https://hazwoper-osha.com/online-courses/cdl-entry-level-driver-training-eldt-hazmat-h-endorsement
+- 4-Hour DOT Hazmat General Awareness: https://hazwoper-osha.com/online-courses/dot-hazmat-transportation-general-awareness-training
+- 10-Hour DOT Hazmat Advanced General Awareness: https://hazwoper-osha.com/online-courses/dot-hazmat-transportation-advanced-general-awareness-training
+- DOT Hazmat Carrier Requirements: Air/IATA: https://hazwoper-osha.com/online-courses/dot-hazmat-carrier-requirements-air-iata
+- Phone: 1-866-429-6742

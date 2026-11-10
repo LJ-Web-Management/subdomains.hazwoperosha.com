@@ -233,5 +233,11 @@
     "palette": "tan chart paper #f3eedd, terrain green #cfdcb4, airspace magenta #b0207a, chart blue #1d3f8f / #142c66, cargo orange #f7941d",
     "fonts": "Antonio + Commissioner",
     "layout": "tan hero with gridded mini sectional chart (Class B/C rings, dashed magenta route, airport tags), blue fact strip in flight-plan terms, dashed magenta waypoint track for modules, passenger vs cargo-only column cards, dashed ticket box, magenta CTA"
+  },
+  {
+    "name": "trailer-rear-doors",
+    "palette": "asphalt #25272b, brushed aluminum #f1f3f5 / #c9ced5, conspicuity red #d0202b + white, amber #f4a10b",
+    "fonts": "Oxanium + Mona Sans",
+    "layout": "asphalt hero with CSS trailer rear doors (ribbed aluminum, lock bars, HM plate) over red/white conspicuity tape band, fact strip, striped warning callout, aluminum module cards with tape tops, asphalt next-loads box, tape-topped CTA"
   }
 ]
