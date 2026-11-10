@@ -11,5 +11,11 @@
     "palette": "olive #3b4a2f / khaki #e9e2c9 / signal orange #c8401c on #f6f2e3",
     "fonts": "Saira Stencil One + Barlow",
     "layout": "diagonal-hatch hero with rotated stamp, sticky left data-sheet card + right content column, numbered SEC headings, 2-column chapter table of contents, boxed FAQ"
+  },
+  {
+    "name": "emergency-control-room",
+    "palette": "near-black #0e0f12 panels / alert red #ff3b30 / amber #ffb020, dark mode",
+    "fonts": "Space Grotesk + Space Mono",
+    "layout": "red radial-glow hero with pulsing status pill + SVG ICS org chart, 6-up stat tile strip, two-column who section, vertical timeline incident log, 2-col red-edged outcome cards, minimal line FAQ, gradient CTA"
   }
 ]

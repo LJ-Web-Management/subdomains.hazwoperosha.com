@@ -17,7 +17,11 @@
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/8-hour-hazwoper-incident-command-training",
-    "status": "pending"
+    "status": "done",
+    "subdomain": "hazwoper-incident-command",
+    "title": "OSHA 8-Hour HAZWOPER (q) Incident Command Training",
+    "style": "emergency-control-room",
+    "date": "2026-11-10"
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/8-hour-hazwoper-tsd-operations-p",
