@@ -93,7 +93,7 @@ record anything still left in the commit message).
    whitespace, no broken entities, the canonical/og URLs match the subdomain,
    and the title and description lengths are within limits.
 
-10/11. **Security**: create a `_headers` file (Cloudflare Pages) containing:
+10/11. **Security**: create a `_headers` file (Cloudflare Pages format; the Worker applies it to every response of the site) containing:
    ```
    /*
      Content-Security-Policy: default-src 'self'; img-src 'self' data:; style-src 'self' https://fonts.googleapis.com; font-src https://fonts.gstatic.com; script-src 'self'; base-uri 'none'; form-action 'none'; frame-ancestors 'none'; object-src 'none'
