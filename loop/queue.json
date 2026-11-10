@@ -138,7 +138,11 @@
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/cal-osha-heat-illness-prevention-training-for-construction",
-    "status": "pending"
+    "status": "done",
+    "subdomain": "cal-osha-heat-construction",
+    "title": "Cal/OSHA Heat Illness Prevention Training for Construction",
+    "style": "thermal-camera",
+    "date": "2026-11-10"
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/cal-osha-heat-illness-prevention-training-general-industry",
