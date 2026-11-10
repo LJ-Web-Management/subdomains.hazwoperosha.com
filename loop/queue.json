@@ -115,7 +115,11 @@
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/cal-osha-8-hour-hazwoper-refresher-training",
-    "status": "pending"
+    "status": "done",
+    "subdomain": "cal-osha-8-hour-refresher",
+    "title": "Cal/OSHA 8-Hour HAZWOPER Refresher Training",
+    "style": "field-notebook",
+    "date": "2026-11-10"
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/cal-osha-construction-industry",

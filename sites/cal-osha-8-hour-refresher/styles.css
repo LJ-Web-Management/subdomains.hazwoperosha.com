@@ -1,0 +1,259 @@
+/* Style: Field notebook (ruled paper, red margin line, Caveat handwriting headings, highlighter, sticky note, tape, tick boxes) */
+:root {
+  --paper: #fdfbf3;
+  --rule: #c9dbef;
+  --margin: #e8a0a0;
+  --ink: #1f2a44;
+  --pencil: #4a5268;
+  --hi: #fff27a;
+  --sticky: #ffe58a;
+  --tape: rgba(220, 205, 160, .7);
+  --blue: #2457a6;
+  --hand: "Caveat", "Comic Sans MS", cursive;
+  --body: "Atkinson Hyperlegible", system-ui, -apple-system, sans-serif;
+}
+
+*, *::before, *::after { box-sizing: border-box; }
+
+html { scroll-behavior: smooth; }
+
+body {
+  margin: 0;
+  font-family: var(--body);
+  font-size: 1.05rem;
+  line-height: 32px;
+  color: var(--ink);
+  background: #e9e4d6;
+}
+
+a { color: var(--blue); text-underline-offset: 3px; }
+
+a:focus-visible, .btn:focus-visible, summary:focus-visible {
+  outline: 3px solid var(--blue);
+  outline-offset: 3px;
+}
+
+.page { width: min(900px, 100% - 24px); margin-inline: auto; }
+
+.skip {
+  position: absolute;
+  left: -999px;
+  top: 8px;
+  padding: 8px 12px;
+  background: var(--hi);
+  color: var(--ink);
+  z-index: 10;
+}
+
+.skip:focus { left: 8px; }
+
+/* Top */
+.top__inner { display: flex; justify-content: space-between; align-items: center; gap: 12px; min-height: 60px; }
+
+.top__brand { font-weight: 700; color: var(--ink); text-decoration: none; }
+
+.top__link { font-family: var(--hand); font-size: 1.6rem; font-weight: 700; color: var(--blue); text-decoration: none; white-space: nowrap; }
+
+/* Notebook paper */
+.notebook {
+  position: relative;
+  background-color: var(--paper);
+  background-image:
+    linear-gradient(90deg, transparent 47px, var(--margin) 47px, var(--margin) 49px, transparent 49px),
+    repeating-linear-gradient(180deg, transparent 0 31px, var(--rule) 31px 32px);
+  padding: 32px 20px 32px 64px;
+  box-shadow: 0 2px 0 #d8d1bd, 0 14px 30px rgba(0, 0, 0, .12);
+  border-radius: 4px;
+}
+
+/* Hero */
+.hero { position: relative; }
+
+.date { margin: 0; font-family: var(--hand); font-size: 1.5rem; color: var(--pencil); }
+
+h1 {
+  font-family: var(--hand);
+  font-weight: 700;
+  font-size: clamp(2.6rem, 8vw, 4.2rem);
+  line-height: 1;
+  margin: 8px 0 24px;
+}
+
+mark {
+  background: linear-gradient(transparent 35%, var(--hi) 35%, var(--hi) 90%, transparent 90%);
+  color: inherit;
+  padding: 0 4px;
+}
+
+.lede { margin: 0 0 32px; max-width: 58ch; }
+
+.actions { display: flex; flex-wrap: wrap; align-items: center; gap: 12px 24px; margin-bottom: 32px; }
+
+.btn {
+  display: inline-block;
+  padding: 6px 22px;
+  border: 2px solid var(--ink);
+  border-radius: 255px 15px 225px 15px / 15px 225px 15px 255px;
+  background: var(--hi);
+  color: var(--ink);
+  font-weight: 700;
+  text-decoration: none;
+  box-shadow: 3px 3px 0 var(--ink);
+}
+
+.btn:hover { transform: rotate(-1deg); }
+
+.link { font-family: var(--hand); font-size: 1.5rem; font-weight: 700; }
+
+.sticky {
+  background: var(--sticky);
+  padding: 16px 20px;
+  max-width: 260px;
+  transform: rotate(2deg);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, .15);
+  position: relative;
+}
+
+.sticky::before {
+  content: "";
+  position: absolute;
+  top: -12px;
+  left: 50%;
+  width: 90px;
+  height: 24px;
+  margin-left: -45px;
+  background: var(--tape);
+  transform: rotate(-3deg);
+}
+
+.sticky__title { margin: 0; font-family: var(--hand); font-size: 1.7rem; font-weight: 700; }
+
+.sticky ul { margin: 0; padding-left: 18px; }
+
+/* Blocks */
+.block { margin-top: 64px; }
+
+h2 {
+  font-family: var(--hand);
+  font-weight: 700;
+  font-size: clamp(2rem, 6vw, 2.8rem);
+  line-height: 1.1;
+  margin: 0 0 12px;
+  color: var(--blue);
+}
+
+h3 { font-size: 1.05rem; margin: 0; line-height: 32px; }
+
+.block > p { margin: 0 0 16px; max-width: 64ch; }
+
+.checks { list-style: none; margin: 0; padding: 0; }
+
+.checks li { display: grid; grid-template-columns: 32px 1fr; gap: 12px; margin-bottom: 16px; }
+
+.checks p { margin: 0; color: var(--pencil); }
+
+.box {
+  width: 24px;
+  height: 24px;
+  margin-top: 4px;
+  border: 2px solid var(--ink);
+  border-radius: 3px 6px 4px 5px;
+  position: relative;
+}
+
+.box::after {
+  content: "";
+  position: absolute;
+  left: 6px;
+  top: -4px;
+  width: 9px;
+  height: 18px;
+  border-right: 3px solid var(--blue);
+  border-bottom: 3px solid var(--blue);
+  transform: rotate(40deg);
+}
+
+.hand { margin: 0 0 16px; padding-left: 22px; font-family: var(--hand); font-size: 1.6rem; }
+
+.tape {
+  position: relative;
+  display: inline-block;
+  background: #fff;
+  padding: 12px 18px;
+  max-width: 60ch;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, .1);
+  transform: rotate(-1deg);
+  line-height: 1.6;
+}
+
+.tape::before, .tape::after {
+  content: "";
+  position: absolute;
+  top: -10px;
+  width: 60px;
+  height: 20px;
+  background: var(--tape);
+}
+
+.tape::before { left: -14px; transform: rotate(-30deg); }
+
+.tape::after { right: -14px; transform: rotate(30deg); }
+
+/* FAQ */
+.faq details { border-bottom: 1px dashed var(--pencil); }
+
+.faq summary {
+  cursor: pointer;
+  list-style: none;
+  padding: 0 32px 0 0;
+  font-weight: 700;
+  position: relative;
+  line-height: 1.5;
+  margin: 12px 0;
+}
+
+.faq summary::-webkit-details-marker { display: none; }
+
+.faq summary::after {
+  content: "+";
+  position: absolute;
+  right: 4px;
+  top: -8px;
+  font-family: var(--hand);
+  font-size: 2rem;
+  color: var(--blue);
+}
+
+.faq details[open] summary::after { content: "−"; }
+
+.faq details p { margin: 0 0 16px; color: var(--pencil); }
+
+.cta p { color: var(--pencil); }
+
+/* Foot */
+.foot { padding: 24px 0 40px; font-size: .9rem; color: var(--pencil); line-height: 1.6; }
+
+.foot__inner { display: grid; gap: 4px; }
+
+.foot p { margin: 0; }
+
+@media (max-width: 480px) {
+  .notebook {
+    padding-left: 44px;
+    background-image:
+      linear-gradient(90deg, transparent 29px, var(--margin) 29px, var(--margin) 31px, transparent 31px),
+      repeating-linear-gradient(180deg, transparent 0 31px, var(--rule) 31px 32px);
+  }
+  .top__brand { font-size: .9rem; }
+}
+
+@media (min-width: 760px) {
+  .notebook { padding: 48px 48px 48px 96px; background-image: linear-gradient(90deg, transparent 71px, var(--margin) 71px, var(--margin) 73px, transparent 73px), repeating-linear-gradient(180deg, transparent 0 31px, var(--rule) 31px 32px); }
+  .sticky { position: absolute; right: 8px; top: 0; }
+  .hero h1, .hero .lede { max-width: calc(100% - 270px); }
+  .foot__inner { grid-template-columns: 1fr auto; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+}

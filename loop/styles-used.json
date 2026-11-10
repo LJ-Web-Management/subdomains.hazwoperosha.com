@@ -77,5 +77,11 @@
     "palette": "off-white #faf6ee / ink #161616 / poppy #f26b38 / gold #f2b134 / Pacific blue #1d4e89",
     "fonts": "Jost",
     "layout": "Bauhaus hero with CSS circle/square/triangle/bar composition, black stat band, split who-section with geometric bullets, 4x4 colored module mosaic, overlapping-dots refresher callout, thick-rule FAQ with circle/square toggles, Pacific blue closing band"
+  },
+  {
+    "name": "field-notebook",
+    "palette": "ruled paper #fdfbf3 with blue rules + red margin / ink #1f2a44 / highlighter yellow #fff27a / sticky note #ffe58a / pen blue #2457a6",
+    "fonts": "Caveat (handwriting) + Atkinson Hyperlegible",
+    "layout": "single notebook page on desk background, highlighter-marked headline, rotated taped sticky-note facts, hand-drawn tick-box checklist of modules, taped white note callout, dashed-rule FAQ, hand-drawn border buttons"
   }
 ]
