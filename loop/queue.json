@@ -41,7 +41,11 @@
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/ammonia-refrigeration-basics-and-safety-awareness-training",
-    "status": "pending"
+    "status": "done",
+    "subdomain": "ammonia-refrigeration",
+    "title": "Ammonia Refrigeration Basics and Safety Awareness Training",
+    "style": "cold-chain-frost",
+    "date": "2026-11-10"
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/ammonia-refrigeration-systems-training",

@@ -29,5 +29,11 @@
     "palette": "cream #fffbea / ink #111 / safety yellow #ffd60a / sky blue #4cc9f0 / pink #ff8fab",
     "fonts": "Bricolage Grotesque",
     "layout": "thick 3px borders + hard offset shadows, rotated pink art card with SVG scissor lift, black stat strip, 3-col bordered audience cards, 4-up colored lesson flow (before/during/after), boxed FAQ with square toggles, shadowed blue CTA box"
+  },
+  {
+    "name": "cold-chain-frost",
+    "palette": "deep teal #032a31 to #0f6070 gradient / ice #bff4ff / cyan #5ee6ff, frosted glass",
+    "fonts": "Sora (300 display + 600/700)",
+    "layout": "rounded frosted-glass cards with backdrop blur, light-weight display headline, SVG refrigeration-cycle loop, 4 glass stat cards, two glass list panels, 3-col numbered lesson cards with round badges, glass FAQ pills, centered glass CTA, pill buttons"
   }
 ]

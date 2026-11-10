@@ -1,0 +1,31 @@
+# Ammonia Refrigeration Basics and Safety Awareness Training
+
+> 2-hour online awareness course on how industrial ammonia refrigeration systems work and how to handle anhydrous ammonia safely, in accordance with OSHA 29 CFR 1910.111 (Storage and Handling of Anhydrous Ammonia). Offered by HAZWOPER OSHA Training (https://hazwoper-osha.com).
+
+## Key facts
+- Regulation: OSHA 29 CFR 1910.111 (general industry)
+- Duration: about 2 hours; 5 lessons plus final exam
+- Credits: 0.2 CEU
+- Price: $89.99 per person online; bulk pricing from 2 seats
+- Other formats: SCORM package, virtual instructor-led, in-person
+- Delivery: 100% online, 24/7, any device; English and Spanish
+- Completion window: 3 months; 1 year of access to materials
+- Certificate: instant PDF on passing, valid 36 months (3 years)
+- Refresher: recommended at least every three years
+- Prerequisites: none
+
+## Who it is for
+Facility managers, maintenance technicians, refrigeration operators, engineers, EHS professionals and safety personnel at cold storage, food processing, manufacturing and distribution sites with ammonia refrigeration.
+
+## Lessons
+1. Introduction to Ammonia and its Hazards
+2. Basics of Ammonia Refrigeration Systems
+3. Single-Stage and Two-Stage Refrigeration Systems
+4. Liquid Overfeed/Recirculation Systems
+5. Safety Protocols in Handling Ammonia and Designing Ammonia Refrigeration Systems
+
+## Links
+- Enroll: https://hazwoper-osha.com/online-courses/ammonia-refrigeration-basics-and-safety-awareness-training
+- Ammonia refrigeration series: https://hazwoper-osha.com/online-courses/ammonia-refrigeration-systems-training
+- Landing page: https://ammonia-refrigeration.hazwoperosha.com/
+- Provider phone: 1-866-429-6742
