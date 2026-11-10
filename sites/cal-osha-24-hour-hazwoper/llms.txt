@@ -1,0 +1,42 @@
+# Cal/OSHA 24-Hour HAZWOPER Training
+
+> 24-hour online HAZWOPER training for California workers, built around Cal/OSHA Title 8, Section 5192, paragraphs (a) to (q), and Federal OSHA 29 CFR 1910.120(e) and 29 CFR 1926.65(e). Offered by HAZWOPER OSHA Training (https://hazwoper-osha.com).
+
+## Key facts
+- Regulations: Cal/OSHA Title 8, Section 5192 (a)–(q); 29 CFR 1910.120(e); 29 CFR 1926.65(e)
+- Duration: 24 hours; 16 modules, 66 lessons, final exam
+- Credits: 2.4 CEU
+- Price: $189.99 per person online; bulk pricing from 2 seats
+- Other formats: SCORM, virtual instructor-led, in-person
+- Delivery: 100% online, 24/7, any device; English and Spanish
+- Completion window: 3 months; 1 year of access to materials
+- Certificate: instant PDF on passing, valid 12 months
+- Refresher: annual 8-hour HAZWOPER refresher required under Title 8, Section 5192
+- Prerequisites: none
+
+## Who it is for
+California hazardous waste cleanup workers, TSD facility employees, construction crews doing excavation or demolition near hazardous substances, environmental technicians, utility workers exposed to contaminated soil or groundwater, and supervisors of hazardous waste operations.
+
+## Modules
+1. Regulatory Overview
+2. Planning and Organization
+3. Site Characterization
+4. Medical Surveillance
+5. Toxicology
+6. Hazard Classification
+7. Chemical Hazards
+8. Radiological Hazards
+9. Respiratory Protection
+10. Personal Protective Equipment
+11. Decontamination
+12. Air Monitoring
+13. Material Sampling and Analysis
+14. Confined Spaces
+15. Excavations
+16. Emergency Response Procedures
+
+## Links
+- Enroll: https://hazwoper-osha.com/online-courses/cal-osha-24-hour-hazwoper-training
+- Annual refresher: https://hazwoper-osha.com/online-courses/cal-osha-8-hour-hazwoper-refresher-training
+- Landing page: https://cal-osha-24-hour-hazwoper.hazwoperosha.com/
+- Provider phone: 1-866-429-6742

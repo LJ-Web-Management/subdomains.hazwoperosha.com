@@ -71,5 +71,11 @@
     "palette": "white cards on #f6f9fb / slate #1e293b / medical cyan #0e7490 / coral #d9534f callout",
     "fonts": "Lexend",
     "layout": "docs layout with sticky left table-of-contents nav, white rounded section cards, coral callout box, roles data table, numbered step list, definition-list facts, cyan CTA card"
+  },
+  {
+    "name": "bauhaus-geometric-california",
+    "palette": "off-white #faf6ee / ink #161616 / poppy #f26b38 / gold #f2b134 / Pacific blue #1d4e89",
+    "fonts": "Jost",
+    "layout": "Bauhaus hero with CSS circle/square/triangle/bar composition, black stat band, split who-section with geometric bullets, 4x4 colored module mosaic, overlapping-dots refresher callout, thick-rule FAQ with circle/square toggles, Pacific blue closing band"
   }
 ]

@@ -107,7 +107,11 @@
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/cal-osha-24-hour-hazwoper-training",
-    "status": "pending"
+    "status": "done",
+    "subdomain": "cal-osha-24-hour-hazwoper",
+    "title": "Cal/OSHA 24-Hour HAZWOPER Training",
+    "style": "bauhaus-geometric-california",
+    "date": "2026-11-10"
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/cal-osha-8-hour-hazwoper-refresher-training",

@@ -108,6 +108,8 @@ for (const width of [320, 375, 1280]) {
   await page.goto(`http://localhost:${port}/`, { waitUntil: 'networkidle' });
   const over = await page.evaluate(() => document.documentElement.scrollWidth - window.innerWidth);
   if (over > 0) bad('bug', `horizontal overflow of ${over}px at ${width}px`);
+  const clipped = await page.evaluate(() => [...document.querySelectorAll('h1,h2,h3,p,li,a,dt,dd,summary')].filter((e) => { const r = e.getBoundingClientRect(); return r.width > 0 && r.right > window.innerWidth + 1; }).map((e) => e.tagName + ':' + e.textContent.trim().slice(0, 30)));
+  if (clipped.length) bad('bug', `text extends past viewport at ${width}px (clipped by overflow:hidden?): ${clipped.slice(0, 3).join(' | ')}`);
   const noAlt = await page.$$eval('img:not([alt])', (e) => e.length);
   if (noAlt) bad('seo', `${noAlt} images without alt`);
   if (shots) await page.screenshot({ path: join(shots, `${sub}-${width}.png`), fullPage: true });
