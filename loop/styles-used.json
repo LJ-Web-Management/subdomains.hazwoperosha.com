@@ -161,5 +161,11 @@
     "palette": "interstate green #006b3f / white sign border / lane yellow #ffd23f / shield blue #1f4e9c + red / asphalt #2f3337 / sky gradient",
     "fonts": "Big Shoulders Display + Inter Tight",
     "layout": "hero as green highway guide sign with exit tab and interstate shield, asphalt road divider with yellow lane dashes, fact tiles, mile-marker route steps, shield-numbered module cards, yellow before-you-enroll warning panel, green CTA"
+  },
+  {
+    "name": "drivers-logbook-form",
+    "palette": "cream paper #f6f1e1 / form white #fffdf5 / ledger blue #2a4a8b / red pen #c0272d",
+    "fonts": "Courier Prime (typewriter) + Albert Sans",
+    "layout": "hero as a printed form with form-number header, red typewriter underline, CSS hours-of-service duty-status grid with red line, form-field fact table, hand-ticked checkbox list, bordered module boxes, double-ruled red stamp warning, [+] typewriter FAQ, blue CTA"
   }
 ]

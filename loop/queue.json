@@ -247,7 +247,11 @@
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/cdl-entry-level-driver-training-eldt-class-a",
-    "status": "pending"
+    "status": "done",
+    "subdomain": "cdl-eldt-class-a",
+    "title": "CDL Entry Level Driver Training (ELDT) - Class A",
+    "style": "drivers-logbook-form",
+    "date": "2026-11-10"
   },
   {
     "url": "https://hazwoper-osha.com/online-courses/cdl-entry-level-driver-training-eldt-class-b-new",

@@ -1,0 +1,29 @@
+# CDL Entry Level Driver Training (ELDT): Class A
+
+> 15-hour online entry-level driver training (theory) for a Class A commercial driver's license, in accordance with FMCSA and DOT regulations in 49 CFR Part 380. Offered by HAZWOPER OSHA Training (https://hazwoper-osha.com), listed on the FMCSA Training Provider Registry.
+
+## Key facts
+- Regulation: 49 CFR Part 380 (FMCSA ELDT rule, in effect since February 2022)
+- Class A: combination vehicles with GCWR of 26,001 lb or more when towing a trailer over 10,000 lb
+- Duration: 15 hours; 5 modules, 30 lessons, final exam (80% to pass)
+- Credits: 1.5 CEU
+- Price: $129.99 per person; bulk pricing from 2 seats
+- Delivery: 100% online, 24/7, mobile-friendly, audio playback
+- Reporting: completion reported to the FMCSA Training Provider Registry
+- Not included: behind-the-wheel training (complete separately if your state requires it)
+- State acceptance: every state except Washington (Washington requires classroom instruction by a registered Washington provider)
+- Typical prerequisites: age 18+ (21+ for interstate), valid non-commercial driver's license
+
+## Modules
+1. Basic Operation of a Commercial Motor Vehicle (7 lessons)
+2. Safe Operating Procedures (7 lessons)
+3. Advanced Operating Practices (3 lessons)
+4. Vehicle Systems and Reporting Malfunctions (3 lessons)
+5. Non-Driving Activities (10 lessons: cargo, environmental compliance, hours of service, fatigue, post-crash, communications, whistleblower and coercion, trip planning, drugs and alcohol, medical requirements)
+
+## Links
+- Enroll: https://hazwoper-osha.com/online-courses/cdl-entry-level-driver-training-eldt-class-a
+- Class B to A upgrade: https://hazwoper-osha.com/online-courses/cdl-eldt-class-b-to-class-a-upgrade-new
+- All ELDT courses: https://hazwoper-osha.com/online-courses/entry-level-driver-training-eldt-for-cdl
+- Landing page: https://cdl-eldt-class-a.hazwoperosha.com/
+- Provider phone: 1-866-429-6742
