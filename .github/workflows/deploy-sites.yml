@@ -12,6 +12,7 @@ on:
       - 'worker/**'
       - 'wrangler.json'
       - 'scripts/deploy.sh'
+      - 'scripts/build-hub.sh'
       - '.github/workflows/deploy-sites.yml'
   workflow_dispatch:
 

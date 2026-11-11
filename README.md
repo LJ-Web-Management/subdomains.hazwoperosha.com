@@ -29,6 +29,13 @@ which:
 Every run deploys all sites; only changed files are uploaded. To redeploy by
 hand, run the workflow from the Actions tab (**Run workflow**).
 
+https://hub.hazwoperosha.com is a plain list of every hazwoperosha.com and
+hazwoperosha.us subdomain. `scripts/build-hub.sh` writes it to `sites/hub/`
+(git-ignored, so don't create a `hub` folder yourself) at the start of every
+deploy; the .us list comes from the folders in
+`LJ-Web-Management/subdomains.hazwoperosha.us`. To refresh it after .us sites
+change, run the workflow by hand.
+
 Folder names must be valid subdomains: lowercase letters, digits and hyphens,
 not starting or ending with a hyphen. If a subdomain already has a DNS record
 that this repo didn't create (e.g. `www`, `mail`), that site is skipped

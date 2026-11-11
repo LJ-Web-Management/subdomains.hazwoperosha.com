@@ -47,6 +47,8 @@ errs() { jq -c '.errors' <<<"$1"; }
 fail() { echo "::error::$*" >&2; exit 1; }
 
 # --- 1. sites --------------------------------------------------------------
+bash scripts/build-hub.sh   # sites/hub: the list of all subdomains
+
 sites=()
 for dir in sites/*/; do
   name="$(basename "$dir")"
