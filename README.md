@@ -32,12 +32,16 @@ which:
 Every run deploys all sites; only changed files are uploaded. To redeploy by
 hand, run the workflow from the Actions tab (**Run workflow**).
 
-https://hub.hazwoperosha.com is a plain list of every hazwoperosha.com and
-hazwoperosha.us subdomain. `scripts/build-hub.sh` writes it to `sites/hub/`
-(git-ignored, so don't create a `hub` folder yourself) at the start of every
-deploy; the .us list comes from the folders in
-`LJ-Web-Management/subdomains.hazwoperosha.us`. To refresh it after .us sites
-change, run the workflow by hand.
+https://hub.hazwoperosha.com lists the sitemap of every hazwoperosha.com
+site, and https://hub.hazwoperosha.com/sitemap.xml is a sitemap index of all of
+them. Submit that index in Google Search Console (and Bing Webmaster Tools)
+under the Domain property for hazwoperosha.com: only a Domain property may list
+sitemaps on other subdomains. `scripts/build-hub.sh` writes the hub to
+`sites/hub/` (git-ignored, so don't create a `hub` folder yourself) at the start
+of every deploy, so new sites are listed on their own. The hazwoperosha.us
+sites have their own hub: https://hub.hazwoperosha.us/sitemap.xml and the page
+https://hub.hazwoperosha.us/sitemaps/ (in
+`LJ-Web-Management/subdomains.hazwoperosha.us`).
 
 `sites/_shared/` is not a site: the Worker serves it to every site at
 `/_shared/` (the checkout script and styles), and the deploy skips it.
