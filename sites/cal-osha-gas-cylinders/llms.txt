@@ -23,6 +23,7 @@ Welders, cutting operators and fabricators using fuel gases (acetylene, oxygen);
 5. Safe Work Practices (valves, regulators, flashback arresters, PPE, leak response, chlorine case study)
 
 ## Links
-- Enroll: https://hazwoper-osha.com/online-courses/calosha-compressed-gas-cylinder-safety-training
+- Enroll (secure card checkout): https://cal-osha-gas-cylinders.hazwoperosha.com/checkout
+- Course page on hazwoper-osha.com: https://hazwoper-osha.com/online-courses/calosha-compressed-gas-cylinder-safety-training
 - Landing page: https://cal-osha-gas-cylinders.hazwoperosha.com/
 - Provider phone: 1-866-429-6742

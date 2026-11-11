@@ -1,0 +1,429 @@
+{
+  "24-hour-hazwoper-tsd": {
+    "url": "https://hazwoper-osha.com/online-courses/24-hour-hazwoper-tsd-operations-p",
+    "lmsId": 135,
+    "price": 229.99,
+    "name": "OSHA 24 Hour HAZWOPER - RCRA TSD Operations Training",
+    "sku": "24TSDF-NP"
+  },
+  "aerial-scissor-lift": {
+    "url": "https://hazwoper-osha.com/online-courses/aerial-scissor-lift-training",
+    "lmsId": 249,
+    "price": 49.99,
+    "name": "OSHA Aerial - Scissor and Boom Lift Safety Training",
+    "sku": "ASLT"
+  },
+  "ammonia-evaporators-condensers": {
+    "url": "https://hazwoper-osha.com/online-courses/design-and-operation-of-ammonia-evaporators-condensers-and-controls-training",
+    "lmsId": 278,
+    "price": 79.99,
+    "name": "Design and Operation of Ammonia Evaporators, Condensers, and Controls Training",
+    "sku": "DOAECC"
+  },
+  "ammonia-refrigeration": {
+    "url": "https://hazwoper-osha.com/online-courses/ammonia-refrigeration-basics-and-safety-awareness-training",
+    "lmsId": 263,
+    "price": 89.99,
+    "name": "Ammonia Refrigeration Basics and Safety Awareness Training",
+    "sku": "ARBT"
+  },
+  "arc-flash-nfpa-70e": {
+    "url": "https://hazwoper-osha.com/online-courses/arc-flash-safety-training-nfpa-70e",
+    "lmsId": 1165,
+    "price": 49.99,
+    "name": "OSHA Arc Flash Safety Training (NFPA 70E 2027)",
+    "sku": "ARC-NFPA 70E (2027)"
+  },
+  "asbestos-awareness": {
+    "url": "https://hazwoper-osha.com/online-courses/asbestos-awareness-training",
+    "lmsId": 128,
+    "price": 49.99,
+    "name": "OSHA Asbestos Awareness Training",
+    "sku": "AWT-NP"
+  },
+  "authorized-gas-tester": {
+    "url": "https://hazwoper-osha.com/online-courses/authorized-gas-tester-training",
+    "lmsId": 534,
+    "price": 339.99,
+    "name": "Authorized Gas Tester Training",
+    "sku": "AG-TT"
+  },
+  "back-safety": {
+    "url": "https://hazwoper-osha.com/online-courses/back-safety-and-injury-prevention-training",
+    "lmsId": 296,
+    "price": 29.99,
+    "name": "Back Safety and Injury Prevention Training",
+    "sku": "BSIPT"
+  },
+  "bloodborne-pathogens": {
+    "url": "https://hazwoper-osha.com/online-courses/bloodborne-pathogens-training",
+    "lmsId": 132,
+    "price": 39.99,
+    "name": "OSHA Bloodborne Pathogens Training",
+    "sku": "BP"
+  },
+  "cal-osha-24-hour-hazwoper": {
+    "url": "https://hazwoper-osha.com/online-courses/cal-osha-24-hour-hazwoper-training",
+    "lmsId": 496,
+    "price": 189.99,
+    "name": "Cal/OSHA 24-Hour HAZWOPER Training",
+    "sku": "Cal/OSHA 24-hr"
+  },
+  "cal-osha-40-hour-hazwoper": {
+    "url": "https://hazwoper-osha.com/online-courses/cal40-new",
+    "lmsId": 351,
+    "price": 229.99,
+    "name": "Cal/OSHA 40 Hour HAZWOPER Training",
+    "sku": "CAL/40Hr-NewPlayer"
+  },
+  "cal-osha-8-hour-refresher": {
+    "url": "https://hazwoper-osha.com/online-courses/cal-osha-8-hour-hazwoper-refresher-training",
+    "lmsId": 490,
+    "price": 149.99,
+    "name": "Cal/OSHA 8-Hour HAZWOPER Refresher Training",
+    "sku": "CAL-HAZWOPER-REF-8HR"
+  },
+  "cal-osha-active-shooter": {
+    "url": "https://hazwoper-osha.com/online-courses/calosha-active-shooter-workplace-violence-awareness-training",
+    "lmsId": 681,
+    "price": 49.99,
+    "name": "Cal/OSHA Active Shooter and Workplace Violence Training",
+    "sku": "CAS-WVT"
+  },
+  "cal-osha-chemical-handling": {
+    "url": "https://hazwoper-osha.com/online-courses/calosha-chemical-handling-safety-training",
+    "lmsId": 682,
+    "price": 55.99,
+    "name": "Cal/OSHA Chemical Handling Safety Training",
+    "sku": "CCH-ST"
+  },
+  "cal-osha-fire-evacuation": {
+    "url": "https://hazwoper-osha.com/online-courses/calosha-fire-safety-emergency-evacuation-training",
+    "lmsId": 686,
+    "price": 49.99,
+    "name": "Cal/OSHA Fire Safety & Emergency Evacuation Training",
+    "sku": "CFS-EET"
+  },
+  "cal-osha-gas-cylinders": {
+    "url": "https://hazwoper-osha.com/online-courses/calosha-compressed-gas-cylinder-safety-training",
+    "lmsId": 684,
+    "price": 49.99,
+    "name": "Cal/OSHA Compressed Gas Cylinder Safety Training",
+    "sku": "CCG-ST"
+  },
+  "cal-osha-hazcom-ghs": {
+    "url": "https://hazwoper-osha.com/online-courses/calosha-hazard-communication-hazcom-with-ghs-training",
+    "lmsId": 688,
+    "price": 59.99,
+    "name": "Cal/OSHA Hazard Communication (HazCom) with GHS Training",
+    "sku": "CHC-HT"
+  },
+  "cal-osha-heat-construction": {
+    "url": "https://hazwoper-osha.com/online-courses/cal-osha-heat-illness-prevention-training-for-construction",
+    "lmsId": 449,
+    "price": 47.99,
+    "name": "Cal/OSHA Heat Illness Prevention Training for Construction",
+    "sku": "Cal-OSHA-Heat-Illness"
+  },
+  "cal-osha-heat-general-industry": {
+    "url": "https://hazwoper-osha.com/online-courses/cal-osha-heat-illness-prevention-training-general-industry",
+    "lmsId": 673,
+    "price": 47.99,
+    "name": "Cal OSHA Heat Illness Prevention Training (General Industry)",
+    "sku": "CO-HILP"
+  },
+  "cal-osha-ppe": {
+    "url": "https://hazwoper-osha.com/online-courses/calosha-personal-protective-equipment-ppe-training",
+    "lmsId": 696,
+    "price": 49.99,
+    "name": "Cal/OSHA Personal Protective Equipment (PPE) Training",
+    "sku": "CPPE-T"
+  },
+  "cal-osha-spill-response": {
+    "url": "https://hazwoper-osha.com/online-courses/cal-osha-spill-prevention-and-response-safety-training",
+    "lmsId": 518,
+    "price": 39.99,
+    "name": "Cal/OSHA Spill Prevention and Response Safety Training",
+    "sku": "OSHA-SPR-Training"
+  },
+  "cal-osha-wildfire-smoke": {
+    "url": "https://hazwoper-osha.com/online-courses/cal-wildfire-smoke-safety-and-emergency-training",
+    "lmsId": 448,
+    "price": 47.99,
+    "name": "Cal Wildfire Smoke Safety and Emergency Training",
+    "sku": "CalWildfire"
+  },
+  "cal-osha-workplace-violence": {
+    "url": "https://hazwoper-osha.com/online-courses/cal-osha-workplace-violence-prevention-plan-training",
+    "lmsId": 672,
+    "price": 39.99,
+    "name": "Cal/OSHA Workplace Violence Prevention Plan Training",
+    "sku": "OW-ST"
+  },
+  "cdl-class-b-to-a-upgrade": {
+    "url": "https://hazwoper-osha.com/online-courses/cdl-eldt-class-b-to-class-a-upgrade-new",
+    "lmsId": 316,
+    "price": 129.99,
+    "name": "CDL Entry Level Driver Training (ELDT) \u2013 Class B to Class A Upgrade",
+    "sku": "ELDTB-AUpgrade"
+  },
+  "cdl-eldt-class-a": {
+    "url": "https://hazwoper-osha.com/online-courses/cdl-entry-level-driver-training-eldt-class-a",
+    "lmsId": 304,
+    "price": 129.99,
+    "name": "CDL Entry Level Driver Training (ELDT) \u2013 Class A",
+    "sku": "ELDTClassA"
+  },
+  "cdl-eldt-class-b": {
+    "url": "https://hazwoper-osha.com/online-courses/cdl-entry-level-driver-training-eldt-class-b-new",
+    "lmsId": 309,
+    "price": 159.99,
+    "name": "CDL Entry Level Driver Training (ELDT) - Class B",
+    "sku": "CDL ELDT C-B"
+  },
+  "cdl-hazmat-h-endorsement": {
+    "url": "https://hazwoper-osha.com/online-courses/cdl-entry-level-driver-training-eldt-hazmat-h-endorsement",
+    "lmsId": 281,
+    "price": 79.99,
+    "name": "CDL Entry Level Driver Training (ELDT) - HAZMAT (H) Endorsement",
+    "sku": "ELDTHEndorsement"
+  },
+  "cdl-passenger-p-endorsement": {
+    "url": "https://hazwoper-osha.com/online-courses/cdl-entry-level-driver-training-eldt-passenger-p-endorsement",
+    "lmsId": 293,
+    "price": 79.99,
+    "name": "CDL Entry Level Driver Training (ELDT) \u2013 Passenger (P) Endorsement",
+    "sku": "ELDTPEndorsement"
+  },
+  "cdl-school-bus-s-endorsement": {
+    "url": "https://hazwoper-osha.com/online-courses/cdl-entry-level-driver-training-eldt-school-bus-s-endorsement",
+    "lmsId": 299,
+    "price": 79.99,
+    "name": "CDL Entry Level Driver Training (ELDT) \u2013 School Bus (S) Endorsement",
+    "sku": "CELDTSBS"
+  },
+  "cdl-tanker-n-endorsement": {
+    "url": "https://hazwoper-osha.com/online-courses/cdl-entry-level-driver-training-eldt-tanker-n-endorsement",
+    "lmsId": 499,
+    "price": 49.99,
+    "name": "CDL Entry Level Driver Training (ELDT) - Tanker (N) Endorsement",
+    "sku": "CDL-ELDT-N"
+  },
+  "cdl-x-endorsement": {
+    "url": "https://hazwoper-osha.com/online-courses/cdl-entry-level-driver-training-eldt-hazmat-and-tank-vehicle-x-endorsement",
+    "lmsId": 493,
+    "price": 129.99,
+    "name": "CDL Entry Level Driver Training (ELDT) - Hazmat and Tank Vehicle (X) Endorsement",
+    "sku": "X Endorsment"
+  },
+  "comprehensive-h2s": {
+    "url": "https://hazwoper-osha.com/online-courses/comprehensive-h2s-training",
+    "lmsId": 354,
+    "price": 199.99,
+    "name": "Comprehensive Hydrogen Sulfide (H2S) Safety Training for the Oil & Gas Industry",
+    "sku": "ch2st"
+  },
+  "confined-space-awareness": {
+    "url": "https://hazwoper-osha.com/online-courses/confined-space-awareness-training-for-construction-industry",
+    "lmsId": 100,
+    "price": 49.99,
+    "name": "OSHA Confined Space Awareness Training",
+    "sku": "CSAT"
+  },
+  "construction-drug-alcohol-prevention": {
+    "url": "https://hazwoper-osha.com/online-courses/drug-and-alcohol-abuse-prevention-training-for-construction-workers",
+    "lmsId": 386,
+    "price": 49.99,
+    "name": "Drug and Alcohol Abuse Prevention Training for Construction Workers",
+    "sku": "DAAPCW"
+  },
+  "dot-hazmat-10-hour": {
+    "url": "https://hazwoper-osha.com/online-courses/dot-hazmat-transportation-advanced-general-awareness-training",
+    "lmsId": 139,
+    "price": 290.99,
+    "name": "10 Hour Advanced General Awareness Training",
+    "sku": "DOT"
+  },
+  "dot-hazmat-air-iata": {
+    "url": "https://hazwoper-osha.com/online-courses/dot-hazmat-carrier-requirements-air-iata",
+    "lmsId": 160,
+    "price": 49.99,
+    "name": "DOT Hazmat Carrier Requirements: Air/IATA",
+    "sku": "DOT-Air"
+  },
+  "dot-hazmat-general-awareness": {
+    "url": "https://hazwoper-osha.com/online-courses/dot-hazmat-transportation-general-awareness-training",
+    "lmsId": 152,
+    "price": 99.99,
+    "name": "4 Hour General Awareness Training",
+    "sku": "DOT4Hr"
+  },
+  "dot-hazmat-ground-shipper": {
+    "url": "https://hazwoper-osha.com/online-courses/dot-hazmat-ground-shipper-certification-training",
+    "lmsId": 666,
+    "price": 229.99,
+    "name": "DOT HAZMAT Ground Shipper Certification Training",
+    "sku": "DOT_GROUNDTRANSPORT"
+  },
+  "dot-hazmat-highway": {
+    "url": "https://hazwoper-osha.com/online-courses/dot-hazmat-carrier-requirements-highway",
+    "lmsId": 159,
+    "price": 49.99,
+    "name": "DOT Hazmat Carrier Requirements: Highway",
+    "sku": "DOT-Highway"
+  },
+  "dot-hazmat-labeling": {
+    "url": "https://hazwoper-osha.com/online-courses/dot-hazmat-function-specific-training-labeling",
+    "lmsId": 157,
+    "price": 39.99,
+    "name": "DOT Training: Labeling",
+    "sku": "DOT-Label"
+  },
+  "dot-hazmat-markings": {
+    "url": "https://hazwoper-osha.com/online-courses/dot-hazmat-function-specific-training-markings",
+    "lmsId": 156,
+    "price": 39.99,
+    "name": "DOT Training: Markings",
+    "sku": "DOT-Mark"
+  },
+  "dot-hazmat-packaging": {
+    "url": "https://hazwoper-osha.com/online-courses/dot-hazmat-function-specific-training-packaging",
+    "lmsId": 155,
+    "price": 39.99,
+    "name": "DOT Training: Packaging",
+    "sku": "DOT-Pack"
+  },
+  "dot-hazmat-packaging-labeling": {
+    "url": "https://hazwoper-osha.com/online-courses/dot-hazmat-transportation-general-awareness-with-function-specific-training-in-packaging-and-labeling",
+    "lmsId": 431,
+    "price": 158.99,
+    "name": "DOT Hazmat Transportation: General Awareness with Function-Specific Training in Packaging & Labeling",
+    "sku": "DOT5Hr"
+  },
+  "dot-hazmat-placarding": {
+    "url": "https://hazwoper-osha.com/online-courses/dot-hazmat-function-specific-training-placarding",
+    "lmsId": 158,
+    "price": 39.99,
+    "name": "DOT Training: Placarding",
+    "sku": "DOT-Placard"
+  },
+  "dot-hazmat-rail": {
+    "url": "https://hazwoper-osha.com/online-courses/dot-hazmat-carrier-requirements-rail",
+    "lmsId": 161,
+    "price": 49.99,
+    "name": "DOT Hazmat Carrier Requirements: Rail",
+    "sku": "DOT-Rail"
+  },
+  "dot-hazmat-security-awareness": {
+    "url": "https://hazwoper-osha.com/online-courses/dot-hazmat-function-specific-training-security-awareness",
+    "lmsId": 163,
+    "price": 39.99,
+    "name": "DOT Training: Security Awareness",
+    "sku": "DOT-SA"
+  },
+  "dot-hazmat-shipping-papers": {
+    "url": "https://hazwoper-osha.com/online-courses/dot-hazmat-function-specific-training-shipping-papers",
+    "lmsId": 154,
+    "price": 39.99,
+    "name": "DOT Training: Shipping Papers",
+    "sku": "DOT-SP"
+  },
+  "dot-hazmat-supervisor-highway": {
+    "url": "https://hazwoper-osha.com/online-courses/dot-hazmat-transportation-supervisor-training-for-highway",
+    "lmsId": 455,
+    "price": 219.99,
+    "name": "DOT HAZMAT Transportation Supervisor Training for Highway",
+    "sku": "DHTSTH"
+  },
+  "dot-hazmat-table": {
+    "url": "https://hazwoper-osha.com/online-courses/dot-hazmat-function-specific-training-the-hazmat-table",
+    "lmsId": 153,
+    "price": 39.99,
+    "name": "DOT Training: The Hazmat Table",
+    "sku": "DOT-HT"
+  },
+  "dot-hazmat-vessel": {
+    "url": "https://hazwoper-osha.com/online-courses/dot-hazmat-carrier-requirements-vessel",
+    "lmsId": 162,
+    "price": 49.99,
+    "name": "DOT Hazmat Carrier Requirements: Vessel",
+    "sku": "DOT-Vessel"
+  },
+  "dot-reasonable-suspicion": {
+    "url": "https://hazwoper-osha.com/online-courses/dot-reasonable-suspicion-drug-and-alcohol-testing-for-managers-and-supervisors-training",
+    "lmsId": 662,
+    "price": 49.99,
+    "name": "DOT Reasonable Suspicion Drug and Alcohol Testing for Managers and Supervisors Training",
+    "sku": "DRSDA"
+  },
+  "dust-mitigation-awareness": {
+    "url": "https://hazwoper-osha.com/online-courses/dust-disturbance-and-mitigation-awareness-training",
+    "lmsId": 464,
+    "price": 47.99,
+    "name": "Dust Disturbance and Mitigation Awareness Training",
+    "sku": "DustDisturbance"
+  },
+  "electrical-safety-nfpa-70e": {
+    "url": "https://hazwoper-osha.com/online-courses/electrical-safety-training-nfpa-70e",
+    "lmsId": 1164,
+    "price": 59.99,
+    "name": "OSHA Electrical Safety Training (NFPA 70E 2027)",
+    "sku": "ES-NFPA"
+  },
+  "em-385-16-hour": {
+    "url": "https://hazwoper-osha.com/online-courses/em-385-1-1-16-hour-training-for-workers",
+    "lmsId": 442,
+    "price": 114.99,
+    "name": "EM 385-1-1 16-Hour Training for Workers",
+    "sku": "EM385-16HR"
+  },
+  "em-385-24-hour": {
+    "url": "https://hazwoper-osha.com/online-courses/em-385-1-1-24-hour-training",
+    "lmsId": 437,
+    "price": 239.99,
+    "name": "EM 385-1-1 24-Hour Training",
+    "sku": "EM385-24Hr"
+  },
+  "em-385-40-hour": {
+    "url": "https://hazwoper-osha.com/online-courses/40-hour-em-385-1-1-training",
+    "lmsId": 377,
+    "price": 349.99,
+    "name": "EM 385-1-1 40-Hour Training",
+    "sku": "EM385-1-1-40HR-TRAINING"
+  },
+  "em-385-ssho-refresher": {
+    "url": "https://hazwoper-osha.com/online-courses/em-385-1-1-8-hour-refresher-training-for-site-safety-and-health-officers-sshos",
+    "lmsId": 432,
+    "price": 99.99,
+    "name": "EM 385-1-1 8-Hour Refresher Training for Site Safety and Health Officers (SSHOs)",
+    "sku": "EM385-8HR-REF"
+  },
+  "excavation-competent-person": {
+    "url": "https://hazwoper-osha.com/online-courses/competent-person-for-excavation-trenching-and-shoring",
+    "lmsId": 411,
+    "price": 159.99,
+    "name": "OSHA Competent Person for Excavation, Trenching, and Shoring Training",
+    "sku": "OSHA-CP-ETS-TRN"
+  },
+  "hazwoper-incident-command": {
+    "url": "https://hazwoper-osha.com/online-courses/8-hour-hazwoper-incident-command-training",
+    "lmsId": 259,
+    "price": 199.99,
+    "name": "OSHA 8 Hour HAZWOPER (q) Incident Command Training",
+    "sku": "8hrHAZ(q)-Player"
+  },
+  "ics-200": {
+    "url": "https://hazwoper-osha.com/online-courses/basic-incident-command-system-for-initial-response-ics-200-training",
+    "lmsId": 550,
+    "price": 79.99,
+    "name": "Basic Incident Command System for Initial Response (ICS 200) Training",
+    "sku": "TRN-ICS200-BIR"
+  },
+  "tsd-8-hour-refresher": {
+    "url": "https://hazwoper-osha.com/online-courses/8-hour-hazwoper-tsd-operations-p",
+    "lmsId": 138,
+    "price": 89.99,
+    "name": "OSHA 8 Hour HAZWOPER Annual Refresher - RCRA TSD Operations Training",
+    "sku": "8hrTSDF-NP"
+  }
+}

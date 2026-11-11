@@ -27,7 +27,8 @@
 Manufacturers, shippers and carriers of hazmat; workers responsible for hazmat package security; drivers and assistants; public security, emergency response and safety personnel; compliance officers.
 
 ## Links
-- Enroll: https://hazwoper-osha.com/online-courses/dot-hazmat-function-specific-training-security-awareness
+- Enroll (secure card checkout): https://dot-hazmat-security-awareness.hazwoperosha.com/checkout
+- Course page on hazwoper-osha.com: https://hazwoper-osha.com/online-courses/dot-hazmat-function-specific-training-security-awareness
 - 4-Hour DOT Hazmat General Awareness: https://hazwoper-osha.com/online-courses/dot-hazmat-transportation-general-awareness-training
 - 10-Hour DOT Hazmat Advanced General Awareness: https://hazwoper-osha.com/online-courses/dot-hazmat-transportation-advanced-general-awareness-training
 - Carrier Requirements: Highway: https://hazwoper-osha.com/online-courses/dot-hazmat-carrier-requirements-highway

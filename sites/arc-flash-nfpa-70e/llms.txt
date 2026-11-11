@@ -28,7 +28,8 @@ Electricians; maintenance and facility staff near energized equipment; managers 
 4. Arc Flash PPE and Labels
 
 ## Links
-- Enroll: https://hazwoper-osha.com/online-courses/arc-flash-safety-training-nfpa-70e
+- Enroll (secure card checkout): https://arc-flash-nfpa-70e.hazwoperosha.com/checkout
+- Course page on hazwoper-osha.com: https://hazwoper-osha.com/online-courses/arc-flash-safety-training-nfpa-70e
 - All NFPA 70E courses: https://hazwoper-osha.com/online-courses/nfpa-70e-electrical-arc-flash-safety-training
 - Landing page: https://arc-flash-nfpa-70e.hazwoperosha.com/
 - Provider phone: 1-866-429-6742

@@ -34,6 +34,7 @@ Someone designated by the employer who can identify existing and predictable haz
 Designated competent persons; foremen, crew leads and site supervisors; safety officers; construction engineers and project managers; contractors doing utility installation, shoring or site prep; utility and infrastructure maintenance teams.
 
 ## Links
-- Enroll: https://hazwoper-osha.com/online-courses/competent-person-for-excavation-trenching-and-shoring
+- Enroll (secure card checkout): https://excavation-competent-person.hazwoperosha.com/checkout
+- Course page on hazwoper-osha.com: https://hazwoper-osha.com/online-courses/competent-person-for-excavation-trenching-and-shoring
 - Arc Flash Safety (NFPA 70E): https://hazwoper-osha.com/online-courses/arc-flash-safety-training-nfpa-70e
 - Phone: 1-866-429-6742

@@ -24,7 +24,8 @@ Site Safety and Health Officers (SSHOs); contractors and subcontractors on milit
 EM 385-1-1 includes OSHA standards but is more stringent, adding NFPA, EPA, DOT, ANSI and UFGS requirements, plus accident prevention plans, program management and military job site inspections.
 
 ## Links
-- Enroll: https://hazwoper-osha.com/online-courses/40-hour-em-385-1-1-training
+- Enroll (secure card checkout): https://em-385-40-hour.hazwoperosha.com/checkout
+- Course page on hazwoper-osha.com: https://hazwoper-osha.com/online-courses/40-hour-em-385-1-1-training
 - 8-hour refresher for SSHOs: https://hazwoper-osha.com/online-courses/em-385-1-1-8-hour-refresher-training-for-site-safety-and-health-officers-sshos
 - 8-hour refresher for workers: https://hazwoper-osha.com/online-courses/em-385-1-1-8-hour-refresher-training-for-workers
 - Landing page: https://em-385-40-hour.hazwoperosha.com/

@@ -28,6 +28,12 @@ State files (commit them every iteration):
   digits and hyphens, 40 characters or fewer, e.g. `40-hour-hazwoper`). It
   must not already be a folder in `sites/` or any entry in the queue.
   Never use `www`, `mail`, `api`, `admin`, `app` or similar.
+- Write the `subdomain` into the queue entry now (status still `pending`), then
+  run `python3 -I scripts/sync-courses.py --write <subdomain>`. It reads the
+  course's LMS id (`course_id`) and the LMS price from hazwoper-osha.com into
+  `data/courses.json`; checkout sells the course with those. Use that price on
+  the page. If it reports a problem (no course id, prices that disagree), skip
+  the course with that `reason`.
 
 ### 2. Find a new, unique style
 - Read `loop/styles-used.json`. Pick a visual direction that differs from
@@ -35,8 +41,9 @@ State files (commit them every iteration):
   brutalist, Swiss grid, editorial magazine, field-manual or blueprint,
   retro industrial poster, dark terminal, warm hand-drawn, bold split-screen
   or glassmorphism). Make sure it still fits a safety-training brand.
-- Fonts: system font stacks, or Google Fonts through a single `<link>`. Add
-  `fonts.googleapis.com` and `fonts.gstatic.com` to the CSP if you use them.
+- Fonts: system font stacks, or Google Fonts through a single `<link>`. The
+  CSP that `scripts/build-checkout.py` writes already allows
+  `fonts.googleapis.com` and `fonts.gstatic.com`; don't edit `_headers` by hand.
 
 ### 3. Generate the page in `sites/<subdomain>/`
 Required files:
@@ -44,8 +51,15 @@ Required files:
   `main`, `section`, `footer`) with a single `h1`. Sections: a hero that
   names the course and its benefit, who needs it, what you'll learn (from the
   real outline), course facts (hours, format, certificate, regulation), FAQ,
-  and a final call to action. Every CTA links to the real course URL on
-  hazwoper-osha.com.
+  and a final call to action. Every Enroll CTA links to `/checkout`, the
+  site's own card checkout (not to hazwoper-osha.com). In the JSON-LD, the
+  `Course` `url` is the real course URL on hazwoper-osha.com and its `offers`
+  `url` is `https://<subdomain>.hazwoperosha.com/checkout`.
+- Then run `python3 -I scripts/build-checkout.py`. It writes `checkout.html`
+  (the shared Stripe checkout, `sites/_shared/`, for this course's LMS id and
+  price) and `_headers`, and points any leftover links to the course page, and
+  the `- Enroll:` line in `llms.txt`, at `/checkout`. Never edit
+  `checkout.html` or `_headers` by hand.
 - `styles.css`: all styles go here, with no inline `style=""` attributes.
   Layout is mobile-first and works at 320px with no horizontal scroll.
 - Only add `script.js` if the page truly needs it, with no inline `<script>`
@@ -79,7 +93,7 @@ Run these checks, fix everything they find, then **repeat the whole 6–11
 block if any fix was made**. Stop after a clean pass (or after 3 passes, and
 record anything still left in the commit message).
 
-6/7. Run `node loop/check-site.mjs sites/<subdomain> <scratchpad>` first (it covers most of the checks below and saves screenshots), then review the screenshots by eye.
+6/7. Run `node loop/check-site.mjs sites/<subdomain> <scratchpad>` first (it covers most of the checks below and saves screenshots), then review the screenshots by eye. Then run `node scripts/check-sites.mjs` and `python3 -I scripts/build-checkout.py --check`: the deploy fails if either finds a problem.
 
 6/7. **Bugs**: every link and asset path resolves, and every `href` to
    hazwoper-osha.com returns 200 (`curl -sIL`). The JSON-LD parses
@@ -93,24 +107,20 @@ record anything still left in the commit message).
    whitespace, no broken entities, the canonical/og URLs match the subdomain,
    and the title and description lengths are within limits.
 
-10/11. **Security**: create a `_headers` file (Cloudflare Pages format; the Worker applies it to every response of the site) containing:
-   ```
-   /*
-     Content-Security-Policy: default-src 'self'; img-src 'self' data:; style-src 'self' https://fonts.googleapis.com; font-src https://fonts.gstatic.com; script-src 'self'; base-uri 'none'; form-action 'none'; frame-ancestors 'none'; object-src 'none'
-     X-Content-Type-Options: nosniff
-     Referrer-Policy: strict-origin-when-cross-origin
-     X-Frame-Options: DENY
-     Permissions-Policy: camera=(), microphone=(), geolocation=()
-     Strict-Transport-Security: max-age=31536000; includeSubDomains
-   ```
-   Adjust the CSP only as far as the page needs. Check: no inline event
-   handlers, no `javascript:` URLs, no forms, `rel="noopener noreferrer"` on
-   every `target="_blank"`, all URLs are https, no third-party scripts, and
-   no secrets or email addresses in the files.
+10/11. **Security**: `_headers` (Cloudflare Pages format; the Worker applies
+   it to every response of the site) is written by `scripts/build-checkout.py`
+   from `HEADERS` in that script: a strict CSP for the landing page (no
+   scripts but the site's own, no connections), and for `/checkout` a CSP that
+   allows only Stripe.js and the hazwoper-osha.com API. Change headers there,
+   for every site at once, never in one site's `_headers`. Check: no inline
+   event handlers, no `javascript:` URLs, no forms on the landing page,
+   `rel="noopener noreferrer"` on every `target="_blank"`, all URLs are https,
+   no third-party scripts, and no secrets or email addresses in the files.
 
 ### 13. Deploy
 - Update `loop/queue.json` (status `done`, subdomain, title, style, date)
-  and append the style to `loop/styles-used.json`.
+  and append the style to `loop/styles-used.json`. Commit `data/courses.json`
+  and the site's `checkout.html` too.
 - Commit with the message `Add <subdomain>.hazwoperosha.com landing page (<course>)`.
   Push to `claude/lucid-hawking-ss5pkp` **and** to `main`
   (`git push origin HEAD:main`). Pushing to `main` triggers the deploy.

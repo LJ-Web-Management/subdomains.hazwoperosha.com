@@ -81,8 +81,12 @@ for (const u of ext) {
 }
 for (const m of html.matchAll(/(?:href|src)="([^"#:]+)"/g)) {
   const p = m[1].replace(/^\.?\//, '');
-  if (p && !existsSync(join(dir, p))) bad('bug', `local asset not found: ${m[1]}`);
+  // /checkout is served from checkout.html, as the Worker's asset handler does.
+  if (p && !existsSync(join(dir, p)) && !existsSync(join(dir, p + '.html'))) bad('bug', `local asset not found: ${m[1]}`);
 }
+// Enroll buttons go to this site's own checkout (scripts/build-checkout.py writes it).
+if (!html.includes('href="/checkout"')) bad('bug', 'no Enroll link to /checkout');
+if (!existsSync(join(dir, 'checkout.html'))) bad('bug', 'no checkout.html: run python3 -I scripts/build-checkout.py');
 for (const m of html.matchAll(/href="#([^"]+)"/g)) if (!html.includes(`id="${m[1]}"`)) bad('bug', `anchor #${m[1]} has no target`);
 
 // ---- render with real headers (CSP enforced) ------------------------------

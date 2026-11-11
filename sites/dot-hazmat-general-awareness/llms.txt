@@ -29,7 +29,8 @@ Module 2: Packaging and Labeling
 Shippers offering hazmat in commerce; people who design, manufacture, inspect, recondition, repair or test hazmat packaging; anyone handling hazmat packages; people who mark or label packages; drivers responsible for hazmat in transit; hazardous waste manifest signers.
 
 ## Links
-- Enroll: https://hazwoper-osha.com/online-courses/dot-hazmat-transportation-general-awareness-training
+- Enroll (secure card checkout): https://dot-hazmat-general-awareness.hazwoperosha.com/checkout
+- Course page on hazwoper-osha.com: https://hazwoper-osha.com/online-courses/dot-hazmat-transportation-general-awareness-training
 - 10-Hour Advanced General Awareness: https://hazwoper-osha.com/online-courses/dot-hazmat-transportation-advanced-general-awareness-training
 - 8-Hour Ground Shipper Certification: https://hazwoper-osha.com/online-courses/dot-hazmat-ground-shipper-certification-training
 - Function Specific: Shipping Papers: https://hazwoper-osha.com/online-courses/dot-hazmat-function-specific-training-shipping-papers

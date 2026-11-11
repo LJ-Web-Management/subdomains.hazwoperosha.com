@@ -27,7 +27,8 @@ ROOT_DOMAIN="hazwoperosha.com"           # must match ROOT_DOMAIN in worker/inde
 MARK="managed by subdomains repo"        # comment on DNS records this repo creates
 OLD_PROJECT_PREFIX="sub-"                # Pages projects of the old setup
 API="${CF_API:-https://api.cloudflare.com/client/v4}"
-read -ra WRANGLER <<<"${WRANGLER:-npx --yes wrangler@4}"
+# Pinned: a new wrangler release never reaches production unreviewed.
+read -ra WRANGLER <<<"${WRANGLER:-npx --yes wrangler@4.151.3}"
 
 problems=()
 
@@ -52,6 +53,8 @@ bash scripts/build-hub.sh   # sites/hub: the list of all subdomains
 sites=()
 for dir in sites/*/; do
   name="$(basename "$dir")"
+  # sites/_shared/ is served to every site at /_shared/ (worker/index.js), not a site.
+  [[ "$name" == _shared ]] && continue
   if [[ ! "$name" =~ ^[a-z0-9]([a-z0-9-]*[a-z0-9])?$ ]] || (( ${#name} > 63 )); then
     problems+=("sites/$name: the folder name is not a valid subdomain (lowercase letters, digits and hyphens, not starting or ending with a hyphen, at most 63 characters); skipped")
   elif [[ ! -f "$dir/index.html" ]]; then

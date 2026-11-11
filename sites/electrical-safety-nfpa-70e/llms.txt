@@ -27,6 +27,7 @@ Module 2: Hazard Controls and Safe Work Practices
 Electricians and electrical engineers; maintenance, repair and HVAC technicians; construction workers; equipment operators; safety, facility and electrical program managers; electrical inspectors; janitorial staff near exposed equipment.
 
 ## Links
-- Enroll: https://hazwoper-osha.com/online-courses/electrical-safety-training-nfpa-70e
+- Enroll (secure card checkout): https://electrical-safety-nfpa-70e.hazwoperosha.com/checkout
+- Course page on hazwoper-osha.com: https://hazwoper-osha.com/online-courses/electrical-safety-training-nfpa-70e
 - Arc Flash Safety Training (NFPA 70E): https://hazwoper-osha.com/online-courses/arc-flash-safety-training-nfpa-70e
 - Phone: 1-866-429-6742

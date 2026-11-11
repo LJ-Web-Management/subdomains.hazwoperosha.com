@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
-# Write robots.txt, sitemap.xml and _headers for sites/<subdomain>.
+# Write robots.txt and sitemap.xml for sites/<subdomain>. _headers and
+# checkout.html come from scripts/build-checkout.py once index.html exists.
 # Usage: loop/scaffold.sh <subdomain>
 set -euo pipefail
 S="${1:?usage: scaffold.sh <subdomain>}"
@@ -24,14 +25,5 @@ cat > "$DIR/sitemap.xml" <<EOF
     <priority>1.0</priority>
   </url>
 </urlset>
-EOF
-cat > "$DIR/_headers" <<'EOF'
-/*
-  Content-Security-Policy: default-src 'self'; img-src 'self' data:; style-src 'self' https://fonts.googleapis.com; font-src https://fonts.gstatic.com; script-src 'self'; base-uri 'none'; form-action 'none'; frame-ancestors 'none'; object-src 'none'
-  X-Content-Type-Options: nosniff
-  Referrer-Policy: strict-origin-when-cross-origin
-  X-Frame-Options: DENY
-  Permissions-Policy: camera=(), microphone=(), geolocation=()
-  Strict-Transport-Security: max-age=31536000; includeSubDomains
 EOF
 echo "scaffolded $DIR"

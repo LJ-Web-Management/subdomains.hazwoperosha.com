@@ -25,7 +25,8 @@ Identification number, proper shipping name, hazard class or division, packing g
 Hazmat employees who prepare or handle shipping papers; employers; workers who package, label or document shipments; highway, rail, air and vessel transport personnel; safety managers and compliance officers.
 
 ## Links
-- Enroll: https://hazwoper-osha.com/online-courses/dot-hazmat-function-specific-training-shipping-papers
+- Enroll (secure card checkout): https://dot-hazmat-shipping-papers.hazwoperosha.com/checkout
+- Course page on hazwoper-osha.com: https://hazwoper-osha.com/online-courses/dot-hazmat-function-specific-training-shipping-papers
 - Function Specific: Markings: https://hazwoper-osha.com/online-courses/dot-hazmat-function-specific-training-markings
 - Function Specific: Labeling: https://hazwoper-osha.com/online-courses/dot-hazmat-function-specific-training-labeling
 - Function Specific: Placarding: https://hazwoper-osha.com/online-courses/dot-hazmat-function-specific-training-placarding
